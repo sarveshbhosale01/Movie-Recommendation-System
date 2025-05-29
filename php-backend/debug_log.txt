@@ -1,0 +1,58 @@
+Received Data: Array
+(
+    [username] => Sarvesh Bhosale
+    [email] => bhosalesarvesh6@gmail.com
+    [checkedItems] => Array
+        (
+            [0] => Drama
+            [1] => Horror
+        )
+
+    [feedback] => daygasggs
+)
+
+Received Data: Array
+(
+    [username] => Sarvesh Bhosale
+    [email] => bhosalesarvesh6@gmail.com
+    [checkedItems] => Array
+        (
+            [0] => Drama
+            [1] => Horror
+        )
+
+    [feedback] => daygasggs
+)
+
+Received Data: Array
+(
+    [username] => Sarvesh Bhosale
+    [email] => bhosalesarvesh6@gmail.com
+    [checkedItems] => Array
+        (
+            [0] => Drama
+            [1] => Horror
+        )
+
+    [feedback] => cdgcgds
+)
+
+Received Data: Array
+(
+    [username] => Sarvesh Bhosale
+    [email] => bhosalesarvesh6@gmail.com
+    [checkedItems] => Array
+        (
+            [0] => Drama
+            [1] => Horror
+        )
+
+    [feedback] => cdgcgds
+)
+
+Received JSON: {"username":"Sarvesh Bhosale","email":"bhosalesarvesh6@gmail.com","checkedItems":["Drama","Horror"],"feedback":"cdgcgds"}
+Received JSON: {"username":"Sarvesh Bhosale","email":"bhosalesarvesh6@gmail.com","checkedItems":["Drama"],"feedback":"Sarvesh you are doing great !"}
+Received JSON: {"username":"Sarvesh Bhosale","email":"bhosalesarvesh6@gmail.com","genre":["Drama"],"feedback":"Sarvesh you are doing great !"}
+Received JSON: {"username":"Sarvesh Bhosale","email":"bhosalesarvesh6@gmail.com","genre":["Drama","Horror"],"suggestion":"Sarvesh you are doing great!\n"}
+Received JSON: {"username":"Sarvesh Bhosale","email":"bhosalesarvesh6@gmail.com","genre":["Drama","Horror"],"suggestion":"Sarvesh you are doing great!\n"}
+Received JSON: {"username":"Samarth","email":"samarthbhalerao6491@gmail.com","genre":["Drama","Horror"],"suggestion":"Sarvesh is the king!"}

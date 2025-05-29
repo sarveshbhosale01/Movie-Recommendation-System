@@ -1,0 +1,178 @@
+[ 
+        {
+          "id": 1,
+          "title": "The Haunting of Hill House",
+          "poster": "/WebSeriesPosters/WebSeriesS6/TheHauntingOfHillHouse.jpg",
+          "duration": "50m",
+          "language": "English",
+          "rating": 8.6,
+          "type": "ParanormalActivities",
+          "genre": "Horror, Drama, Mystery",
+          "summary": "Flashbacks reveal a family’s dark past as they confront their haunted house.",
+          "youtubeTrailer": "https://youtu.be/3eqxXqJDmcY?feature=shared"
+        },
+        {
+          "id": 2,
+          "title": "The Conjuring: The Series",
+          "poster": "/WebSeriesPosters/WebSeriesS6/TheConjuringSeries.jpg",
+          "duration": "45m",
+          "language": "English",
+          "rating": 7.8,
+          "type": "ParanormalActivities",
+          "genre": "Horror, Thriller, Supernatural",
+          "summary": "Paranormal investigators uncover sinister entities in haunted locations.",
+          "youtubeTrailer": "https://youtu.be/ejMMn0t58Lc?feature=shared"
+        },
+        {
+          "id": 3,
+          "title": "Marianne",
+          "poster": "/WebSeriesPosters/WebSeriesS6/Marianne.jpg",
+          "duration": "50m",
+          "language": "French",
+          "rating": 7.6,
+          "type": "ParanormalActivities",
+          "genre": "Horror, Supernatural",
+          "summary": "A famous horror writer is confronted by the terrifying character she created in her nightmares.",
+          "youtubeTrailer": "https://youtu.be/q99hib0zS2M?feature=shared"
+        },
+        {
+          "id": 4,
+          "title": "Penny Dreadful",
+          "poster": "/WebSeriesPosters/WebSeriesS6/PennyDreadful.jpg",
+          "duration": "1h",
+          "language": "English",
+          "rating": 8.2,
+          "type": "ParanormalActivities",
+          "genre": "Horror, Drama, Fantasy",
+          "summary": "The worlds of classic horror literature collide in Victorian London.",
+          "youtubeTrailer": "https://youtu.be/YFXHfEqMcis?feature=shared"
+        },
+        {
+          "id": 5,
+          "title": "The X-Files",
+          "poster": "/WebSeriesPosters/WebSeriesS6/TheXFiles.jpg",
+          "duration": "45m",
+          "language": "English",
+          "rating": 8.6,
+          "type": "ParanormalActivities",
+          "genre": "Horror, Mystery, Sci-Fi",
+          "summary": "FBI agents investigate unsolved paranormal cases, uncovering alien conspiracies.",
+          "youtubeTrailer": "https://youtu.be/KKziOmsJxzE?feature=shared"
+        },
+      
+      
+        {
+          "id": 1,
+          "title": "The Walking Dead",
+          "poster": "/WebSeriesPosters/WebSeriesS6/TheWalkingDead.jpg",
+          "duration": "42m",
+          "language": "English",
+          "rating": 8.2,
+          "type": "ZombieApocalypses",
+          "genre": "Drama, Horror, Thriller",
+          "summary": "Survivors of a zombie apocalypse struggle to stay alive and form communities.",
+          "youtubeTrailer": "https://youtu.be/sfAc2U20uyg?feature=shared"
+        },
+
+        {
+          "id": 3,
+          "title": "Kingdom",
+          "poster": "/WebSeriesPosters/WebSeriesS6/Kingdom.jpg",
+          "duration": "1h",
+          "language": "Korean",
+          "rating": 8.4,
+          "type": "ZombieApocalypses",
+          "genre": "Horror, Drama, History",
+          "summary": "A prince must uncover the truth behind a mysterious plague turning people into zombies in ancient Korea.",
+          "youtubeTrailer": "https://youtu.be/4l-yByZpaaM?feature=shared"
+        },
+        {
+          "id": 4,
+          "title": "Black Summer",
+          "poster": "/WebSeriesPosters/WebSeriesS6/BlackSummer.jpg",
+          "duration": "40m",
+          "language": "English",
+          "rating": 6.8,
+          "type": "ZombieApocalypses",
+          "genre": "Horror, Thriller, Action",
+          "summary": "A mother searches for her daughter as a zombie apocalypse breaks out.",
+          "youtubeTrailer": "https://youtu.be/tQA1omPJN24?feature=shared"
+        },
+        {
+          "id": 5,
+          "title": "Daybreak",
+          "poster": "/WebSeriesPosters/WebSeriesS6/Daybreak.jpg",
+          "duration": "42m",
+          "language": "English",
+          "rating": 6.7,
+          "type": "ZombieApocalypses",
+          "genre": "Action, Adventure, Comedy",
+          "summary": "A group of high school students survive in a post-apocalyptic world overrun by zombies.",
+          "youtubeTrailer": "https://youtu.be/ba4W51UfBUs?feature=shared"
+        },
+      
+     
+        {
+          "id": 1,
+          "title": "Crimson Peak",
+          "poster": "/WebSeriesPosters/WebSeriesS6/CrimsonPeak.jpg",
+          "duration": "1h 59m",
+          "language": "English",
+          "rating": 6.5,
+          "type": "GothicHorror",
+          "genre": "Horror, Drama, Mystery",
+          "summary": "A young woman uncovers dark secrets in an eerie mansion in the English countryside.",
+          "youtubeTrailer": "https://youtu.be/oquZifON8Eg?feature=shared"
+        },
+        {
+          "id": 2,
+          "title": "The Others",
+          "poster": "/WebSeriesPosters/WebSeriesS6/TheOthers.jpg",
+          "duration": "1h 44m",
+          "language": "English",
+          "rating": 7.6,
+          "type": "GothicHorror",
+          "genre": "Horror, Mystery, Thriller",
+          "summary": "A woman and her two children live in a dark, haunted mansion where they begin to experience strange occurrences.",
+          "youtubeTrailer": "https://youtu.be/C7pKqaPtMiA?feature=shared"
+        },
+        {
+          "id": 3,
+          "title": "Penny Dreadful",
+          "poster": "/WebSeriesPosters/WebSeriesS6/PennyDreadful.jpg",
+          "duration": "1h",
+          "language": "English",
+          "rating": 8.2,
+          "type": "GothicHorror",
+          "genre": "Horror, Drama, Fantasy",
+          "summary": "The worlds of classic horror literature collide in Victorian London.",
+          "youtubeTrailer": "https://youtu.be/YFXHfEqMcis?feature=shared"
+        },
+        {
+          "id": 4,
+          "title": "The Witch",
+          "poster": "/WebSeriesPosters/WebSeriesS6/TheWitch.jpg",
+          "duration": "1h 30m",
+          "language": "English",
+          "rating": 6.9,
+          "type": "GothicHorror",
+          "genre": "Horror, Drama, Mystery",
+          "summary": "A Puritan family in 1630s New England becomes torn apart by suspicion, paranoia, and the supernatural.",
+          "youtubeTrailer": "https://youtu.be/iQXmlf3Sefg?feature=shared"
+        },
+        {
+          "id": 5,
+          "title": "Sleepy Hollow",
+          "poster": "/WebSeriesPosters/WebSeriesS6/SleepyHollow.jpg",
+          "duration": "42m",
+          "language": "English",
+          "rating": 7.3,
+          "type": "GothicHorror",
+          "genre": "Horror, Mystery, Thriller",
+          "summary": "A modern-day sheriff teams up with a resurrected Ichabod Crane to investigate supernatural events in Sleepy Hollow.",
+          "youtubeTrailer": "https://youtu.be/6RsKwn_Je1k?feature=shared"
+        }
+      
+    
+]
+  

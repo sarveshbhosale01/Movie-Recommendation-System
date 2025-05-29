@@ -1,0 +1,442 @@
+[
+    {
+        "poster": "ActorMoviePosters/LeonardoDiCaprio/Inception.jpg",
+        "actor": "LeonardoDiCaprio",
+        "name": "Inception",
+        "summary": "A skilled thief, who enters people's dreams to steal their secrets, is given a chance to have his past crimes erased if he can plant an idea into someone's mind.",
+        "language": "English",
+        "genre": ["Sci-Fi", "Thriller", "Action"]
+      },
+      {
+        "poster": "ActorMoviePosters/LeonardoDiCaprio/Titanic.jpg",
+        "actor": "LeonardoDiCaprio",
+        "name": "Titanic",
+        "summary": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+        "language": "English",
+        "genre": ["Romance", "Drama"]
+      },
+      {
+        "poster": "ActorMoviePosters/LeonardoDiCaprio/TheWolfofWallStreet.jpg",
+        "actor": "LeonardoDiCaprio",
+        "name": "The Wolf of Wall Street",
+        "summary": "Based on the true story of Jordan Belfort, this film follows his rise and fall in the world of stock market fraud and excess.",
+        "language": "English",
+        "genre": ["Biography", "Crime", "Comedy"]
+      },
+      {
+        "poster": "ActorMoviePosters/LeonardoDiCaprio/The Revenant.jpg",
+        "actor": "LeonardoDiCaprio",
+        "name": "The Revenant",
+        "summary": "A frontiersman on a fur trading expedition fights for survival after being mauled by a bear and left for dead by his companions.",
+        "language": "English",
+        "genre": ["Adventure", "Drama", "Thriller"]
+      },
+      {
+        "poster": "ActorMoviePosters/LeonardoDiCaprio/Shutter Island.jpg",
+        "actor": "LeonardoDiCaprio",
+        "name": "Shutter Island",
+        "summary": "A U.S. Marshal investigates the disappearance of a prisoner from a psychiatric facility, uncovering dark secrets along the way.",
+        "language": "English",
+        "genre": ["Mystery", "Thriller", "Drama"]
+      },
+      {
+        "poster": "ActorMoviePosters/JohnnyDepp/PiratesOfTheCaribbean.jpg",
+        "actor": "JohnnyDepp",
+        "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "summary": "A swashbuckling adventure where Captain Jack Sparrow teams up with a blacksmith to rescue the governor's kidnapped daughter from cursed pirates.",
+        "language": "English",
+        "genre": ["Adventure", "Fantasy", "Action"]
+    },
+    {
+        "poster": "ActorMoviePosters/JohnnyDepp/EdwardScissorhands.jpg",
+        "actor": "JohnnyDepp",
+        "name": "Edward Scissorhands",
+        "summary": "A gentle artificial man with scissors for hands is taken in by a kind woman and struggles to find his place in a suburban town.",
+        "language": "English",
+        "genre": ["Fantasy", "Romance", "Drama"]
+    },
+    {
+        "poster": "ActorMoviePosters/JohnnyDepp/SweeneyTodd.jpg",
+        "actor": "JohnnyDepp",
+        "name": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "summary": "A vengeful barber returns to London seeking retribution, using his razor to exact his deadly plan while partnering with a pie shop owner.",
+        "language": "English",
+        "genre": ["Horror", "Musical", "Drama"]
+    },
+    {
+        "poster": "ActorMoviePosters/JohnnyDepp/CharlieAndTheChocolateFactory.jpg",
+        "actor": "JohnnyDepp",
+        "name": "Charlie and the Chocolate Factory",
+        "summary": "A reclusive chocolate factory owner opens his doors to five lucky children, leading to a whimsical and eye-opening adventure.",
+        "language": "English",
+        "genre": ["Fantasy", "Comedy", "Family"]
+    },
+    {
+        "poster": "ActorMoviePosters/JohnnyDepp/FantasticBeasts.jpg",
+        "actor": "JohnnyDepp",
+        "name": "Fantastic Beasts: The Crimes of Grindelwald",
+        "summary": "Dark wizard Grindelwald gathers followers for his cause while a young wizard and his allies try to stop his rise to power.",
+        "language": "English",
+        "genre": ["Fantasy", "Adventure", "Drama"]
+    },
+    {
+        "poster": "ActorMoviePosters/BradPitt/FightClub.jpg",
+        "actor": "BradPitt",
+        "name": "Fight Club",
+        "summary": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into something much more.",
+        "language": "English",
+        "genre": ["Drama", "Thriller"]
+    },
+    {
+        "poster": "ActorMoviePosters/BradPitt/Se7en.jpg",
+        "actor": "BradPitt",
+        "name": "Se7en",
+        "summary": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+        "language": "English",
+        "genre": ["Crime", "Drama", "Mystery"]
+    },
+    {
+        "poster": "ActorMoviePosters/BradPitt/InglouriousBasterds.jpg",
+        "actor": "BradPitt",
+        "name": "Inglourious Basterds",
+        "summary": "In Nazi-occupied France, a group of Jewish soldiers plan an attack on the top Nazi leaders while a woman seeks revenge for her family's murder.",
+        "language": "English",
+        "genre": ["Adventure", "Drama", "War"]
+    },
+    {
+        "poster": "ActorMoviePosters/BradPitt/TheCuriousCaseOfBenjaminButton.jpg",
+        "actor": "BradPitt",
+        "name": "The Curious Case of Benjamin Button",
+        "summary": "A man is born in his eighties and ages backward, leading to a unique life journey filled with love and loss.",
+        "language": "English",
+        "genre": ["Drama", "Fantasy", "Romance"]
+    },
+    {
+        "poster": "ActorMoviePosters/BradPitt/OnceUponATimeInHollywood.jpg",
+        "actor": "BradPitt",
+        "name": "Once Upon a Time in Hollywood",
+        "summary": "A faded television actor and his stunt double strive to achieve fame and success in the final years of Hollywood’s Golden Age.",
+        "language": "English",
+        "genre": ["Comedy", "Drama"]
+    },
+    {
+        "poster": "ActorMoviePosters/TomCruise/TopGunMaverick.jpg",
+        "actor": "TomCruise",
+        "name": "Top Gun: Maverick",
+        "summary": "After more than 30 years of service, Maverick is still pushing the limits as a top Navy aviator, facing the ghosts of his past while training a new generation of pilots.",
+        "language": "English",
+        "genre": ["Action", "Drama"]
+      },
+      {
+        "poster": "ActorMoviePosters/TomCruise/MissionImpossibleFallout.jpg",
+        "actor": "TomCruise",
+        "name": "Mission: Impossible – Fallout",
+        "summary": "Ethan Hunt and his IMF team race against time to prevent a global catastrophe after a mission goes wrong.",
+        "language": "English",
+        "genre": ["Action", "Thriller", "Adventure"]
+      },
+      {
+        "poster": "ActorMoviePosters/TomCruise/EdgeOfTomorrow.jpg",
+        "actor": "TomCruise",
+        "name": "Edge of Tomorrow",
+        "summary": "A soldier caught in a time loop must use his repeated deaths to learn how to defeat an alien invasion.",
+        "language": "English",
+        "genre": ["Sci-Fi", "Action", "Adventure"]
+      },
+      {
+        "poster": "ActorMoviePosters/TomCruise/JerryMaguire.jpg",
+        "actor": "TomCruise",
+        "name": "Jerry Maguire",
+        "summary": "A successful sports agent has a crisis of conscience and starts his own agency, discovering the true meaning of loyalty and love.",
+        "language": "English",
+        "genre": ["Drama", "Romance", "Comedy"]
+      },
+      {
+        "poster": "ActorMoviePosters/TomCruise/TheLastSamurai.jpg",
+        "actor": "TomCruise",
+        "name": "The Last Samurai",
+        "summary": "An American soldier in Japan finds himself drawn into the way of the samurai and struggles with his allegiance as war looms.",
+        "language": "English",
+        "genre": ["Action", "Drama", "War"]
+      },
+      {
+        "poster": "ActorMoviePosters/ArnoldSchwarzenegger/Terminator2JudgmentDay.jpg",
+        "actor": "ArnoldSchwarzenegger",
+        "name": "Terminator 2: Judgment Day",
+        "summary": "A reprogrammed Terminator is sent back in time to protect a young boy, the key to humanity’s survival, from a more advanced and deadly machine.",
+        "language": "English",
+        "genre": ["Action", "Sci-Fi", "Thriller"]
+      },
+      {
+        "poster": "ActorMoviePosters/ArnoldSchwarzenegger/Predator.jpg",
+        "actor": "ArnoldSchwarzenegger",
+        "name": "Predator",
+        "summary": "An elite military team is hunted by an alien warrior in the jungle, forcing them into a deadly battle for survival.",
+        "language": "English",
+        "genre": ["Action", "Sci-Fi", "Thriller"]
+      },
+      {
+        "poster": "ActorMoviePosters/ArnoldSchwarzenegger/TotalRecall.jpg",
+        "actor": "ArnoldSchwarzenegger",
+        "name": "Total Recall",
+        "summary": "A man discovers his memories may not be real and embarks on a journey to Mars to uncover the truth about his identity.",
+        "language": "English",
+        "genre": ["Sci-Fi", "Action", "Thriller"]
+      },
+      {
+        "poster": "ActorMoviePosters/ArnoldSchwarzenegger/Commando.jpg",
+        "actor": "ArnoldSchwarzenegger",
+        "name": "Commando",
+        "summary": "A retired elite Black Ops Commando must rescue his kidnapped daughter from mercenaries before time runs out.",
+        "language": "English",
+        "genre": ["Action", "Thriller", "Adventure"]
+      },
+      {
+        "poster": "ActorMoviePosters/ArnoldSchwarzenegger/TrueLies.jpg",
+        "actor": "ArnoldSchwarzenegger",
+        "name": "True Lies",
+        "summary": "A secret agent struggles to balance his work and personal life while uncovering a terrorist plot.",
+        "language": "English",
+        "genre": ["Action", "Comedy", "Thriller"]
+      },
+      {
+        "poster": "ActorMoviePosters/ChristianBale/TheDarkKnight.jpg",
+        "actor": "ChristianBale",
+        "name": "The Dark Knight",
+        "summary": "Batman faces his greatest challenge as the Joker wreaks havoc on Gotham, pushing him to the edge in a battle of chaos versus justice.",
+        "language": "English",
+        "genre": ["Action", "Crime", "Drama"]
+    },
+    {
+        "poster": "ActorMoviePosters/ChristianBale/AmericanPsycho.jpg",
+        "actor": "ChristianBale",
+        "name": "American Psycho",
+        "summary": "A wealthy New York investment banker hides his psychopathic ego beneath a polished exterior, leading to a descent into madness.",
+        "language": "English",
+        "genre": ["Thriller", "Crime", "Drama"]
+    },
+    {
+        "poster": "ActorMoviePosters/ChristianBale/FordVFerrari.jpg",
+        "actor": "ChristianBale",
+        "name": "Ford v Ferrari",
+        "summary": "A determined car designer and a fearless driver team up to challenge Ferrari at the 1966 Le Mans race.",
+        "language": "English",
+        "genre": ["Biography", "Drama", "Sport"]
+    },
+    {
+        "poster": "ActorMoviePosters/ChristianBale/ThePrestige.jpg",
+        "actor": "ChristianBale",
+        "name": "The Prestige",
+        "summary": "Two rival magicians engage in a battle of wits, obsession, and deception as they seek the ultimate illusion.",
+        "language": "English",
+        "genre": ["Mystery", "Thriller", "Drama"]
+    },
+    {
+        "poster": "ActorMoviePosters/ChristianBale/TheMachinist.jpg",
+        "actor": "ChristianBale",
+        "name": "The Machinist",
+        "summary": "A factory worker suffering from extreme insomnia and paranoia unravels a disturbing mystery about his life.",
+        "language": "English",
+        "genre": ["Thriller", "Drama", "Mystery"]
+    },
+    {
+        "poster": "ActorMoviePosters/MorganFreeman/TheShawshankRedemption.jpg",
+        "actor": "MorganFreeman",
+        "name": "The Shawshank Redemption",
+        "summary": "Two imprisoned men bond over several years, finding solace and eventual redemption through acts of common decency.",
+        "language": "English",
+        "genre": ["Drama"]
+    },
+    {
+        "poster": "ActorMoviePosters/MorganFreeman/Se7en.jpg",
+        "actor": "MorganFreeman",
+        "name": "Se7en",
+        "summary": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+        "language": "English",
+        "genre": ["Crime", "Drama", "Mystery"]
+    },
+    {
+        "poster": "ActorMoviePosters/MorganFreeman/BruceAlmighty.jpg",
+        "actor": "MorganFreeman",
+        "name": "Bruce Almighty",
+        "summary": "A frustrated reporter is given divine powers by God to see if he can do a better job at running the world.",
+        "language": "English",
+        "genre": ["Comedy", "Fantasy"]
+    },
+    {
+        "poster": "ActorMoviePosters/MorganFreeman/TheDarkKnight.jpg",
+        "actor": "MorganFreeman",
+        "name": "The Dark Knight",
+        "summary": "Batman faces his greatest psychological and physical challenge yet when he squares off against the Joker in Gotham City.",
+        "language": "English",
+        "genre": ["Action", "Crime", "Drama"]
+    },
+    {
+        "poster": "ActorMoviePosters/MorganFreeman/NowYouSeeMe.jpg",
+        "actor": "MorganFreeman",
+        "name": "Now You See Me",
+        "summary": "An FBI agent and an Interpol detective track a team of illusionists who pull off bank heists during their performances and reward their audiences with the money.",
+        "language": "English",
+        "genre": ["Crime", "Mystery", "Thriller"]
+    },
+    {
+        "poster": "ActorMoviePosters/KeanuReeves/JohnWick.jpg",
+        "actor": "KeanuReeves",
+        "name": "John Wick",
+        "summary": "A retired hitman seeks vengeance against those who killed his beloved dog, a final gift from his late wife.",
+        "language": "English",
+        "genre": ["Action", "Thriller", "Crime"]
+      },
+      {
+        "poster": "ActorMoviePosters/KeanuReeves/TheMatrix.jpg",
+        "actor": "KeanuReeves",
+        "name": "The Matrix",
+        "summary": "A computer hacker discovers the shocking truth about his reality and his role in the war against its controllers.",
+        "language": "English",
+        "genre": ["Sci-Fi", "Action"]
+      },
+      {
+        "poster": "ActorMoviePosters/KeanuReeves/Speed.jpg",
+        "actor": "KeanuReeves",
+        "name": "Speed",
+        "summary": "A young cop must prevent a bomb from exploding on a city bus by keeping its speed above 50 mph.",
+        "language": "English",
+        "genre": ["Action", "Thriller"]
+      },
+      {
+        "poster": "ActorMoviePosters/KeanuReeves/Constantine.jpg",
+        "actor": "KeanuReeves",
+        "name": "Constantine",
+        "summary": "A cynical occult detective battles demons and uncovers a plot that could bring Hell to Earth.",
+        "language": "English",
+        "genre": ["Fantasy", "Horror", "Action"]
+      },
+      {
+        "poster": "ActorMoviePosters/KeanuReeves/TheDevilsAdvocate.jpg",
+        "actor": "KeanuReeves",
+        "name": "The Devil's Advocate",
+        "summary": "A rising lawyer joins a prestigious firm, only to discover his boss may be the Devil himself.",
+        "language": "English",
+        "genre": ["Thriller", "Drama", "Mystery"]
+      },
+      {
+        "poster": "ActorMoviePosters/TomHanks/ForrestGump.jpg",
+        "actor": "TomHanks",
+        "name": "Forrest Gump",
+        "summary": "A kind-hearted man with a low IQ inadvertently influences historical events while pursuing his lifelong love.",
+        "language": "English",
+        "genre": ["Drama", "Romance"]
+      },
+      {
+        "poster": "ActorMoviePosters/TomHanks/SavingPrivateRyan.jpg",
+        "actor": "TomHanks",
+        "name": "Saving Private Ryan",
+        "summary": "A group of U.S. soldiers is sent on a dangerous mission to rescue a paratrooper whose brothers have been killed in action.",
+        "language": "English",
+        "genre": ["War", "Drama", "Action"]
+      },
+      {
+        "poster": "ActorMoviePosters/TomHanks/CastAway.jpg",
+        "actor": "TomHanks",
+        "name": "Cast Away",
+        "summary": "A FedEx executive must learn to survive alone on a deserted island after his plane crashes in the Pacific.",
+        "language": "English",
+        "genre": ["Drama", "Adventure"]
+      },
+      {
+        "poster": "ActorMoviePosters/TomHanks/TheGreenMile.jpg",
+        "actor": "TomHanks",
+        "name": "The Green Mile",
+        "summary": "A prison guard discovers that a death row inmate possesses a mysterious healing power, challenging his beliefs about justice.",
+        "language": "English",
+        "genre": ["Drama", "Fantasy", "Crime"]
+      },
+      {
+        "poster": "ActorMoviePosters/TomHanks/CaptainPhillips.jpg",
+        "actor": "TomHanks",
+        "name": "Captain Phillips",
+        "summary": "The true story of a cargo ship captain who is taken hostage by Somali pirates and must navigate a tense standoff.",
+        "language": "English",
+        "genre": ["Thriller", "Drama", "Biography"]
+      },
+      {
+        "poster": "ActorMoviePosters/WillSmith/ThePursuitOfHappyness.jpg",
+        "actor": "WillSmith",
+        "name": "The Pursuit of Happyness",
+        "summary": "A struggling salesman fights against all odds to provide a better life for his son, embarking on a journey of resilience and hope.",
+        "language": "English",
+        "genre": ["Biography", "Drama"]
+    },
+    {
+        "poster": "ActorMoviePosters/WillSmith/IAmLegend.jpg",
+        "actor": "WillSmith",
+        "name": "I Am Legend",
+        "summary": "A lone scientist in a post-apocalyptic world battles against mutated creatures while searching for a cure to save humanity.",
+        "language": "English",
+        "genre": ["Sci-Fi", "Action", "Drama"]
+    },
+    {
+        "poster": "ActorMoviePosters/WillSmith/MenInBlack.jpg",
+        "actor": "WillSmith",
+        "name": "Men in Black",
+        "summary": "A secret government agency monitors extraterrestrial activity on Earth, with two agents working to keep the world safe from alien threats.",
+        "language": "English",
+        "genre": ["Sci-Fi", "Comedy", "Action"]
+    },
+    {
+        "poster": "ActorMoviePosters/WillSmith/IndependenceDay.jpg",
+        "actor": "WillSmith",
+        "name": "Independence Day",
+        "summary": "As aliens launch a massive invasion on Earth, a group of brave individuals, including a fighter pilot, rise to defend humanity.",
+        "language": "English",
+        "genre": ["Sci-Fi", "Action", "Adventure"]
+    },
+    {
+        "poster": "ActorMoviePosters/WillSmith/KingRichard.jpg",
+        "actor": "WillSmith",
+        "name": "King Richard",
+        "summary": "A determined father trains his daughters, Venus and Serena Williams, shaping them into two of the greatest tennis players in history.",
+        "language": "English",
+        "genre": ["Biography", "Drama", "Sport"]
+    },
+    {
+        "poster": "ActorMoviePosters/MattDamon/GoodWillHunting.jpg",
+        "actor": "MattDamon",
+        "name": "Good Will Hunting",
+        "summary": "A janitor at MIT has a gift for mathematics but needs help from a psychologist to find direction in his life.",
+        "language": "English",
+        "genre": ["Drama"]
+    },
+    {
+        "poster": "ActorMoviePosters/MattDamon/TheMartian.jpg",
+        "actor": "MattDamon",
+        "name": "The Martian",
+        "summary": "An astronaut becomes stranded on Mars and must rely on his ingenuity to survive while NASA works to bring him home.",
+        "language": "English",
+        "genre": ["Adventure", "Drama", "Sci-Fi"]
+    },
+    {
+        "poster": "ActorMoviePosters/MattDamon/TheBourneIdentity.jpg",
+        "actor": "MattDamon",
+        "name": "The Bourne Identity",
+        "summary": "A man suffering from amnesia must discover his identity while evading assassins and uncovering a covert conspiracy.",
+        "language": "English",
+        "genre": ["Action", "Mystery", "Thriller"]
+    },
+    {
+        "poster": "ActorMoviePosters/MattDamon/Interstellar.jpg",
+        "actor": "MattDamon",
+        "name": "Interstellar",
+        "summary": "A team of explorers travels through a wormhole in space to find a new habitable planet for humanity’s survival.",
+        "language": "English",
+        "genre": ["Adventure", "Drama", "Sci-Fi"]
+    },
+    {
+        "poster": "ActorMoviePosters/MattDamon/SavingPrivateRyan.jpg",
+        "actor": "MattDamon",
+        "name": "Saving Private Ryan",
+        "summary": "During World War II, a group of U.S. soldiers embarks on a mission to find and bring home a paratrooper whose brothers have been killed in combat.",
+        "language": "English",
+        "genre": ["Drama", "War"]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "image" : "/ActorPhotos/Hollywood/LeonardoDiCaprio.jpg",
+        "name" : "LeonardoDiCaprio"
+    },
+    {
+        "image" : "/ActorPhotos/Hollywood/JohnnyDepp.jpg",
+        "name" : "JohnnyDepp"
+    },
+    {
+        "image" : "/ActorPhotos/Hollywood/BradPitt.jpg",
+        "name" : "BradPitt"
+    },
+    {
+        "image" : "/ActorPhotos/Hollywood/TomCruise.jpg",
+        "name" : "TomCruise"
+    },
+    {
+        "image" : "/ActorPhotos/Hollywood/ArnoldSchwarzenegger.jpg",
+        "name" : "ArnoldSchwarzenegger"
+    },
+    {
+        "image" : "/ActorPhotos/Hollywood/ChristianBale.jpg",
+        "name" : "ChristianBale"
+    },
+    {
+        "image" : "/ActorPhotos/Hollywood/MorganFreeman.jpg",
+        "name" : "MorganFreeman"
+    },
+    {
+        "image" : "/ActorPhotos/Hollywood/KeanuReeves.jpg",
+        "name" : "KeanuReeves"
+    },
+    {
+        "image" : "/ActorPhotos/Hollywood/TomHanks.jpg",
+        "name" : "TomHanks"
+    },
+    {
+        "image" : "/ActorPhotos/Hollywood/WillSmith.jpg",
+        "name" : "WillSmith"
+    },
+    {
+        "image" : "/ActorPhotos/Hollywood/MattDamon.jpg",
+        "name" : "MattDamon"
+    }
+
+]

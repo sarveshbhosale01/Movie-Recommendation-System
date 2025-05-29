@@ -1,0 +1,114 @@
+[
+    {
+      "id": 7,
+      "title": "Bleach",
+      "poster": "/AnimeSectionPosters/AnimeS2/Bleach.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.2,
+      "genre": "Action, Adventure, Supernatural",
+      "summary": "Ichigo Kurosaki, a high school student with the ability to see spirits, becomes a Soul Reaper and battles evil spirits known as Hollows.",
+      "youtubeTrailer": "https://youtu.be/KPL8K8Rfyxc?feature=shared"
+    },
+    {
+      "id": 8,
+      "title": "Fairy Tail",
+      "poster": "/AnimeSectionPosters/AnimeS2/FairyTail.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 7.9,
+      "genre": "Action, Adventure, Fantasy",
+      "summary": "Lucy Heartfilia teams up with Natsu Dragneel and other members of the Fairy Tail guild on magical adventures.",
+      "youtubeTrailer": "https://youtu.be/4KSN7mxhiYE?feature=shared"
+    },
+    {
+      "id": 9,
+      "title": "Jujutsu Kaisen",
+      "poster": "/AnimeSectionPosters/AnimeS2/JujutsuKaisen.jpg",
+      "duration": "23 min/episode",
+      "language": "Japanese",
+      "rating": 8.6,
+      "genre": "Action, Supernatural, Dark Fantasy",
+      "summary": "A high school student swallows a cursed object and gains the ability to control its immense power, leading to battles against powerful curses.",
+      "youtubeTrailer": "https://youtu.be/pkKu9hLT-t8?feature=shared"
+    },
+    {
+      "id": 10,
+      "title": "Black Clover",
+      "poster": "/AnimeSectionPosters/AnimeS2/BlackClover.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.1,
+      "genre": "Action, Adventure, Fantasy",
+      "summary": "In a world of magic, Asta, a boy born without any magical power, strives to become the Wizard King.",
+      "youtubeTrailer": "https://youtu.be/QwNWY6z93O4?feature=shared"
+    },
+    {
+      "id": 12,
+      "title": "Tokyo Revengers",
+      "poster": "/AnimeSectionPosters/AnimeS2/TokyoRevengers.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.3,
+      "genre": "Action, Drama, Time Travel",
+      "summary": "A young man gets a chance to travel back in time and save his former girlfriend by altering his life’s choices.",
+      "youtubeTrailer": "https://youtu.be/Pj1yIQYqzKM?feature=shared"
+    },
+    {
+      "id": 13,
+      "title": "Blue Lock",
+      "poster": "/AnimeSectionPosters/AnimeS2/BlueLock.jpg",
+      "duration": "23 min/episode",
+      "language": "Japanese",
+      "rating": 8.5,
+      "genre": "Sports, Drama, Shōnen",
+      "summary": "A soccer player joins a radical training program designed to produce the world’s most aggressive and ego-driven striker.",
+      "youtubeTrailer": "https://youtu.be/IVsII3dLbWc?feature=shared"
+    },
+    {
+      "id": 14,
+      "title": "Dr. Stone",
+      "poster": "/AnimeSectionPosters/AnimeS2/DrStone.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.2,
+      "genre": "Adventure, Sci-Fi, Post-Apocalyptic",
+      "summary": "In a world where humanity has been petrified for thousands of years, a genius scientist aims to rebuild civilization with science.",
+      "youtubeTrailer": "https://youtu.be/S6OmSIxSj14?feature=shared"
+    },
+    {
+      "id": 15,
+      "title": "Fire Force",
+      "poster": "/AnimeSectionPosters/AnimeS2/FireForce.jpg",
+      "duration": "23 min/episode",
+      "language": "Japanese",
+      "rating": 7.7,
+      "genre": "Action, Supernatural, Fantasy",
+      "summary": "In a world where people spontaneously combust into destructive entities, a special fire brigade fights to protect humanity.",
+      "youtubeTrailer": "https://youtu.be/MkzFKJjNnvM?feature=shared"
+    },
+    {
+      "id": 16,
+      "title": "The Seven Deadly Sins",
+      "poster": "/AnimeSectionPosters/AnimeS2/TheSevenDeadlySins.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 7.9,
+      "genre": "Action, Adventure, Fantasy",
+      "summary": "A princess seeks out a group of legendary knights, the Seven Deadly Sins, to save her kingdom from corruption.",
+      "youtubeTrailer": "https://youtu.be/wxcvbL6o55M?feature=shared"
+    },
+    {
+      "id": 17,
+      "title": "Soul Eater",
+      "poster": "/AnimeSectionPosters/AnimeS2/SoulEater.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 7.8,
+      "genre": "Action, Comedy, Supernatural",
+      "summary": "Students at a school for weapon wielders and their human weapons battle evil to collect the souls of evil beings.",
+      "youtubeTrailer": "https://youtu.be/wxcvbL6o55M?feature=shared"
+    }
+    
+  ]
+  

@@ -1,0 +1,185 @@
+[
+    {
+      "id": 1,
+      "title": "The Crown",
+      "poster": "/WebSeriesPosters/WebSeriesS8/TheCrown.jpg",
+      "duration": "58min",
+      "language": "English",
+      "rating": 8.7,
+      "type": "Historical & Period Pieces",
+      "genre": "Historical, Drama, Biography",
+      "summary": "The political and personal events of Queen Elizabeth II's reign, from her early years on the throne to the present day.",
+      "youtubeTrailer": "https://youtu.be/JWtnJjn6ng0?feature=shared"
+    },
+    {
+      "id": 2,
+      "title": "Chernobyl",
+      "poster": "/WebSeriesPosters/WebSeriesS8/Chernobyl.jpg",
+      "duration": "60min",
+      "language": "English",
+      "rating": 9.4,
+      "type": "Historical & Period Pieces",
+      "genre": "Historical, Drama, Thriller",
+      "summary": "The story of the Chernobyl nuclear disaster and the efforts of the people who tried to mitigate its devastating effects.",
+      "youtubeTrailer": "https://youtu.be/s9APLXM9Ei8?feature=shared"
+    },
+    {
+      "id": 3,
+      "title": "Downton Abbey",
+      "poster": "/WebSeriesPosters/WebSeriesS8/DowntonAbbey.jpg",
+      "duration": "60min",
+      "language": "English",
+      "rating": 8.7,
+      "type": "Historical & Period Pieces",
+      "genre": "Historical, Drama, Romance",
+      "summary": "The lives of the aristocratic Crawley family and their servants in the early 20th century, exploring societal changes and personal drama.",
+      "youtubeTrailer": "https://youtu.be/fMkiSqBraD0?feature=shared"
+    },
+    {
+      "id": 4,
+      "title": "Vikings",
+      "poster": "/WebSeriesPosters/WebSeriesS8/Vikings.jpg",
+      "duration": "45min",
+      "language": "English",
+      "rating": 8.5,
+      "type": "Historical & Period Pieces",
+      "genre": "Action, Adventure, Drama",
+      "summary": "The legendary Norse hero Ragnar Lothbrok rises to power through a mix of adventure, conquest, and familial conflict.",
+      "youtubeTrailer": "https://youtu.be/9GgxinPwAGc?feature=shared"
+    },
+    {
+      "id": 5,
+      "title": "The Tudors",
+      "poster": "/WebSeriesPosters/WebSeriesS8/TheTudors.jpg",
+      "duration": "60min",
+      "language": "English",
+      "rating": 8.1,
+      "type": "Historical & Period Pieces",
+      "genre": "Historical, Drama, Romance",
+      "summary": "The dramatic and tumultuous reign of King Henry VIII, focusing on his marriages and the political upheavals of his court.",
+      "youtubeTrailer": "https://youtu.be/WXNf9dxnQrM?feature=shared"
+    },
+  
+    {
+      "id": 6,
+      "title": "12 Years a Slave",
+      "poster": "/WebSeriesPosters/WebSeriesS8/12YearsASlave.jpg",
+      "duration": "2h 14min",
+      "language": "English",
+      "rating": 8.1,
+      "type": "Based on Real Historical Events",
+      "genre": "Drama, History",
+      "summary": "Based on the true story of Solomon Northup, a free black man who was kidnapped and sold into slavery, facing years of hardship.",
+      "youtubeTrailer": "https://youtu.be/z02Ie8wKKRg?feature=shared"
+    },
+    {
+      "id": 7,
+      "title": "The Last Kingdom",
+      "poster": "/WebSeriesPosters/WebSeriesS8/TheLastKingdom.jpg",
+      "duration": "60min",
+      "language": "English",
+      "rating": 8.4,
+      "type": "Based on Real Historical Events",
+      "genre": "Historical, Drama, Action",
+      "summary": "In 9th-century England, a Saxon nobleman is torn between loyalty to his family and his Viking heritage.",
+      "youtubeTrailer": "https://youtu.be/WxPApTGWwas?feature=shared"
+    },
+    {
+      "id": 8,
+      "title": "Band of Brothers",
+      "poster": "/WebSeriesPosters/WebSeriesS8/BandOfBrothers.jpg",
+      "duration": "1h",
+      "language": "English",
+      "rating": 9.4,
+      "type": "Based on Real Historical Events",
+      "genre": "War, Drama, History",
+      "summary": "A World War II miniseries that follows Easy Company, a unit of the 506th Parachute Infantry Regiment of the 101st Airborne Division.",
+      "youtubeTrailer": "https://youtu.be/KKRBAFlN5ww?feature=shared"
+    },
+    {
+      "id": 9,
+      "title": "Lincoln",
+      "poster": "/WebSeriesPosters/WebSeriesS8/Lincoln.jpg",
+      "duration": "2h 30min",
+      "language": "English",
+      "rating": 7.3,
+      "type": "Based on Real Historical Events",
+      "genre": "Drama, History, Biography",
+      "summary": "A portrayal of Abraham Lincoln’s life during his final months in office and his efforts to end the Civil War and abolish slavery.",
+      "youtubeTrailer": "https://youtu.be/KJVuqYkI2jQ?feature=shared"
+    },
+    {
+      "id": 10,
+      "title": "The People v. O. J. Simpson: American Crime Story",
+      "poster": "/WebSeriesPosters/WebSeriesS8/ThePeoplevOJ.jpg",
+      "duration": "60min",
+      "language": "English",
+      "rating": 8.6,
+      "type": "Based on Real Historical Events",
+      "genre": "Crime, Drama, Biography",
+      "summary": "The story of the infamous O.J. Simpson trial, exploring the events and the media frenzy that surrounded the case.",
+      "youtubeTrailer": "https://youtu.be/hE7ACzqpN_8?feature=shared"
+    },
+  
+    {
+      "id": 11,
+      "title": "Outlander",
+      "poster": "/WebSeriesPosters/WebSeriesS8/Outlander.jpg",
+      "duration": "60min",
+      "language": "English",
+      "rating": 8.4,
+      "type": "Period Dramas with Fictional Elements",
+      "genre": "Fantasy, Drama, Romance",
+      "summary": "A World War II nurse is mysteriously transported back in time to 18th-century Scotland, where she becomes entangled in historical events and romance.",
+      "youtubeTrailer": "https://youtu.be/PFFKjptRr7Y?feature=shared"
+    },
+    {
+      "id": 12,
+      "title": "Poldark",
+      "poster": "/WebSeriesPosters/WebSeriesS8/Poldark.jpg",
+      "duration": "60min",
+      "language": "English",
+      "rating": 8.3,
+      "type": "Period Dramas with Fictional Elements",
+      "genre": "Drama, Romance, Historical",
+      "summary": "The story of Ross Poldark, a British soldier returning home after the American Revolution to find his estate in ruins and his love lost.",
+      "youtubeTrailer": "https://youtu.be/7A0U6kQNCN0?feature=shared"
+    },
+    {
+      "id": 13,
+      "title": "Victoria",
+      "poster": "/WebSeriesPosters/WebSeriesS8/Victoria.jpg",
+      "duration": "60min",
+      "language": "English",
+      "rating": 8.1,
+      "type": "Period Dramas with Fictional Elements",
+      "genre": "Drama, Biography, Romance",
+      "summary": "The early life of Queen Victoria, from her ascension to the throne to her marriage to Prince Albert, exploring political challenges and personal relationships.",
+      "youtubeTrailer": "https://youtu.be/dwoHPrQ5M10?feature=shared"
+    },
+    {
+      "id": 14,
+      "title": "The Man in the High Castle",
+      "poster": "/WebSeriesPosters/WebSeriesS8/TheManInTheHighCastle.jpg",
+      "duration": "60min",
+      "language": "English",
+      "rating": 8.0,
+      "type": "Period Dramas with Fictional Elements",
+      "genre": "Drama, Sci-Fi, Thriller",
+      "summary": "In an alternate history where the Axis powers won World War II, various factions battle for control over the U.S.",
+      "youtubeTrailer": "https://youtu.be/zzayf9GpXCI?feature=shared"
+    },
+    {
+      "id": 15,
+      "title": "Ripper Street",
+      "poster": "/WebSeriesPosters/WebSeriesS8/RipperStreet.jpg",
+      "duration": "60min",
+      "language": "English",
+      "rating": 8.2,
+      "type": "Period Dramas with Fictional Elements",
+      "genre": "Crime, Drama, History",
+      "summary": "Set in Victorian-era London, this drama follows a group of detectives as they attempt to solve crimes while dealing with the aftermath of Jack the Ripper.",
+      "youtubeTrailer": "https://youtu.be/TQrbzWqGeNo?feature=shared"
+    }
+  ]
+  

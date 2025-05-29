@@ -1,0 +1,192 @@
+[
+    
+      {
+        "id": 1,
+        "title": "Skyfall",
+        "poster": "/MoviesSectionPosters/MovieS6/skyfall.jpg",
+        "duration": "2h 23m",
+        "language": "English",
+        "rating": 7.8,
+        "genre": "Action, Adventure, Thriller",
+        "summary": "James Bond's loyalty to M is tested as her past comes back to haunt her, while MI6 comes under attack.",
+        "youtubeTrailer": "https://youtu.be/6kw1UVovByw?feature=shared"
+      },
+      {
+        "id": 2,
+        "title": "Tinker Tailor Soldier Spy",
+        "poster": "/MoviesSectionPosters/MovieS6/tinker_tailor_soldier_spy.jpg",
+        "duration": "2h 7m",
+        "language": "English",
+        "rating": 7.0,
+        "genre": "Drama, Mystery, Thriller",
+        "summary": "A retired spy is brought back to uncover a Soviet mole within the British intelligence service.",
+        "youtubeTrailer": "https://youtu.be/VW-F1H-Nonk?feature=shared"
+      },
+      {
+        "id": 3,
+        "title": "Mission: Impossible – Fallout",
+        "poster": "/MoviesSectionPosters/MovieS6/mission_impossible_fallout.jpg",
+        "duration": "2h 27m",
+        "language": "English",
+        "rating": 7.7,
+        "genre": "Action, Adventure, Thriller",
+        "summary": "Ethan Hunt and his IMF team race against time to stop a nuclear disaster.",
+        "youtubeTrailer": "https://youtu.be/wb49-oV0F78?feature=shared"
+      },
+      {
+        "id": 4,
+        "title": "The Bourne Identity",
+        "poster": "/MoviesSectionPosters/MovieS6/bourne_identity.jpg",
+        "duration": "1h 59m",
+        "language": "English",
+        "rating": 7.9,
+        "genre": "Action, Mystery, Thriller",
+        "summary": "A man suffering from amnesia fights to discover his identity while being pursued by assassins.",
+        "youtubeTrailer": "https://youtu.be/FpKaB5dvQ4g?feature=shared"
+      },
+      {
+        "id": 5,
+        "title": "Casino Royale",
+        "poster": "/MoviesSectionPosters/MovieS6/casino_royale.jpg",
+        "duration": "2h 24m",
+        "language": "English",
+        "rating": 8.0,
+        "genre": "Action, Adventure, Thriller",
+        "summary": "James Bond earns his 00 status and takes on a high-stakes poker game to stop a terrorist financier.",
+        "youtubeTrailer": "https://youtu.be/36mnx8dBbGE?feature=shared"
+      },
+      {
+        "id": 6,
+        "title": "Bridge of Spies",
+        "poster": "/MoviesSectionPosters/MovieS6/bridge_of_spies.jpg",
+        "duration": "2h 22m",
+        "language": "English",
+        "rating": 7.6,
+        "genre": "Drama, History, Thriller",
+        "summary": "During the Cold War, a lawyer negotiates the exchange of captured American and Soviet spies.",
+        "youtubeTrailer": "https://youtu.be/mBBuzHrZBro?feature=shared"
+      },
+      {
+        "id": 7,
+        "title": "Kingsman: The Secret Service",
+        "poster": "/MoviesSectionPosters/MovieS6/kingsman_secret_service.jpg",
+        "duration": "2h 9m",
+        "language": "English",
+        "rating": 7.7,
+        "genre": "Action, Adventure, Comedy",
+        "summary": "A young man is recruited into a secret spy organization as a global threat emerges.",
+        "youtubeTrailer": "https://youtu.be/m4NCribDx4U?feature=shared"
+      },
+      {
+        "id": 8,
+        "title": "The Spy Who Loved Me",
+        "poster": "/MoviesSectionPosters/MovieS6/the_spy_who_loved_me.jpg",
+        "duration": "2h 5m",
+        "language": "English",
+        "rating": 7.1,
+        "genre": "Action, Adventure, Thriller",
+        "summary": "James Bond teams up with a Soviet agent to stop a megalomaniac intent on destroying the world.",
+        "youtubeTrailer": "https://youtu.be/UBxG_TJvYTg?feature=shared"
+      },
+      {
+        "id": 9,
+        "title": "Atomic Blonde",
+        "poster": "/MoviesSectionPosters/MovieS6/atomic_blonde.jpg",
+        "duration": "1h 55m",
+        "language": "English",
+        "rating": 6.7,
+        "genre": "Action, Mystery, Thriller",
+        "summary": "A deadly MI6 spy is sent to Berlin during the Cold War to retrieve a missing list of agents.",
+        "youtubeTrailer": "https://youtu.be/JIqcMl0hzXs?feature=shared"
+      },
+      {
+        "id": 10,
+        "title": "Argo",
+        "poster": "/MoviesSectionPosters/MovieS6/argo.jpg",
+        "duration": "2h",
+        "language": "English",
+        "rating": 7.7,
+        "genre": "Drama, Thriller",
+        "summary": "A CIA agent uses a fake movie production to rescue six American hostages in Iran.",
+        "youtubeTrailer": "https://youtu.be/JW3WfSFgrVY?feature=shared"
+      },
+      {
+        "id": 1,
+        "title": "Raazi",
+        "poster": "/MoviesSectionPosters/MovieS6/raazi.jpg",
+        "duration": "2h 18m",
+        "language": "Hindi",
+        "rating": 7.8,
+        "genre": "Thriller, Drama",
+        "summary": "An Indian spy marries into a Pakistani family to gather intelligence during the 1971 Indo-Pak war.",
+        "youtubeTrailer": "https://youtu.be/YjMSttRJrhA?feature=shared"
+      },
+      {
+        "id": 2,
+        "title": "Baby",
+        "poster": "/MoviesSectionPosters/MovieS6/baby.jpg",
+        "duration": "2h 39m",
+        "language": "Hindi",
+        "rating": 7.9,
+        "genre": "Action, Thriller",
+        "summary": "An elite undercover unit is tasked with finding and eliminating terrorists planning attacks in India.",
+        "youtubeTrailer": "https://youtu.be/-Yu_2nyOP5o?feature=shared"
+      },
+      {
+        "id": 3,
+        "title": "War",
+        "poster": "/MoviesSectionPosters/MovieS6/war.jpg",
+        "duration": "2h 34m",
+        "language": "Hindi",
+        "rating": 6.5,
+        "genre": "Action, Thriller",
+        "summary": "An Indian soldier chases his mentor who has gone rogue, creating a clash between the two elite warriors.",
+        "youtubeTrailer": "https://youtu.be/tQ0mzXRk-oM?feature=shared"
+      },
+      {
+        "id": 4,
+        "title": "Agent Sai Srinivasa Athreya",
+        "poster": "/MoviesSectionPosters/MovieS6/agent_sai.jpg",
+        "duration": "2h 28m",
+        "language": "Telugu",
+        "rating": 8.3,
+        "genre": "Comedy, Crime, Thriller",
+        "summary": "A small-time detective uncovers a larger conspiracy while investigating a mysterious case.",
+        "youtubeTrailer": "https://youtu.be/iPfVbR5oAWE?feature=shared"
+      },
+      {
+        "id": 5,
+        "title": "Madras Cafe",
+        "poster": "/MoviesSectionPosters/MovieS6/madras_cafe.jpg",
+        "duration": "2h 10m",
+        "language": "Hindi",
+        "rating": 7.7,
+        "genre": "Drama, History, Thriller",
+        "summary": "An Indian intelligence agent is drawn into the Sri Lankan civil war and uncovers a conspiracy.",
+        "youtubeTrailer": "https://youtu.be/hnkKI01I0Ac?feature=shared"
+      },
+      {
+        "id": 6,
+        "title": "D-Day",
+        "poster": "/MoviesSectionPosters/MovieS6/d_day.jpg",
+        "duration": "2h 33m",
+        "language": "Hindi",
+        "rating": 7.2,
+        "genre": "Action, Thriller",
+        "summary": "Indian agents attempt a covert operation to capture a notorious underworld don in Pakistan.",
+        "youtubeTrailer": "https://youtu.be/8dMYUmAi14E?feature=shared"
+      },
+      {
+        "id": 7,
+        "title": "TIGER ZINDA HAI",
+        "poster": "/MoviesSectionPosters/MovieS6/tiger_zinda_hai.jpg",
+        "duration": "2h 41m",
+        "language": "Hindi",
+        "rating": 6.0,
+        "genre": "Action, Thriller",
+        "summary": "Indian and Pakistani agents team up to rescue hostages from a terrorist organization.",
+        "youtubeTrailer": "https://youtu.be/ePO5M5DE01I?feature=shared"
+      }
+    ]
+
+  

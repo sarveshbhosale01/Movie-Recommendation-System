@@ -1,0 +1,177 @@
+[
+   
+        {
+          "id": 1,
+          "title": "The Handmaid's Tale",
+          "poster": "/WebSeriesPosters/WebSeriesS2/TheHandmaidsTale.jpg",
+          "duration": "50m",
+          "language": "English",
+          "rating": 8.4,
+          "type": "DystopianWorld",
+          "genre": "Drama, Sci-Fi, Dystopian",
+          "summary": "In a dystopian future, fertile women are forced into servitude to repopulate a world plagued by infertility.",
+          "youtubeTrailer": "https://youtu.be/dVLiDETfx1c?feature=shared"
+        },
+        {
+          "id": 2,
+          "title": "Black Mirror",
+          "poster": "/WebSeriesPosters/WebSeriesS2/BlackMirror.jpg",
+          "duration": "50m",
+          "language": "English",
+          "rating": 8.8,
+          "type": "DystopianWorld",
+          "genre": "Sci-Fi, Drama, Dystopian",
+          "summary": "An anthology series exploring the dark side of technology and its unintended consequences.",
+          "youtubeTrailer": "https://youtu.be/-qIlCo9yqpY?feature=shared"
+        },
+        {
+          "id": 3,
+          "title": "Snowpiercer",
+          "poster": "/WebSeriesPosters/WebSeriesS2/Snowpiercer.jpg",
+          "duration": "1h",
+          "language": "English",
+          "rating": 7.1,
+          "type": "DystopianWorld",
+          "genre": "Action, Sci-Fi, Drama",
+          "summary": "In a frozen world, the remnants of humanity survive on a train circling the globe.",
+          "youtubeTrailer": "https://youtu.be/lGcJL6TG5cA?feature=shared"
+        },
+        {
+          "id": 4,
+          "title": "3%",
+          "poster": "/WebSeriesPosters/WebSeriesS2/3Percent.jpg",
+          "duration": "45m",
+          "language": "Portuguese",
+          "rating": 7.4,
+          "type": "DystopianWorld",
+          "genre": "Drama, Sci-Fi, Dystopian",
+          "summary": "In a future divided between progress and devastation, only 3% of candidates make it to the elite side.",
+          "youtubeTrailer": "https://youtu.be/8yyzNQfaQR8?feature=shared"
+        },
+        {
+          "id": 5,
+          "title": "The 100",
+          "poster": "/WebSeriesPosters/WebSeriesS2/The100.jpg",
+          "duration": "42m",
+          "language": "English",
+          "rating": 7.6,
+          "type": "DystopianWorld",
+          "genre": "Drama, Sci-Fi, Action",
+          "summary": "A group of 100 young offenders are sent to a post-apocalyptic Earth to see if it's habitable.",
+          "youtubeTrailer": "https://youtu.be/aDrsItJ_HU4?feature=shared"
+        },
+      
+        {
+          "id": 1,
+          "title": "The Expanse",
+          "poster": "/WebSeriesPosters/WebSeriesS2/TheExpanse.jpg",
+          "duration": "1h",
+          "language": "English",
+          "rating": 8.5,
+          "type": "SpaceExploration",
+          "genre": "Sci-Fi, Drama, Mystery",
+          "summary": "A space-faring crew discovers a vast conspiracy that threatens the survival of humanity.",
+          "youtubeTrailer": "https://youtu.be/M0QwBp_da28?feature=shared"
+        },
+        {
+          "id": 2,
+          "title": "Star Trek: Discovery",
+          "poster": "/WebSeriesPosters/WebSeriesS2/StarTrekDiscovery.jpg",
+          "duration": "1h",
+          "language": "English",
+          "rating": 7.2,
+          "type": "SpaceExploration",
+          "genre": "Sci-Fi, Adventure, Drama",
+          "summary": "Follow the voyages of Starfleet as they discover new worlds and civilizations.",
+          "youtubeTrailer": "https://youtu.be/oWnYtyNKPsA?feature=shared"
+        },
+        {
+          "id": 3,
+          "title": "Lost in Space",
+          "poster": "/WebSeriesPosters/WebSeriesS2/LostInSpace.jpg",
+          "duration": "56m",
+          "language": "English",
+          "rating": 7.3,
+          "type": "SpaceExploration",
+          "genre": "Sci-Fi, Adventure, Drama",
+          "summary": "A family of space colonists crash-lands on a mysterious planet, struggling to survive.",
+          "youtubeTrailer": "https://youtu.be/fzmM0AB60QQ?feature=shared"
+        },
+        {
+          "id": 4,
+          "title": "Battlestar Galactica",
+          "poster": "/WebSeriesPosters/WebSeriesS2/BattlestarGalactica.jpg",
+          "duration": "44m",
+          "language": "English",
+          "rating": 8.7,
+          "type": "SpaceExploration",
+          "genre": "Sci-Fi, Action, Drama",
+          "summary": "Humans battle for survival against the Cylons, a race of robots, while searching for Earth.",
+          "youtubeTrailer": "https://youtu.be/64Ae2AJRshI?feature=shared"
+        },
+        {
+          "id": 5,
+          "title": "For All Mankind",
+          "poster": "/WebSeriesPosters/WebSeriesS2/ForAllMankind.jpg",
+          "duration": "1h",
+          "language": "English",
+          "rating": 8.0,
+          "type": "SpaceExploration",
+          "genre": "Drama, Sci-Fi, History",
+          "summary": "An alternate history where the space race between the U.S. and the USSR never ended.",
+          "youtubeTrailer": "https://youtu.be/HZS9M52Bd_w?feature=shared"
+        },
+      
+     
+        {
+          "id": 1,
+          "title": "Stranger Things",
+          "poster": "/WebSeriesPosters/WebSeriesS2/StrangerThings.jpg",
+          "duration": "51m",
+          "language": "English",
+          "rating": 8.7,
+          "type": "SupernaturalTheme",
+          "genre": "Drama, Sci-Fi, Horror",
+          "summary": "A group of kids face supernatural forces in a small town in the 1980s.",
+          "youtubeTrailer": "https://youtu.be/b9EkMc79ZSU?feature=shared"
+        },
+        {
+          "id": 2,
+          "title": "The Witcher",
+          "poster": "/WebSeriesPosters/WebSeriesS2/TheWitcher.jpg",
+          "duration": "1h",
+          "language": "English",
+          "rating": 8.1,
+          "type": "SupernaturalTheme",
+          "genre": "Fantasy, Action, Drama",
+          "summary": "A monster hunter struggles to find his place in a world where people are often worse than beasts.",
+          "youtubeTrailer": "https://youtu.be/ndl1W4ltcmg?feature=shared"
+        },
+        {
+          "id": 3,
+          "title": "The Umbrella Academy",
+          "poster": "/WebSeriesPosters/WebSeriesS2/Supernatural.jpg",
+          "duration": "50m",
+          "language": "English",
+          "rating": 8.0,
+          "type": "SupernaturalTheme",
+          "genre": "Action, Adventure, Comedy",
+          "summary": "Estranged siblings with supernatural powers reunite to solve their father's mysterious death.",
+          "youtubeTrailer": "https://youtu.be/t-775JyzDTk?feature=shared"
+        },
+        {
+          "id": 5,
+          "title": "Penny Dreadful",
+          "poster": "//WebSeriesPosters/WebSeriesS2/PennyDreadful.jpg",
+          "duration": "1h",
+          "language": "English",
+          "rating": 8.2,
+          "type": "SupernaturalTheme",
+          "genre": "Horror, Drama, Fantasy",
+          "summary": "A chilling series exploring the lives of literary horror characters in Victorian London.",
+          "youtubeTrailer": "https://youtu.be/YFXHfEqMcis?feature=shared"
+        }
+      
+    
+    ]
+  

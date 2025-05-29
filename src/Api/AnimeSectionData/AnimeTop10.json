@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "title": "Attack on Titan",
+      "poster": "/AnimeSectionPosters/AnimeS1/AttackOnTitan.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 9.1,
+      "genre": "Action, Drama, Fantasy",
+      "summary": "In a world where humanity is on the brink of extinction due to giant humanoid creatures called Titans, a young man vows to exterminate them after his hometown is destroyed.",
+      "youtubeTrailer": "https://youtu.be/LV-nazLVmgo?feature=shared"
+    },
+    {
+      "id": 2,
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "poster": "/AnimeSectionPosters/AnimeS1/FullmetalAlchemistBrotherhood.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 9.1,
+      "genre": "Adventure, Fantasy, Drama",
+      "summary": "Two brothers search for the Philosopher's Stone after an alchemical ritual goes wrong and leaves them in damaged physical forms.",
+      "youtubeTrailer": "https://youtu.be/-GoNo0DGroU?feature=shared"
+    },
+    {
+      "id": 3,
+      "title": "Death Note",
+      "poster": "/AnimeSectionPosters/AnimeS1/DeathNote.jpg",
+      "duration": "22 min/episode",
+      "language": "Japanese",
+      "rating": 8.9,
+      "genre": "Mystery, Supernatural, Thriller",
+      "summary": "A high school student discovers a notebook with the power to kill anyone whose name he writes in it, leading to a battle of wits with a brilliant detective.",
+      "youtubeTrailer": "https://youtu.be/NlJZ-YgAt-c?feature=shared"
+    },
+    {
+      "id": 4,
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "poster": "/AnimeSectionPosters/AnimeS1/DemonSlayer.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.8,
+      "genre": "Action, Adventure, Fantasy",
+      "summary": "A young boy becomes a demon slayer to save his sister and avenge his family after a demon attack.",
+      "youtubeTrailer": "https://youtu.be/VQGCKyvzIM4?feature=shared"
+    },
+    {
+      "id": 5,
+      "title": "Naruto: Shippuden",
+      "poster": "/AnimeSectionPosters/AnimeS1/NarutoShippuden.jpg",
+      "duration": "23 min/episode",
+      "language": "Japanese",
+      "rating": 8.7,
+      "genre": "Action, Adventure, Martial Arts",
+      "summary": "The story of Naruto Uzumaki continues as he matures and seeks to become the strongest ninja in the world while battling threats to his village.",
+      "youtubeTrailer": "https://youtu.be/22R0j8UKRzY?feature=shared"
+    },
+    {
+      "id": 6,
+      "title": "One Piece",
+      "poster": "/AnimeSectionPosters/AnimeS1/OnePiece.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.9,
+      "genre": "Action, Adventure, Fantasy",
+      "summary": "Monkey D. Luffy and his pirate crew set sail to find the legendary treasure, One Piece, and become the Pirate King.",
+      "youtubeTrailer": "https://youtu.be/MCb13lbVGE0?feature=shared"
+    },
+    {
+      "id": 7,
+      "title": "Hunter x Hunter",
+      "poster": "/AnimeSectionPosters/AnimeS1/HunterXHunter.jpg",
+      "duration": "23 min/episode",
+      "language": "Japanese",
+      "rating": 9.0,
+      "genre": "Action, Adventure, Fantasy",
+      "summary": "A young boy embarks on a journey to become a Hunter and find his father, encountering incredible challenges along the way.",
+      "youtubeTrailer": "https://youtu.be/d6kBeJjTGnY?feature=shared"
+    },
+    {
+      "id": 8,
+      "title": "My Hero Academia",
+      "poster": "/AnimeSectionPosters/AnimeS1/MyHeroAcademia.jpg",
+      "duration": "23 min/episode",
+      "language": "Japanese",
+      "rating": 8.5,
+      "genre": "Action, Superhero, Fantasy",
+      "summary": "In a world where almost everyone has superpowers, a young boy born without them dreams of becoming a hero.",
+      "youtubeTrailer": "https://youtu.be/sXAZ0b-Q59Y?feature=shared"
+    },
+    {
+      "id": 9,
+      "title": "Sword Art Online",
+      "poster": "/AnimeSectionPosters/AnimeS1/SwordArtOnline.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 7.6,
+      "genre": "Action, Adventure, Fantasy",
+      "summary": "Players are trapped in a virtual reality MMORPG where death in the game means death in real life.",
+      "youtubeTrailer": "https://youtu.be/6ohYYtxfDCg?feature=shared"
+    },
+    {
+      "id": 10,
+      "title": "Your Name",
+      "poster": "/AnimeSectionPosters/AnimeS1/YourName.jpg",
+      "duration": "1h 46m",
+      "language": "Japanese",
+      "rating": 8.4,
+      "genre": "Romance, Drama, Fantasy",
+      "summary": "Two teenagers mysteriously swap bodies and must figure out how to navigate each other's lives while uncovering a deeper connection.",
+      "youtubeTrailer": "https://youtu.be/xU47nhruN-Q?feature=shared"
+    }
+  ]
+  

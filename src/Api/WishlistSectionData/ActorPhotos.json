@@ -1,0 +1,43 @@
+[
+    {
+        "image" : "/ActorPhotos/AbhishekBachchan.jpg",
+        "name" : "AbhishekBachchan"
+    },
+    {
+        "image" : "/ActorPhotos/ArjunKapoor.jpg",
+        "name" : "ArjunKapoor"
+    },
+    {
+        "image" : "/ActorPhotos/RanveerSingh.jpg",
+        "name" : "RanveerSingh"
+    },
+    {
+        "image" : "/ActorPhotos/RanbirKapoor.jpg",
+        "name" : "RanbirKapoor"
+    },
+    {
+        "image" : "/ActorPhotos/Srk.jpg",
+        "name" : "ShahrukhKhan"
+    },
+    {
+        "image" : "/ActorPhotos/SalmanKhan.jpg",
+        "name" : "SalmanKhan"
+    },
+    {
+        "image" : "/ActorPhotos/VickyKaushal.jpg",
+        "name" : "VickyKaushal"
+    },
+    {
+        "image" : "/ActorPhotos/SaifAliKhan.jpg",
+        "name" : "SaifAliKhan"
+    },
+    {
+        "image" : "/ActorPhotos/AamirKhan.jpg",
+        "name" : "AamirKhan"
+    },
+    {
+        "image" : "/ActorPhotos/HritikRoshan.jpg",
+        "name" : "HrithikRoshan"
+    }
+   
+]

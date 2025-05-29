@@ -1,0 +1,114 @@
+[
+  
+    {
+      "id": 1,
+      "title": "Fruits Basket",
+      "poster": "/AnimeSectionPosters/AnimeS3/FruitsBasket.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.6,
+      "genre": "Drama, Romance, Slice of Life",
+      "summary": "A kind-hearted girl discovers a family cursed to transform into animals of the Chinese zodiac when hugged by the opposite gender.",
+      "youtubeTrailer": "https://youtu.be/Wz0P0mYYY0Q?feature=shared"
+    },
+    {
+      "id": 2,
+      "title": "Ouran High School Host Club",
+      "poster": "/AnimeSectionPosters/AnimeS3/OuranHighSchoolHostClub.jpg",
+      "duration": "23 min/episode",
+      "language": "Japanese",
+      "rating": 8.2,
+      "genre": "Comedy, Romance, Slice of Life",
+      "summary": "A girl from a poor family attends a prestigious school and ends up getting involved with a host club full of charming boys.",
+      "youtubeTrailer": "https://youtu.be/3037yXe95xs?feature=shared"
+    },
+    {
+      "id": 3,
+      "title": "Nana",
+      "poster": "/AnimeSectionPosters/AnimeS3/Nana.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.4,
+      "genre": "Drama, Music, Romance",
+      "summary": "Two women with the same name meet and form a bond as they navigate their personal and romantic lives in Tokyo.",
+      "youtubeTrailer": "https://youtu.be/Tad-n4Xh3nI?feature=shared"
+    },
+    {
+      "id": 4,
+      "title": "Sailor Moon",
+      "poster": "/AnimeSectionPosters/AnimeS3/SailorMoon.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 7.9,
+      "genre": "Action, Adventure, Fantasy",
+      "summary": "A teenage girl transforms into the magical warrior Sailor Moon and must battle evil forces to protect Earth.",
+      "youtubeTrailer": "https://youtu.be/UL_F6L1tSAM?feature=shared"
+    },
+    {
+      "id": 5,
+      "title": "Cardcaptor Sakura",
+      "poster": "/AnimeSectionPosters/AnimeS3/CardcaptorSakura.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.5,
+      "genre": "Magic, Fantasy, Romance",
+      "summary": "A young girl discovers that she must capture magical cards to prevent a calamity after accidentally unleashing them.",
+      "youtubeTrailer": "https://youtu.be/lPaJ3_XTtHs?feature=shared"
+    },
+    {
+      "id": 6,
+      "title": "Lovely★Complex",
+      "poster": "/AnimeSectionPosters/AnimeS3/LovelyComplex.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.0,
+      "genre": "Comedy, Romance, Slice of Life",
+      "summary": "A tall girl and a short boy develop a relationship while navigating the complexities of their differences and high school life.",
+      "youtubeTrailer": "https://youtu.be/4nt3bOmkljc?feature=shared"
+    },
+    {
+      "id": 7,
+      "title": "Skip Beat!",
+      "poster": "/AnimeSectionPosters/AnimeS3/SkipBeat.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 7.7,
+      "genre": "Comedy, Drama, Romance",
+      "summary": "A girl seeks revenge on her ex-friend but gets involved in the entertainment industry where she unexpectedly discovers her own talent.",
+      "youtubeTrailer": "https://youtu.be/SONPPYIGTYk?feature=shared"
+    },
+    {
+      "id": 8,
+      "title": "Kimi ni Todoke",
+      "poster": "/AnimeSectionPosters/AnimeS3/KimiNiTodoke.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.3,
+      "genre": "Romance, Drama, Slice of Life",
+      "summary": "A shy girl who resembles a ghost is misunderstood by her classmates but begins to open up when she befriends a popular boy.",
+      "youtubeTrailer": "https://youtu.be/_gJR6gfRYEQ?feature=shared"
+    },
+    {
+      "id": 9,
+      "title": "Maid-Sama!",
+      "poster": "/AnimeSectionPosters/AnimeS3/Maid-Sama.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.1,
+      "genre": "Comedy, Romance, School",
+      "summary": "A strict student council president has a secret job at a maid café, which she tries to keep hidden from her classmates.",
+      "youtubeTrailer": "https://youtu.be/jW7quAVPKOg?feature=shared"
+    },
+    {
+      "id": 10,
+      "title": "Say I Love You",
+      "poster": "/AnimeSectionPosters/AnimeS3/SayILoveYou.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 7.9,
+      "genre": "Romance, Drama, Slice of Life",
+      "summary": "A high school girl who has been socially isolated learns to open up when she falls in love with a popular boy.",
+      "youtubeTrailer": "https://youtu.be/-RoSoU_h5SY?feature=shared"
+    }
+  ]
+  

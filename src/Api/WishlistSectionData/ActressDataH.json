@@ -1,0 +1,362 @@
+[
+    {
+        "poster": "ActressMoviePosters/AngelinaJolie/MrAndMrsSmith.jpg",
+        "actor": "AngelinaJolie",
+        "name": "Mr. & Mrs. Smith",
+        "summary": "A married couple living a mundane life discovers that they are both secret assassins hired to kill each other.",
+        "language": "English",
+        "genre": ["Action", "Comedy", "Thriller"]
+      },
+      {
+        "poster": "ActressMoviePosters/AngelinaJolie/Maleficent.jpg",
+        "actor": "AngelinaJolie",
+        "name": "Maleficent",
+        "summary": "A vengeful fairy places a curse on an infant princess but later realizes the child may be the key to her redemption.",
+        "language": "English",
+        "genre": ["Fantasy", "Adventure", "Family"]
+      },
+      {
+        "poster": "ActressMoviePosters/AngelinaJolie/LaraCroftTombRaider.jpg",
+        "actor": "AngelinaJolie",
+        "name": "Lara Croft: Tomb Raider",
+        "summary": "An adventurous archaeologist must find ancient artifacts before a secret society uses them for world domination.",
+        "language": "English",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "poster": "ActressMoviePosters/AngelinaJolie/Wanted.jpg",
+        "actor": "AngelinaJolie",
+        "name": "Wanted",
+        "summary": "A frustrated office worker discovers he is the son of a legendary assassin and is recruited into a secret society of killers.",
+        "language": "English",
+        "genre": ["Action", "Thriller", "Crime"]
+      },
+      {
+        "poster": "ActressMoviePosters/AngelinaJolie/Salt.jpg",
+        "actor": "AngelinaJolie",
+        "name": "Salt",
+        "summary": "A CIA officer goes on the run after being accused of being a Russian spy, leading to a high-stakes chase to clear her name.",
+        "language": "English",
+        "genre": ["Action", "Thriller", "Mystery"]
+      },
+      {
+        "poster": "ActressMoviePosters/KeiraKnightley/PiratesOfTheCaribbean.jpg",
+        "actor": "KeiraKnightley",
+        "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "summary": "A governor's daughter, Elizabeth Swann, is kidnapped by cursed pirates, leading to a daring rescue mission by a blacksmith and a rogue pirate.",
+        "language": "English",
+        "genre": ["Adventure", "Fantasy", "Action"]
+    },
+    {
+        "poster": "ActressMoviePosters/KeiraKnightley/PrideAndPrejudice.jpg",
+        "actor": "KeiraKnightley",
+        "name": "Pride & Prejudice",
+        "summary": "A spirited young woman navigates issues of love, class, and family when she encounters the proud and wealthy Mr. Darcy.",
+        "language": "English",
+        "genre": ["Romance", "Drama"]
+    },
+    {
+        "poster": "ActressMoviePosters/KeiraKnightley/Atonement.jpg",
+        "actor": "KeiraKnightley",
+        "name": "Atonement",
+        "summary": "A young girl's false accusation changes the lives of two lovers forever, leading to a tragic tale of love and redemption.",
+        "language": "English",
+        "genre": ["Drama", "Romance", "War"]
+    },
+    {
+        "poster": "ActressMoviePosters/KeiraKnightley/TheImitationGame.jpg",
+        "actor": "KeiraKnightley",
+        "name": "The Imitation Game",
+        "summary": "A brilliant mathematician, Alan Turing, works to break Nazi codes during World War II, with the support of his talented colleague Joan Clarke.",
+        "language": "English",
+        "genre": ["Biography", "Drama", "Thriller"]
+    },
+    {
+        "poster": "ActressMoviePosters/KeiraKnightley/AnnaKarenina.jpg",
+        "actor": "KeiraKnightley",
+        "name": "Anna Karenina",
+        "summary": "In imperial Russia, a married aristocrat risks everything when she falls into a passionate affair with a young cavalry officer.",
+        "language": "English",
+        "genre": ["Drama", "Romance"]
+    },
+    {
+        "poster": "ActressMoviePosters/ScarlettJohansson/LostInTranslation.jpg",
+        "actor": "ScarlettJohansson",
+        "name": "Lost in Translation",
+        "summary": "A lonely, aging movie star and a neglected young woman form an unlikely bond after crossing paths in Tokyo.",
+        "language": "English",
+        "genre": ["Drama", "Romance"]
+    },
+    {
+        "poster": "ActressMoviePosters/ScarlettJohansson/BlackWidow.jpg",
+        "actor": "ScarlettJohansson",
+        "name": "Black Widow",
+        "summary": "Natasha Romanoff confronts the darker parts of her past when a dangerous conspiracy linked to her history emerges.",
+        "language": "English",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+    },
+    {
+        "poster": "ActressMoviePosters/ScarlettJohansson/Lucy.jpg",
+        "actor": "ScarlettJohansson",
+        "name": "Lucy",
+        "summary": "A woman accidentally gains superhuman abilities and sets out on a journey to unlock the full potential of her brain.",
+        "language": "English",
+        "genre": ["Action", "Sci-Fi", "Thriller"]
+    },
+    {
+        "poster": "ActressMoviePosters/ScarlettJohansson/MarriageStory.jpg",
+        "actor": "ScarlettJohansson",
+        "name": "Marriage Story",
+        "summary": "A stage director and his actress wife struggle through a painful divorce that pushes them to their emotional limits.",
+        "language": "English",
+        "genre": ["Drama", "Romance"]
+    },
+    {
+        "poster": "ActressMoviePosters/ScarlettJohansson/TheAvengers.jpg",
+        "actor": "ScarlettJohansson",
+        "name": "The Avengers",
+        "summary": "Earth’s mightiest heroes must come together to stop an alien invasion led by Loki, the God of Mischief.",
+        "language": "English",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+    },
+    {
+        "poster": "ActressMoviePosters/KateWinslet/Titanic.jpg",
+        "actor": "KateWinslet",
+        "name": "Titanic",
+        "summary": "A young aristocrat falls in love with a kind-hearted artist aboard the ill-fated Titanic.",
+        "language": "English",
+        "genre": ["Drama", "Romance"]
+      },
+      {
+        "poster": "ActressMoviePosters/KateWinslet/TheReader.jpg",
+        "actor": "KateWinslet",
+        "name": "The Reader",
+        "summary": "A teenager has an affair with an older woman, only to discover years later that she was involved in a Nazi war crime.",
+        "language": "English",
+        "genre": ["Drama", "Romance", "War"]
+      },
+      {
+        "poster": "ActressMoviePosters/KateWinslet/EternalSunshineOfTheSpotlessMind.jpg",
+        "actor": "KateWinslet",
+        "name": "Eternal Sunshine of the Spotless Mind",
+        "summary": "A couple undergoes a procedure to erase each other from their memories, only to realize their love is worth fighting for.",
+        "language": "English",
+        "genre": ["Sci-Fi", "Romance", "Drama"]
+      },
+      {
+        "poster": "ActressMoviePosters/KateWinslet/RevolutionaryRoad.jpg",
+        "actor": "KateWinslet",
+        "name": "Revolutionary Road",
+        "summary": "A married couple in the 1950s struggles to balance societal expectations with their personal dreams and desires.",
+        "language": "English",
+        "genre": ["Drama", "Romance"]
+      },
+      {
+        "poster": "ActressMoviePosters/KateWinslet/SteveJobs.jpg",
+        "actor": "KateWinslet",
+        "name": "Steve Jobs",
+        "summary": "A revealing look at the personal and professional struggles of Apple co-founder Steve Jobs during key moments of his career.",
+        "language": "English",
+        "genre": ["Biography", "Drama"]
+      },
+      {
+        "poster": "ActressMoviePosters/AnneHathaway/TheDevilWearsPrada.jpg",
+        "actor": "AnneHathaway",
+        "name": "The Devil Wears Prada",
+        "summary": "A young aspiring journalist lands a demanding assistant job at a prestigious fashion magazine, learning the challenges of the industry under a ruthless editor.",
+        "language": "English",
+        "genre": ["Comedy", "Drama"]
+    },
+    {
+        "poster": "ActressMoviePosters/AnneHathaway/Interstellar.jpg",
+        "actor": "AnneHathaway",
+        "name": "Interstellar",
+        "summary": "A team of explorers ventures through a wormhole in search of a new home for humanity, facing love, sacrifice, and the mysteries of space-time.",
+        "language": "English",
+        "genre": ["Sci-Fi", "Adventure", "Drama"]
+    },
+    {
+        "poster": "ActressMoviePosters/AnneHathaway/LesMiserables.jpg",
+        "actor": "AnneHathaway",
+        "name": "Les Misérables",
+        "summary": "In 19th-century France, an ex-convict seeks redemption while being pursued by a relentless inspector, amidst a backdrop of revolution and love.",
+        "language": "English",
+        "genre": ["Drama", "Musical", "Romance"]
+    },
+    {
+        "poster": "ActressMoviePosters/AnneHathaway/TheDarkKnightRises.jpg",
+        "actor": "AnneHathaway",
+        "name": "The Dark Knight Rises",
+        "summary": "Batman returns from exile to save Gotham from a ruthless mercenary, with the help of a mysterious and skilled cat burglar.",
+        "language": "English",
+        "genre": ["Action", "Thriller", "Drama"]
+    },
+    {
+        "poster": "ActressMoviePosters/AnneHathaway/ThePrincessDiaries.jpg",
+        "actor": "AnneHathaway",
+        "name": "The Princess Diaries",
+        "summary": "A shy teenager discovers she's the heir to a European throne and must navigate royal responsibilities while balancing her normal life.",
+        "language": "English",
+        "genre": ["Comedy", "Family", "Romance"]
+    },
+    {
+        "poster": "ActressMoviePosters/NataliePortman/BlackSwan.jpg",
+        "actor": "NataliePortman",
+        "name": "Black Swan",
+        "summary": "A dedicated ballerina’s obsession with perfection spirals into madness as she prepares for the lead role in 'Swan Lake.'",
+        "language": "English",
+        "genre": ["Drama", "Thriller", "Psychological"]
+      },
+      {
+        "poster": "ActressMoviePosters/NataliePortman/LeonTheProfessional.jpg",
+        "actor": "NataliePortman",
+        "name": "Léon: The Professional",
+        "summary": "A young girl is taken in by a professional hitman after her family is murdered, leading to an unlikely mentorship.",
+        "language": "English",
+        "genre": ["Action", "Crime", "Drama"]
+      },
+      {
+        "poster": "ActressMoviePosters/NataliePortman/VForVendetta.jpg",
+        "actor": "NataliePortman",
+        "name": "V for Vendetta",
+        "summary": "In a dystopian future, a masked vigilante fights against a totalitarian regime with the help of a young woman.",
+        "language": "English",
+        "genre": ["Action", "Drama", "Thriller"]
+      },
+      {
+        "poster": "ActressMoviePosters/NataliePortman/Jackie.jpg",
+        "actor": "NataliePortman",
+        "name": "Jackie",
+        "summary": "A biographical drama that explores the life of Jacqueline Kennedy following the assassination of her husband, President John F. Kennedy.",
+        "language": "English",
+        "genre": ["Biography", "Drama", "History"]
+      },
+      {
+        "poster": "ActressMoviePosters/NataliePortman/Annihilation.jpg",
+        "actor": "NataliePortman",
+        "name": "Annihilation",
+        "summary": "A biologist joins an expedition into a mysterious, mutated zone where the laws of nature no longer apply.",
+        "language": "English",
+        "genre": ["Sci-Fi", "Thriller", "Horror"]
+      },
+      {
+        "poster": "ActressMoviePosters/EmmaStone/LaLaLand.jpg",
+        "actor": "EmmaStone",
+        "name": "La La Land",
+        "summary": "A jazz musician and an aspiring actress fall in love while chasing their dreams in Los Angeles.",
+        "language": "English",
+        "genre": ["Drama", "Musical", "Romance"]
+    },
+    {
+        "poster": "ActressMoviePosters/EmmaStone/EasyA.jpg",
+        "actor": "EmmaStone",
+        "name": "Easy A",
+        "summary": "A high school student’s reputation skyrockets after a lie about losing her virginity spreads, leading her to embrace the notoriety.",
+        "language": "English",
+        "genre": ["Comedy", "Drama", "Romance"]
+    },
+    {
+        "poster": "ActressMoviePosters/EmmaStone/TheHelp.jpg",
+        "actor": "EmmaStone",
+        "name": "The Help",
+        "summary": "An aspiring journalist documents the experiences of Black maids working for white families in 1960s Mississippi.",
+        "language": "English",
+        "genre": ["Drama"]
+    },
+    {
+        "poster": "ActressMoviePosters/EmmaStone/Cruella.jpg",
+        "actor": "EmmaStone",
+        "name": "Cruella",
+        "summary": "An ambitious fashion designer embraces her wicked side as she transforms into the infamous Cruella de Vil.",
+        "language": "English",
+        "genre": ["Comedy", "Crime", "Drama"]
+    },
+    {
+        "poster": "ActressMoviePosters/EmmaStone/Zombieland.jpg",
+        "actor": "EmmaStone",
+        "name": "Zombieland",
+        "summary": "A group of survivors navigates a post-apocalyptic world overrun by zombies, following a unique set of survival rules.",
+        "language": "English",
+        "genre": ["Action", "Comedy", "Horror"]
+    },
+    {
+        "poster": "ActressMoviePosters/MargotRobbie/WolfOfWallStreet.jpg",
+        "actor": "MargotRobbie",
+        "name": "The Wolf of Wall Street",
+        "summary": "A stockbroker's rise and fall in a world of corruption, excess, and crime, based on a true story.",
+        "language": "English",
+        "genre": ["Biography", "Drama", "Crime"]
+      },
+      {
+        "poster": "ActressMoviePosters/MargotRobbie/I_Tonya.jpg",
+        "actor": "MargotRobbie",
+        "name": "I, Tonya",
+        "summary": "The true story of figure skater Tonya Harding and the infamous attack on her rival Nancy Kerrigan.",
+        "language": "English",
+        "genre": ["Biography", "Drama", "Comedy"]
+      },
+      {
+        "poster": "ActressMoviePosters/MargotRobbie/SuicideSquad.jpg",
+        "actor": "MargotRobbie",
+        "name": "Suicide Squad",
+        "summary": "A group of dangerous criminals is recruited for a secret government mission to fight an unknown threat.",
+        "language": "English",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "poster": "ActressMoviePosters/MargotRobbie/OnceUponATimeInHollywood.jpg",
+        "actor": "MargotRobbie",
+        "name": "Once Upon a Time in Hollywood",
+        "summary": "A fading actor and his stunt double navigate Hollywood’s changing landscape in the late 1960s.",
+        "language": "English",
+        "genre": ["Comedy", "Drama"]
+      },
+      {
+        "poster": "ActressMoviePosters/MargotRobbie/Barbie.jpg",
+        "actor": "MargotRobbie",
+        "name": "Barbie",
+        "summary": "After experiencing an existential crisis, Barbie ventures into the real world, uncovering its joys and flaws.",
+        "language": "English",
+        "genre": ["Comedy", "Fantasy", "Adventure"]
+      },
+      {
+        "poster": "ActressMoviePosters/Zendaya/SpiderManNoWayHome.jpg",
+        "actor": "Zendaya",
+        "name": "Spider-Man: No Way Home",
+        "summary": "Peter Parker's identity is revealed, leading him to seek help from Doctor Strange, but a spell goes wrong, unleashing villains from different universes.",
+        "language": "English",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+    },
+    {
+        "poster": "ActressMoviePosters/Zendaya/Dune.jpg",
+        "actor": "Zendaya",
+        "name": "Dune",
+        "summary": "A young nobleman must navigate a dangerous desert planet, facing powerful enemies and discovering his destiny in a war over the universe’s most valuable resource.",
+        "language": "English",
+        "genre": ["Sci-Fi", "Adventure", "Drama"]
+    },
+    {
+        "poster": "ActressMoviePosters/Zendaya/Euphoria.jpg",
+        "actor": "Zendaya",
+        "name": "Euphoria",
+        "summary": "A group of high school students navigate love, identity, addiction, and trauma in this raw and visually stunning drama.",
+        "language": "English",
+        "genre": ["Drama"]
+    },
+    {
+        "poster": "ActressMoviePosters/Zendaya/TheGreatestShowman.jpg",
+        "actor": "Zendaya",
+        "name": "The Greatest Showman",
+        "summary": "The story of P.T. Barnum's journey from a struggling visionary to the creator of a worldwide entertainment sensation.",
+        "language": "English",
+        "genre": ["Musical", "Drama", "Biography"]
+    },
+    {
+        "poster": "ActressMoviePosters/Zendaya/MalcolmAndMarie.jpg",
+        "actor": "Zendaya",
+        "name": "Malcolm & Marie",
+        "summary": "A filmmaker and his girlfriend return home after a premiere, leading to an intense night of revelations and emotional turmoil.",
+        "language": "English",
+        "genre": ["Drama", "Romance"]
+    }
+]

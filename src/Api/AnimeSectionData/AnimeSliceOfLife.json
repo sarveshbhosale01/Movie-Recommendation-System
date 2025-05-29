@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "title": "Clannad",
+      "poster": "/AnimeSectionPosters/AnimeS8/Clannad.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.7,
+      "genre": "Drama, Slice of Life, Romance",
+      "summary": "A high school delinquent gets involved with a group of girls, each with their own struggles, leading him to personal growth and emotional connections.",
+      "youtubeTrailer": "https://youtu.be/9ZseZTshl2k?feature=shared"
+    },
+    {
+      "id": 2,
+      "title": "March Comes in Like a Lion",
+      "poster": "/AnimeSectionPosters/AnimeS8/MarchComesInLikeaLion.jpg",
+      "duration": "22 min/episode",
+      "language": "Japanese",
+      "rating": 8.7,
+      "genre": "Drama, Slice of Life, Sports",
+      "summary": "A young professional Shogi player, struggling with personal demons, forms an unlikely bond with three sisters, finding comfort and growth in their companionship.",
+      "youtubeTrailer": "https://youtu.be/ZL5nnx4vd7k?feature=shared"
+    },
+    {
+      "id": 3,
+      "title": "Barakamon",
+      "poster": "/AnimeSectionPosters/AnimeS8/Barakamon.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.6,
+      "genre": "Comedy, Slice of Life",
+      "summary": "A calligrapher moves to a remote village to rediscover his creative spirit, forming new friendships and learning life lessons along the way.",
+      "youtubeTrailer": "https://youtu.be/1gmN_3kr4wo?feature=shared"
+    },
+    {
+      "id": 4,
+      "title": "Your Lie in April",
+      "poster": "/AnimeSectionPosters/AnimeS8/YourLieInApril.jpg",
+      "duration": "22 min/episode",
+      "language": "Japanese",
+      "rating": 8.9,
+      "genre": "Drama, Romance, Slice of Life",
+      "summary": "A talented young pianist who has lost his ability to hear music is reinspired by a spirited violinist, leading to emotional growth and personal healing.",
+      "youtubeTrailer": "https://youtu.be/3aL0gDZtFbE?feature=shared"
+    },
+    {
+      "id": 5,
+      "title": "Anohana: The Flower We Saw That Day",
+      "poster": "/AnimeSectionPosters/AnimeS8/Anohana.jpg",
+      "duration": "22 min/episode",
+      "language": "Japanese",
+      "rating": 8.7,
+      "genre": "Drama, Slice of Life, Supernatural",
+      "summary": "A group of childhood friends reunites to deal with the lingering guilt and unresolved feelings caused by the death of one of their own.",
+      "youtubeTrailer": "https://youtu.be/DONLsQWdQzA?feature=shared"
+    },
+    {
+      "id": 6,
+      "title": "Toradora!",
+      "poster": "/AnimeSectionPosters/AnimeS8/Toradora.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.5,
+      "genre": "Romance, Slice of Life, Comedy",
+      "summary": "A high school student forms an unlikely friendship with two classmates, leading to complicated relationships and emotional growth.",
+      "youtubeTrailer": "https://youtu.be/ya570uUgQNc?feature=shared"
+    },
+    {
+      "id": 7,
+      "title": "Honey and Clover",
+      "poster": "/AnimeSectionPosters/AnimeS8/HoneyAndClover.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.0,
+      "genre": "Drama, Slice of Life, Romance",
+      "summary": "A group of college students navigates the challenges of relationships, personal ambitions, and growing up, dealing with the ups and downs of life and love.",
+      "youtubeTrailer": "https://youtu.be/WqoAIXLQcPY?feature=shared"
+    },
+    {
+      "id": 8,
+      "title": "Little Busters!",
+      "poster": "/AnimeSectionPosters/AnimeS8/LittleBusters.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.1,
+      "genre": "Drama, Slice of Life, Comedy",
+      "summary": "A group of friends forms a club that participates in various activities, learning about life, love, and the struggles they each face in a slice-of-life setting.",
+      "youtubeTrailer": "https://youtu.be/PyJilNDluYw?feature=shared"
+    },
+    {
+      "id": 9,
+      "title": "March Comes in Like a Lion 2nd Season",
+      "poster": "/AnimeSectionPosters/AnimeS8/march.jpg",
+      "duration": "22 min/episode",
+      "language": "Japanese",
+      "rating": 8.8,
+      "genre": "Drama, Slice of Life, Sports",
+      "summary": "The continuation of Rei Kiriyama's journey, exploring deeper themes of loneliness, healing, and the power of human connection through his relationships.",
+      "youtubeTrailer": "https://youtu.be/OfSaJb5OOPA?feature=shared"
+    },
+    {
+      "id": 10,
+      "title": "The Pet Girl of Sakurasou",
+      "poster": "/AnimeSectionPosters/AnimeS8/PetGirlOfSakurasou.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.1,
+      "genre": "Comedy, Drama, Slice of Life",
+      "summary": "A group of eccentric students living in a dormitory struggles with their own dreams, insecurities, and relationships while trying to move forward in life.",
+      "youtubeTrailer": "https://youtu.be/3d8EzILpO4c?feature=shared"
+    }
+  ]
+  

@@ -1,0 +1,124 @@
+[
+  {
+    "id": 9,
+    "title": "Black Lagoon",
+    "poster": "/AnimeSectionPosters/AnimeS4/BlackLagoon.jpg",
+    "duration": "24 min/episode",
+    "language": "Japanese",
+    "rating": 8.3,
+    "genre": "Action, Crime, Thriller",
+    "summary": "A group of mercenaries known as the Lagoon Company navigate the dangerous underworld of Southeast Asia, facing ruthless criminals and unpredictable situations.",
+    "youtubeTrailer": ""
+  },
+    {
+      "id": 1,
+      "title": "Berserk",
+      "poster": "/AnimeSectionPosters/AnimeS4/Berserk.jpg",
+      "duration": "23 min/episode",
+      "language": "Japanese",
+      "rating": 8.5,
+      "genre": "Action, Drama, Fantasy",
+      "summary": "A lone mercenary named Guts embarks on a dark and violent journey for vengeance and redemption in a world of demons and betrayal.",
+      "youtubeTrailer": "https://youtu.be/0MIw4xzxcTU?feature=shared"
+    },
+    {
+      "id": 2,
+      "title": "Attack on Titan",
+      "poster": "/AnimeSectionPosters/AnimeS4/AttackOnTitan.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.8,
+      "genre": "Action, Drama, Fantasy",
+      "summary": "Humanity battles to survive against titanic creatures known as Titans, who devour humans and threaten to wipe out the world.",
+      "youtubeTrailer": "https://youtu.be/LV-nazLVmgo?feature=shared"
+    },
+    {
+      "id": 3,
+      "title": "Ghost in the Shell",
+      "poster": "/AnimeSectionPosters/AnimeS4/GhostInTheShell.jpg",
+      "duration": "25 min/episode",
+      "language": "Japanese",
+      "rating": 8.7,
+      "genre": "Action, Sci-Fi, Psychological",
+      "summary": "A cyborg policewoman investigates a dangerous hacker in a futuristic society where the lines between human and machine are blurred.",
+      "youtubeTrailer": "https://youtu.be/8RF09G8Ymqg?feature=shared"
+    },
+    {
+      "id": 4,
+      "title": "Death Note",
+      "poster": "/AnimeSectionPosters/AnimeS4/DeathNote.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 9.0,
+      "genre": "Psychological, Thriller, Supernatural",
+      "summary": "A high school student gains the power to kill anyone whose name he writes in a mysterious notebook, leading to a cat-and-mouse battle with a genius detective.",
+      "youtubeTrailer": "https://youtu.be/NlJZ-YgAt-c?feature=shared"
+    },
+    {
+      "id": 5,
+      "title": "Hellsing",
+      "poster": "/AnimeSectionPosters/AnimeS4/Hellsing.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.5,
+      "genre": "Action, Horror, Supernatural",
+      "summary": "The Hellsing Organization, led by Sir Integra Hellsing, uses a powerful vampire named Alucard to battle supernatural threats in Britain.",
+      "youtubeTrailer": "https://youtu.be/7CQKMDFAKMk?feature=shared"
+    },
+    {
+      "id": 6,
+      "title": "Steins;Gate",
+      "poster": "/AnimeSectionPosters/AnimeS4/SteinsGate.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.8,
+      "genre": "Sci-Fi, Thriller, Psychological",
+      "summary": "A mad scientist and his friends discover time travel and face the consequences of tampering with time and their own destinies.",
+      "youtubeTrailer": "https://youtu.be/uMYhjVwp0Fk?feature=shared"
+    },
+    {
+      "id": 7,
+      "title": "Tokyo Ghoul",
+      "poster": "/AnimeSectionPosters/AnimeS4/TokyoGhoul.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.4,
+      "genre": "Action, Supernatural, Horror",
+      "summary": "A college student becomes a half-ghoul after a near-fatal encounter with a ghoul, forcing him to navigate a dark world filled with flesh-eating creatures.",
+      "youtubeTrailer": "https://youtu.be/vGuQeQsoRgU?feature=shared"
+    },
+    {
+      "id": 8,
+      "title": "Psycho-Pass",
+      "poster": "/AnimeSectionPosters/AnimeS4/PsychoPass.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.6,
+      "genre": "Action, Sci-Fi, Psychological",
+      "summary": "In a dystopian future, law enforcement uses a system that can predict people's criminal intent, but a new detective questions its morality.",
+      "youtubeTrailer": "https://youtu.be/YzuJnyebc40?feature=shared"
+    },
+    {
+      "id": 9,
+      "title": "Black Lagoon",
+      "poster": "/AnimeSectionPosters/AnimeS4/BlackLagoon.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.3,
+      "genre": "Action, Crime, Thriller",
+      "summary": "A group of mercenaries known as the Lagoon Company navigate the dangerous underworld of Southeast Asia, facing ruthless criminals and unpredictable situations.",
+      "youtubeTrailer": "https://youtu.be/JsL9vhMfyrs?feature=shared"
+    },
+    {
+      "id": 10,
+      "title": "Elfen Lied",
+      "poster": "/AnimeSectionPosters/AnimeS4/ElfenLied.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.5,
+      "genre": "Horror, Drama, Supernatural",
+      "summary": "A mutant girl with psychic powers escapes from a research facility, causing havoc while struggling with her violent past and pursuit of freedom.",
+      "youtubeTrailer": "https://youtu.be/GvhVHBv6v1Q?feature=shared"
+    }
+  ]
+  

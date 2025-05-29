@@ -1,0 +1,429 @@
+/* General Styling */
+
+/* Main Wishlist Section */
+.Wishlist-Frontpage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  overflow-x: hidden; /* Prevents horizontal scroll issues */
+  padding: 1rem;
+  margin-top: 50px;
+  margin-left: 1px;
+}
+
+/* Actor Name and Image Container */
+.ActorName {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 10px;
+  flex-shrink: 0; /* Prevents actors from shrinking */
+
+  font-size: 19px;
+  color: #0f110e;
+}
+
+.WishList-item {
+  width: 100%;
+  max-width: 300px;
+
+}
+.WishList-item img:hover{
+  box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.5); /* Corrected */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition */
+}
+
+
+/* Actor Image */
+.ActorName img {
+  width: 200px;
+  height: 300px !important;
+  border-radius: 10px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.ActorName img:hover {
+  transform: scale(1.1);
+  box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.5); /* Corrected */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition */
+}
+
+
+/* Hide default scrollbar */
+::-webkit-scrollbar {
+  display: none;
+}
+
+/* Bollywood Actors Section */
+.Wishlist-container {
+  display: flex;
+  align-items: center;
+  position: relative;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  width: 100%;
+  max-width: 1500px;
+}
+
+/* Fix navigation button position */
+.Wishlist-container button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 50%;
+  z-index: 10;
+}
+
+/* Buttons */
+
+/* Left Navigation Button */
+.Wishlist-nav-left {
+  left: 10px;
+}
+
+/* Right Navigation Button */
+.Wishlist-nav-right {
+  right: 55px;
+}
+
+
+/* Scrollable Actor Section */
+.Wishlist-Actor {
+  display: flex;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  white-space: nowrap;
+  width: calc(100% - 80px); /* Keeps it within viewport */
+  gap: 20px;
+  padding: 10px;
+  scrollbar-width: none; /* Hide scrollbar for Firefox */
+}
+
+.Wishlist-Actor::-webkit-scrollbar {
+  display: none; /* Hide scrollbar for Chrome, Safari */
+}
+
+/* Circular Actor Photos */
+.actor-photo {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 2px solid gray;
+  transition: transform 0.3s ease-in-out;
+}
+
+.actor-photo:hover {
+  transform: scale(1.1);
+
+}
+
+/* Movie Grid */
+.Wishlist-container {
+  margin-top: 1.5rem;
+}
+
+.Wishlist-container h2 {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.Wishlist-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 1rem;
+}
+
+/* Movie Cards */
+.Wishlist-card {
+  padding: 1rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+/* Navigation Bar */
+.Wishlist-Nav nav{
+  background-color: #333;
+  color: #fff;
+  padding: 1px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 999;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.508);
+}
+
+/* Navigation List */
+.Wishlist-Nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+.Wishlist-Nav ul li{
+  margin: 0;
+}
+
+/* Navigation Background */
+
+
+/* Navigation Links */
+.Wishlist-Nav ul a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 8px 42px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  display: block;
+  white-space: nowrap;
+  gap:90px
+}
+
+/* Hover Effect */
+.Wishlist-Nav ul a:hover {
+  background-color: #fcfcfc;
+  border-radius: 5px;
+  color: black !important;
+}
+/* Logo Styling */
+.Wishlist-logo a {
+  font-size: 25px !important;
+  font-weight: bold;
+  color: #609966 ;
+}
+
+/* Wishlist Navigation Links */
+.Wishlist-links {
+  display: flex;
+  align-items: center;
+  gap: 0px;
+}
+.Wishlist-link2 {
+  display: flex;
+  align-items: center;
+}
+/* Additional Links */
+.Wishlist-logo a {
+  font-size: 25px !important;
+  font-weight: bold !important;
+  text-transform: uppercase !important;
+  color: white !important;
+  letter-spacing: 10px !important;
+  text-decoration: none !important;
+}
+
+.Wishlist-logo a:hover {
+  color: black !important;
+}
+/* Movie Section Results */
+.Wishlist-movie-section {
+  margin-top: 30px;
+  margin-left: 1px ;
+  padding: 20px;
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  text-align: center;
+  
+}
+
+.Wishlist-movie-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.Wishlist-movie-box {
+  width: 250px;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.Wishlist-movie-poster {
+  width: 100%;
+  height: 50%;
+  border-radius: 8px;
+}
+/* MovieInformation */
+.Wishlist-info {
+  padding: 18px;
+  text-align: center;
+  width: 60%;
+  position: relative;
+}
+
+.Wishlist-info h2 {
+  font-size: 35px;
+  margin-bottom: 20px;
+  font-family:"Poppins";
+}
+
+.Wishlist-info p {
+  font-family:"Poppins";
+  margin: 5px 0;
+  font-size: 15px;
+  text-align: left;
+}
+
+.Wishlist-info p:hover {
+  color: #000000;
+  font-size: 20px;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 1024px) {
+  .Wishlist-Nav ul a {
+    font-size: 14px;
+    padding: 6px 12px;
+  }
+}
+
+@media (max-width: 900px) {
+  .Wishlist-toggle {
+    display: block;
+  }
+  .Wishlist-Nav ul a {
+    font-size: 10px;
+    padding: 5px 10px;
+  }
+}
+
+@media (max-width: 600px) {
+  .Wishlist-Nav {
+    padding: 10px;
+  }
+  .Wishlist-Nav ul a {
+    font-size: 6px;
+    padding: 4px 8px;
+  }
+  .Wishlist-Nav .logo {
+    font-size: 18px;
+  }
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 480px) {
+  .Wishlist-Nav ul {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
+
+/* Dark Mode */
+
+.dark-mode .Wishlist-FrontPage {
+  background-color: rgb(0, 0, 0) !important;
+}
+.dark-mode .Wishlist-movie-section{
+  background-color: rgb(255, 255, 255);
+}
+
+.dark-mode .Wishlist-FrontPage h1
+{
+  color: #ffffff !important;
+}
+.dark-mode .Wishlist-FrontPage p {
+  color: #ffffff !important;
+}
+.dark-mode .Wishlist-movie-info p strong
+{
+  color: #ffffff !important;
+}
+.dark-mode .Wishlist-movie-info h3
+{
+  color: #ffffff !important;
+}
+.dark-mode .Wishlist-movie-box
+{
+  background-color: rgb(0, 0, 0) !important;
+}
+.dark-mode .ActorName 
+{
+  color: rgb(255, 255, 255) !important;
+}
+.dark-mode .Wishlist-navigationButtons button:hover
+{
+  background-color: #000000 !important;
+}
+.dark-mode  .Wishlist-container button:hover
+{
+  background-color: #ffffff !important;
+  color: rgb(255, 255, 255);
+}
+/* lightmode */
+
+.light-mode .Wishlist-FrontPage {
+  color: rgb(255, 251, 251) !important;
+}
+.light-mode .Wishlist-movie-section{
+  background-color: black;
+}
+
+.light-mode .Wishlist-FrontPage h1
+{
+  color: #080808 !important;
+}
+.light-mode .Wishlist-FrontPage p {
+  color: #060606 !important;
+}
+.light-mode .Wishlist-movie-info p
+{
+  color: #050505 !important;
+}
+.light-mode .Wishlist-movie-info h3
+{
+  color: #000000 !important;
+}
+.light-mode .Wishlist-movie-box
+{
+  background-color: rgb(255, 252, 252) !important;
+}
+.light-mode .ActorName 
+{
+  color: rgb(1, 1, 1) !important;
+}
+.light-mode .Wishlist-navigationButtons button:hover
+{
+  background-color: #ffffff !important;
+}
+.light-mode  .Wishlist-container button:hover
+{
+  background-color: #000000 !important;
+  color: black;
+}
+.dark-mode  .WishList-item :hover
+{
+  background-color: #ffffff !important;
+  box-shadow: inset 0px 0px 10px rgba(255, 255, 255, 0.5) !important; /* Ensure the style is applied */
+  transform: scale(1.09); /* Add a slight scaling effect to see if the hover is working */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /
+}
+.light-mode  .WishList-item :hover
+{
+  background-color: #000000 !important;
+  box-shadow: inset 0px 0px 10px rgba(255, 255, 255, 0.5) !important; /* Ensure the style is applied */
+  transform: scale(1.09); /* Add a slight scaling effect to see if the hover is working */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /
+}
+
+
+
+
+/* Smooth Transition */
+.Wishlist-FrontPage {
+  transition: background-color 0.6s ease, color 0.3s ease;
+}

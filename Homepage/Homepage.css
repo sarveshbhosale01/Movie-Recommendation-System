@@ -1,0 +1,92 @@
+/* Main Container - Full Screen */
+.Homepage-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  background: url("/HomepagePosters/3458919.jpg") no-repeat center center;
+  background-size: cover;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Fullscreen Slideshow */
+.slideshow-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.slideshow-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Cover full screen */
+  position: absolute;
+  transition: opacity 1s ease-in-out;
+  opacity: 0;
+  filter: blur(3px); /* Slight blur effect */
+}
+
+.slideshow-container img.active {
+  opacity: 1;
+}
+
+/* Centered Signup Container */
+.signup-container {
+  width: 35%;
+  max-width: 400px;
+  padding: 30px;
+  background: rgba(253, 253, 253, 0.95);
+  position: relative;
+  z-index: 2;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  text-align: center;
+}
+
+.signup-container h2, 
+.signup-container h1 {
+  color: #0b0b0b;
+  margin-bottom: 20px;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+  .signup-container {
+    width: 45%;
+  }
+}
+
+@media (max-width: 768px) {
+  .signup-container {
+    width: 80%;
+    padding: 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  .signup-container {
+    width: 90%;
+    padding: 15px;
+  }
+
+  .signup-container h1, .signup-container h2 {
+    font-size: 1.3rem;
+  }
+}
+
+@media (max-width: 360px) {
+  .signup-container {
+    width: 95%;
+    padding: 10px;
+  }
+
+  .signup-container h1, .signup-container h2 {
+    font-size: 1.1rem;
+  }
+}

@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "title": "The Social Network",
+      "poster": "/MoviesSectionPosters/MovieS3/The Social Network.jpg",
+      "duration": "2h",
+      "language": "English",
+      "rating": 7.7,
+      "genre": "Biography, Drama",
+      "summary": "The story of Facebook's creation and the lawsuits that followed.",
+      "youtubeTrailer": "https://www.youtube.com/watch?v=lB95KLmpLR4"
+    },
+    {
+      "id": 2,
+      "title": "The Theory of Everything",
+      "poster": "/MoviesSectionPosters/MovieS3/thetheoryofeverything.jpg",
+      "duration": "2h 3m",
+      "language": "English",
+      "rating": 7.7,
+      "genre": "Biography, Drama, Romance",
+      "summary": "The life story of physicist Stephen Hawking and his relationship with his first wife, Jane.",
+      "youtubeTrailer": "https://www.youtube.com/watch?v=Salz7uGp72c"
+    },
+    {
+      "id": 3,
+      "title": "Bohemian Rhapsody",
+      "poster": "/MoviesSectionPosters/MovieS3/bohemianrhapsody.jpg",
+      "duration": "2h 14m",
+      "language": "English",
+      "rating": 7.9,
+      "genre": "Biography, Drama, Music",
+      "summary": "The story of Freddie Mercury and the rise of Queen.",
+      "youtubeTrailer": "https://www.youtube.com/watch?v=mP0VHJYFOAU"
+    },
+    {
+      "id": 4,
+      "title": "Schindler's List",
+      "poster": "/MoviesSectionPosters/MovieS3/schindlerslist.jpg",
+      "duration": "3h 15m",
+      "language": "English",
+      "rating": 9.0,
+      "genre": "Biography, Drama, History",
+      "summary": "The story of Oskar Schindler, a businessman who saved over a thousand Jews during the Holocaust.",
+      "youtubeTrailer": "https://www.youtube.com/watch?v=gG22XNhtnoY"
+    },
+    {
+      "id": 5,
+      "title": "A Beautiful Mind",
+      "poster": "/MoviesSectionPosters/MovieS3/abeautifulmind.jpg",
+      "duration": "2h 15m",
+      "language": "English",
+      "rating": 8.2,
+      "genre": "Biography, Drama",
+      "summary": "The story of John Nash, a brilliant but asocial mathematician struggling with schizophrenia.",
+      "youtubeTrailer": "https://www.youtube.com/watch?v=aS_d0Ayjw4o"
+    },
+    {
+      "id": 6,
+      "title": "Gandhi",
+      "poster": "/MoviesSectionPosters/MovieS3/gandhi.jpg",
+      "duration": "3h 11m",
+      "language": "English",
+      "rating": 8.0,
+      "genre": "Biography, Drama, History",
+      "summary": "A portrayal of Mahatma Gandhi's non-violent struggle for India's independence.",
+      "youtubeTrailer": "https://www.youtube.com/watch?v=vIEhhRRhiyw"
+    },
+    {
+      "id": 7,
+      "title": "Rocketman",
+      "poster": "/MoviesSectionPosters/MovieS3/rocketman.jpg",
+      "duration": "2h 1m",
+      "language": "English",
+      "rating": 7.3,
+      "genre": "Biography, Drama, Music",
+      "summary": "A musical biopic of Elton John’s breakthrough years.",
+      "youtubeTrailer": "https://www.youtube.com/watch?v=S3vO8E2e6G0"
+    },
+    {
+      "id": 8,
+      "title": "Hidden Figures",
+      "poster": "/MoviesSectionPosters/MovieS3/hiddenfigures.jpg",
+      "duration": "2h 7m",
+      "language": "English",
+      "rating": 7.8,
+      "genre": "Biography, Drama, History",
+      "summary": "The untold story of three African-American women mathematicians who played pivotal roles at NASA during the space race.",
+      "youtubeTrailer": "https://www.youtube.com/watch?v=5wfrDhgUMGI"
+    },
+    {
+      "id": 16,
+      "title": "M.S. Dhoni: The Untold Story",
+      "poster": "/MoviesSectionPosters/MovieS3/msdhoni.jpg",
+      "duration": "3h 10m",
+      "language": "Hindi",
+      "rating": 7.9,
+      "genre": "Biography, Drama, Sport",
+      "summary": "The journey of Indian cricketer Mahendra Singh Dhoni from a ticket collector to a World Cup-winning captain.",
+      "youtubeTrailer": "https://youtu.be/6L6XqWoS8tw?feature=shared"
+    },
+    {
+      "id": 17,
+      "title": "Neerja",
+      "poster": "/MoviesSectionPosters/MovieS3/neerja.jpg",
+      "duration": "2h 2m",
+      "language": "Hindi",
+      "rating": 7.7,
+      "genre": "Biography, Drama, Thriller",
+      "summary": "The courageous story of Neerja Bhanot, who sacrificed her life to save passengers during a hijacking.",
+      "youtubeTrailer": "https://youtu.be/7779JrWy04g?feature=shared"
+    },
+    {
+      "id": 18,
+      "title": "Sarbjit",
+      "poster": "/MoviesSectionPosters/MovieS3/sarbjit.jpg",
+      "duration": "2h 12m",
+      "language": "Hindi",
+      "rating": 7.3,
+      "genre": "Biography, Drama",
+      "summary": "The story of Sarabjit Singh, who was wrongfully imprisoned in Pakistan and his sister's fight for justice.",
+      "youtubeTrailer": "https://youtu.be/q1kYpWU7apI?feature=shared"
+    },
+    {
+      "id": 19,
+      "title": "The Dirty Picture",
+      "poster": "/MoviesSectionPosters/MovieS3/thedirtypicture.jpg",
+      "duration": "2h 24m",
+      "language": "Hindi",
+      "rating": 6.6,
+      "genre": "Biography, Drama, Musical",
+      "summary": "Based on the life of South Indian actress Silk Smitha and her rise to fame and subsequent fall.",
+      "youtubeTrailer": "https://youtu.be/k6JHa8AgEgI?feature=shared"
+    },
+    {
+      "id": 20,
+      "title": "Super 30",
+      "poster": "/MoviesSectionPosters/MovieS3/super30.jpg",
+      "duration": "2h 34m",
+      "language": "Hindi",
+      "rating": 7.9,
+      "genre": "Biography, Drama",
+      "summary": "The inspiring story of Anand Kumar, who coached underprivileged students to crack India's toughest exams.",
+      "youtubeTrailer": "https://youtu.be/QpvEWVVnICE?feature=shared"
+    },
+    {
+      "id": 21,
+      "title": "Paan Singh Tomar",
+      "poster": "/MoviesSectionPosters/MovieS3/paansinghtomar.jpg",
+      "duration": "2h 15m",
+      "language": "Hindi",
+      "rating": 8.2,
+      "genre": "Action, Biography, Crime",
+      "summary": "The story of an Indian athlete who became a notorious bandit.",
+      "youtubeTrailer": "https://youtu.be/TT--NbNqiHE?feature=shared"
+    },
+    {
+      "id": 23,
+      "title": "Shakuntala Devi",
+      "poster": "/MoviesSectionPosters/MovieS3/shakuntaladevi.jpg",
+      "duration": "2h 7m",
+      "language": "Hindi",
+      "rating": 6.1,
+      "genre": "Biography, Drama",
+      "summary": "The life of mathematical genius Shakuntala Devi, who was known as the 'Human Computer.'",
+      "youtubeTrailer": "https://youtu.be/8HA1HRufYso?feature=shared"
+    }
+  ]
+  

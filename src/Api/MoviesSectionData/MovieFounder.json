@@ -1,0 +1,194 @@
+[
+    
+      {
+        "id": 1,
+        "title": "The Social Network",
+        "poster": "/MoviesSectionPosters/MovieS5/social_network.jpg",
+        "duration": "2h",
+        "language": "English",
+        "rating": 7.7,
+        "genre": "Biography, Drama",
+        "summary": "A gripping tale of Facebook's creation by Mark Zuckerberg and the legal battles that followed.",
+        "youtubeTrailer": "https://youtu.be/lB95KLmpLR4?feature=shared"
+      },
+      {
+        "id": 2,
+        "title": "Steve Jobs",
+        "poster": "/MoviesSectionPosters/MovieS5/steve_jobs.jpg",
+        "duration": "2h 2m",
+        "language": "English",
+        "rating": 7.2,
+        "genre": "Biography, Drama",
+        "summary": "A deep dive into the life of Apple's co-founder, focusing on key product launches and his leadership style.",
+        "youtubeTrailer": "https://youtu.be/aEr6K1bwIVs?feature=shared"
+      },
+      {
+        "id": 3,
+        "title": "The Founder",
+        "poster": "/MoviesSectionPosters/MovieS5/the_founder.jpg",
+        "duration": "1h 55m",
+        "language": "English",
+        "rating": 7.2,
+        "genre": "Biography, Drama",
+        "summary": "The story of Ray Kroc and how he turned McDonald's into a global franchise.",
+        "youtubeTrailer": "https://youtu.be/AX2uz2XYkbo?feature=shared"
+      },
+      {
+        "id": 4,
+        "title": "The Pursuit of Happyness",
+        "poster": "/MoviesSectionPosters/MovieS5/pursuit_of_happyness..jpg",
+        "duration": "1h 57m",
+        "language": "English",
+        "rating": 8.0,
+        "genre": "Biography, Drama",
+        "summary": "The story of Chris Gardner, who goes from homelessness to becoming a successful stockbroker.",
+        "youtubeTrailer": "https://youtu.be/DMOBlEcRuw8?feature=shared"
+      },
+      {
+        "id": 5,
+        "title": "Joy",
+        "poster": "/MoviesSectionPosters/MovieS5/joy.jpg",
+        "duration": "2h 4m",
+        "language": "English",
+        "rating": 6.6,
+        "genre": "Biography, Drama",
+        "summary": "The story of Joy Mangano, the inventor of the Miracle Mop, and her journey to success.",
+        "youtubeTrailer": "https://youtu.be/uR-2TiQVY-k?feature=shared"
+      },
+      {
+        "id": 6,
+        "title": "Ford v Ferrari",
+        "poster": "/MoviesSectionPosters/MovieS5/ford_v_ferrari.jpg",
+        "duration": "2h 32m",
+        "language": "English",
+        "rating": 8.1,
+        "genre": "Action, Biography, Drama",
+        "summary": "A thrilling tale of the rivalry between Ford and Ferrari in the 1960s.",
+        "youtubeTrailer": "https://youtu.be/zyYgDtY2AMY?feature=shared"
+      },
+     
+      {
+        "id": 7,
+        "title": "Moneyball",
+        "poster": "/MoviesSectionPosters/MovieS5/moneyball.jpg",
+        "duration": "2h 13m",
+        "language": "English",
+        "rating": 7.6,
+        "genre": "Biography, Drama, Sport",
+        "summary": "The story of Billy Beane and his revolutionary approach to building a baseball team with data-driven decisions.",
+        "youtubeTrailer": "https://youtu.be/-4QPVo0UIzc?feature=shared"
+      },
+      {
+        "id": 8,
+        "title": "Jerry Maguire",
+        "poster": "/MoviesSectionPosters/MovieS5/jerry_maguire.jpg",
+        "duration": "2h 19m",
+        "language": "English",
+        "rating": 7.3,
+        "genre": "Comedy, Drama, Romance",
+        "summary": "A sports agent rebuilds his career after being fired, emphasizing personal connections and integrity.",
+        "youtubeTrailer": "https://youtu.be/KUd3gwaf0KQ?feature=shared"
+      },
+      {
+        "id": 9,
+        "title": "The Intern",
+        "poster": "/MoviesSectionPosters/MovieS5/the_intern.jpg",
+        "duration": "2h 1m",
+        "language": "English",
+        "rating": 7.1,
+        "genre": "Comedy, Drama",
+        "summary": "A heartwarming story about a young entrepreneur and her unlikely intern, highlighting the balance of personal and professional life.",
+        "youtubeTrailer": "https://youtu.be/ZU3Xban0Y6A?feature=shared"
+      },
+      {
+        "id": 10,
+        "title": "Pirates of Silicon Valley",
+        "poster": "/MoviesSectionPosters/MovieS5/pirates_of_silicon_valley.jpg",
+        "duration": "1h 35m",
+        "language": "English",
+        "rating": 7.2,
+        "genre": "Biography, Drama, History",
+        "summary": "A dramatization of the rivalry between Steve Jobs and Bill Gates during the early days of personal computing.",
+        "youtubeTrailer": "https://youtu.be/nzJLmcGfMag?feature=shared"
+      },
+      {
+        "id": 2,
+        "title": "Rocket Singh: Salesman of the Year",
+        "poster": "/MoviesSectionPosters/MovieS5/rocketsingh.jpg",
+        "duration": "2h 36m",
+        "language": "Hindi",
+        "rating": 7.5,
+        "genre": "Comedy, Drama",
+        "summary": "A young graduate turns his simple sales job into a flourishing business.",
+        "youtubeTrailer": "https://youtu.be/yQKXMw4Lq9E?feature=shared"
+      },
+      {
+        "id": 3,
+        "title": "Manjhi: The Mountain Man",
+        "poster": "/MoviesSectionPosters/MovieS5/manjhi.jpg",
+        "duration": "2h",
+        "language": "Hindi",
+        "rating": 8.0,
+        "genre": "Biography, Drama",
+        "summary": "The true story of Dashrath Manjhi, who carved a road through a mountain using just a hammer and chisel.",
+        "youtubeTrailer": "https://youtu.be/I9KAoTQlEWs?feature=shared"
+      },
+      {
+        "id": 5,
+        "title": "Band Baaja Baaraat",
+        "poster": "/MoviesSectionPosters/MovieS5/bandbaajabaaraat.jpg",
+        "duration": "2h 19m",
+        "language": "Hindi",
+        "rating": 7.2,
+        "genre": "Comedy, Drama, Romance",
+        "summary": "Two ambitious wedding planners from Delhi strive to make their business a success.",
+        "youtubeTrailer": "https://youtu.be/jz39LhmDNm8?feature=shared"
+      },
+      {
+        "id": 13,
+        "title": "Gully Boy",
+        "poster": "/MoviesSectionPosters/MovieS5/gullyboy.jpg",
+        "duration": "2h 33m",
+        "language": "Hindi",
+        "rating": 8.0,
+        "genre": "Drama, Music",
+        "summary": "A street rapper rises from the slums to achieve success.",
+        "youtubeTrailer": "https://youtu.be/JfbxcD6biOk?feature=shared"
+      },
+      {
+        "id": 11,
+        "title": "Bhaag Milkha Bhaag",
+        "poster": "/MoviesSectionPosters/MovieS5/bhaagmilkhabhaag.jpg",
+        "duration": "3h 9m",
+        "language": "Hindi",
+        "rating": 8.2,
+        "genre": "Biography, Drama, Sport",
+        "summary": "The inspiring story of Milkha Singh, India's 'Flying Sikh'.",
+        "youtubeTrailer": "https://youtu.be/0nR9JS2WsNg?feature=shared"
+      },
+      {
+        "id": 12,
+        "title": "Mary Kom",
+        "poster": "/MoviesSectionPosters/MovieS5/marykom.jpg",
+        "duration": "2h 2m",
+        "language": "Hindi",
+        "rating": 6.8,
+        "genre": "Biography, Drama, Sport",
+        "summary": "The journey of Indian boxer Mary Kom's rise to prominence.",
+        "youtubeTrailer": "https://youtu.be/OxsKcx1IwI8?feature=shared"
+      },
+      {
+        "id": 7,
+        "title": "Padman",
+        "poster": "/MoviesSectionPosters/MovieS5/padman.jpg",
+        "duration": "2h 20m",
+        "language": "Hindi",
+        "rating": 7.9,
+        "genre": "Biography, Comedy, Drama",
+        "summary": "The story of a man who invented low-cost sanitary napkins to empower women.",
+        "youtubeTrailer": "https://youtu.be/-K9ujx8vO_A?feature=shared"
+      }
+
+    ]
+  
+  

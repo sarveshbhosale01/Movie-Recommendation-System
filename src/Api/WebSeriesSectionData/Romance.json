@@ -1,0 +1,187 @@
+[
+   
+        {
+          "id": 1,
+          "title": "Crazy Rich Asians",
+          "poster": "/WebSeriesPosters/WebSeriesS7/CrazyRichAsians.jpg",
+          "duration": "2h",
+          "language": "English",
+          "rating": 6.9,
+          "type": "RomanticComedies",
+          "genre": "Comedy, Romance",
+          "summary": "A woman discovers that her boyfriend is incredibly wealthy and struggles to navigate the social dynamics of his elite family.",
+          "youtubeTrailer": "https://youtu.be/G2FyUZweQlE?feature=shared"
+        },
+        {
+          "id": 2,
+          "title": "10 Things I Hate About You",
+          "poster": "/WebSeriesPosters/WebSeriesS7/10ThingsIHateAboutYou.jpg",
+          "duration": "1h 40m",
+          "language": "English",
+          "rating": 7.3,
+          "type": "RomanticComedies",
+          "genre": "Comedy, Drama, Romance",
+          "summary": "A modern retelling of Shakespeare’s 'The Taming of the Shrew,' revolving around a high school romance and witty banter.",
+          "youtubeTrailer": "https://youtu.be/uE7qjQlfoRs?feature=shared"
+        },
+        {
+          "id": 3,
+          "title": "Notting Hill",
+          "poster": "/WebSeriesPosters/WebSeriesS7/nottinghill.jpg",
+          "duration": "2h",
+          "language": "English",
+          "rating": 7.1,
+          "type": "RomanticComedies",
+          "genre": "Comedy, Drama, Romance",
+          "summary": "A humble bookstore owner falls for a famous movie star, leading to complications in their romance.",
+          "youtubeTrailer": "https://youtu.be/4RI0QvaGoiI?feature=shared"
+        },
+        {
+          "id": 4,
+          "title": "Love Actually",
+          "poster": "/WebSeriesPosters/WebSeriesS7/loveactually.jpg",
+          "duration": "2h 15m",
+          "language": "English",
+          "rating": 7.6,
+          "type": "RomanticComedies",
+          "genre": "Comedy, Drama, Romance",
+          "summary": "A series of interwoven stories exploring love in all its forms during the Christmas season.",
+          "youtubeTrailer": "https://youtu.be/H9Z3_ifFheQ?feature=shared"
+        },
+        {
+          "id": 5,
+          "title": "When Harry Met Sally",
+          "poster": "/WebSeriesPosters/WebSeriesS7/WhenHarryMetSally.jpg",
+          "duration": "1h 36m",
+          "language": "English",
+          "rating": 7.6,
+          "type": "RomanticComedies",
+          "genre": "Comedy, Drama, Romance",
+          "summary": "Two friends navigate the complicated question of whether men and women can just be friends, with love blossoming in unexpected ways.",
+          "youtubeTrailer": "https://youtu.be/-E10AcydCuk?feature=shared"
+        },
+      
+        {
+          "id": 1,
+          "title": "Twilight",
+          "poster": "/WebSeriesPosters/WebSeriesS7/Twilight.jpg",
+          "duration": "2h 5m",
+          "language": "English",
+          "rating": 5.2,
+          "type": "LoveTriangles",
+          "genre": "Adventure, Drama, Fantasy",
+          "summary": "A teenager finds herself caught between a vampire and a werewolf, leading to a love triangle that tests her loyalty and emotions.",
+          "youtubeTrailer": "https://youtu.be/QDRLSqm_WVg?feature=shared"
+        },
+        {
+          "id": 2,
+          "title": "The Hunger Games",
+          "poster": "/WebSeriesPosters/WebSeriesS7/TheHungerGames.jpg",
+          "duration": "2h 22m",
+          "language": "English",
+          "rating": 7.2,
+          "type": "LoveTriangles",
+          "genre": "Action, Adventure, Science Fiction",
+          "summary": "In a dystopian future, a young woman finds herself in a love triangle with two men while fighting for survival in a deadly competition.",
+          "youtubeTrailer": "https://youtu.be/mfmrPu43DF8?feature=shared"
+        },
+        {
+          "id": 3,
+          "title": "Pride and Prejudice",
+          "poster": "/WebSeriesPosters/WebSeriesS7/PrideAndPrejudice.jpg",
+          "duration": "2h 9m",
+          "language": "English",
+          "rating": 7.8,
+          "type": "LoveTriangles",
+          "genre": "Drama, Romance",
+          "summary": "A young woman faces a love triangle between two very different suitors, navigating society’s expectations and her own desires.",
+          "youtubeTrailer": "https://youtu.be/cTZAzVzFShw?feature=shared"
+        },
+        {
+          "id": 4,
+          "title": "Dawson's Creek",
+          "poster": "/WebSeriesPosters/WebSeriesS7/DawsonsCreek.jpg",
+          "duration": "45m (per episode)",
+          "language": "English",
+          "rating": 6.8,
+          "type": "LoveTriangles",
+          "genre": "Drama, Romance",
+          "summary": "Three friends navigate their relationships and emotions in a complicated love triangle during their teen years.",
+          "youtubeTrailer": "https://youtu.be/sybqZGTyKFQ?feature=shared"
+        },
+        {
+          "id": 5,
+          "title": "The Vampire Diaries",
+          "poster": "/WebSeriesPosters/WebSeriesS7/TheVampireDiaries.jpg",
+          "duration": "43m (per episode)",
+          "language": "English",
+          "rating": 7.7,
+          "type": "LoveTriangles",
+          "genre": "Drama, Fantasy, Romance",
+          "summary": "A young woman is torn between two vampire brothers, one with a dark past and the other with a deep love for her.",
+          "youtubeTrailer": "https://youtu.be/BmVmhjjkN4E?feature=shared"
+        },
+     
+    
+        {
+          "id": 1,
+          "title": "Downton Abbey",
+          "poster": "/WebSeriesPosters/WebSeriesS7/DowntonAbbey.jpg",
+          "duration": "1h",
+          "language": "English",
+          "rating": 8.7,
+          "type": "PeriodRomances",
+          "genre": "Drama, Romance",
+          "summary": "The lives of the aristocratic Crawley family and their servants unfold in this period drama, with love and romance as key themes.",
+          "youtubeTrailer": "https://youtu.be/fMkiSqBraD0?feature=shared"
+        },
+        {
+          "id": 2,
+          "title": "Bridgerton",
+          "poster": "/WebSeriesPosters/WebSeriesS7/Bridgerton.jpg",
+          "duration": "1h",
+          "language": "English",
+          "rating": 7.3,
+          "type": "PeriodRomances",
+          "genre": "Drama, Romance",
+          "summary": "In Regency-era London, a high-society debutante navigates love, scandal, and intrigue with a handsome suitor.",
+          "youtubeTrailer": "https://youtu.be/gpv7ayf_tyE?feature=shared"
+        },
+        {
+          "id": 3,
+          "title": "The Notebook",
+          "poster": "/WebSeriesPosters/WebSeriesS7/TheNotebook.jpg",
+          "duration": "2h 3m",
+          "language": "English",
+          "rating": 7.8,
+          "type": "PeriodRomances",
+          "genre": "Drama, Romance",
+          "summary": "A young couple in the 1940s falls in love despite social class differences, but their romance faces many challenges over the years.",
+          "youtubeTrailer": "https://youtu.be/BjJcYdEOI0k?feature=shared"
+        },
+        {
+          "id": 4,
+          "title": "Sense and Sensibility",
+          "poster": "/WebSeriesPosters/WebSeriesS7/SenseAndSensibility.jpg",
+          "duration": "1h 55m",
+          "language": "English",
+          "rating": 7.7,
+          "type": "PeriodRomances",
+          "genre": "Drama, Romance",
+          "summary": "Two sisters navigate romantic entanglements and societal pressures in 19th-century England.",
+          "youtubeTrailer": "https://youtu.be/2WGq2Rbs1Qg?feature=shared"
+        },
+        {
+          "id": 5,
+          "title": "Little Women",
+          "poster": "/WebSeriesPosters/WebSeriesS7/LittleWomen.jpg",
+          "duration": "2h 15m",
+          "language": "English",
+          "rating": 7.8,
+          "type": "PeriodRomances",
+          "genre": "Drama, Romance",
+          "summary": "The four March sisters come of age during the American Civil War, discovering love, loss, and the complexities of growing up.",
+          "youtubeTrailer": "https://youtu.be/AST2-4db4ic?feature=shared"
+        }
+    ]
+  

@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "title": "Gintama",
+      "poster": "/AnimeSectionPosters/AnimeS10/Gintama.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 9.0,
+      "genre": "Action, Comedy, Sci-Fi",
+      "summary": "Follow the hilarious adventures of Gintoki and his friends as they tackle odd jobs and encounter eccentric characters in an alternate Edo period.",
+      "youtubeTrailer": "https://youtu.be/bZYysREKnm4?feature=shared"
+    },
+    {
+      "id": 2,
+      "title": "KonoSuba: God's Blessing on This Wonderful World!",
+      "poster": "/AnimeSectionPosters/AnimeS10/Konosuba.jpg",
+      "duration": "23 min/episode",
+      "language": "Japanese",
+      "rating": 8.2,
+      "genre": "Adventure, Comedy, Fantasy",
+      "summary": "A dead gamer gets transported to a fantasy world, where he teams up with an eccentric goddess, a masochistic knight, and a crazy mage.",
+      "youtubeTrailer": "https://youtu.be/h4dX58X6ln4?feature=shared"
+    },
+    {
+      "id": 3,
+      "title": "Nichijou: My Ordinary Life",
+      "poster": "/AnimeSectionPosters/AnimeS10/Nichijou.jpg",
+      "duration": "25 min/episode",
+      "language": "Japanese",
+      "rating": 8.5,
+      "genre": "Comedy, Slice of Life",
+      "summary": "A comedic look at the surreal and exaggerated moments in the everyday lives of three high school girls and a robot caretaker.",
+      "youtubeTrailer": "Nichijou: My Ordinary Life"
+    },
+    {
+      "id": 4,
+      "title": "One Punch Man",
+      "poster": "/AnimeSectionPosters/AnimeS10/OnePunchMan.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.7,
+      "genre": "Action, Comedy, Superhero",
+      "summary": "Saitama, a hero who defeats enemies with a single punch, struggles with boredom and finding worthy opponents.",
+      "youtubeTrailer": "https://youtu.be/Poo5lqoWSGw?feature=shared"
+    },
+    {
+      "id": 5,
+      "title": "The Disastrous Life of Saiki K.",
+      "poster": "/AnimeSectionPosters/AnimeS10/SaikiK.jpg",
+      "duration": "23 min/episode",
+      "language": "Japanese",
+      "rating": 8.4,
+      "genre": "Comedy, Supernatural, Slice of Life",
+      "summary": "Saiki, a psychic high schooler, tries to live a normal life despite his overwhelming powers and bizarre friends.",
+      "youtubeTrailer": "https://youtu.be/RChRfCHWsOI?feature=shared"
+    },
+    {
+      "id": 6,
+      "title": "Asobi Asobase",
+      "poster": "/AnimeSectionPosters/AnimeS10/AsobiAsobase.jpg",
+      "duration": "23 min/episode",
+      "language": "Japanese",
+      "rating": 8.0,
+      "genre": "Comedy, School, Slice of Life",
+      "summary": "Three schoolgirls form a play club, leading to absurd and hilarious antics as they navigate friendship and competitiveness.",
+      "youtubeTrailer": "https://youtu.be/wcLsH9ROgfo?feature=shared"
+    },
+    {
+      "id": 7,
+      "title": "Ouran High School Host Club",
+      "poster": "/AnimeSectionPosters/AnimeS10/Ouran.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.2,
+      "genre": "Comedy, Romance, School",
+      "summary": "A scholarship student at an elite academy accidentally joins a host club and gets caught up in its ridiculous antics.",
+      "youtubeTrailer": "https://youtu.be/3037yXe95xs?feature=shared"
+    },
+    {
+      "id": 8,
+      "title": "Haven't You Heard? I'm Sakamoto",
+      "poster": "/AnimeSectionPosters/AnimeS10/Sakamoto.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 7.6,
+      "genre": "Comedy, School, Slice of Life",
+      "summary": "Sakamoto, the coolest high school student, effortlessly solves every problem with style and grace, to everyone's amazement.",
+      "youtubeTrailer": "https://youtu.be/ljOzHpZb8xM?feature=shared"
+    },
+    {
+      "id": 9,
+      "title": "Daily Lives of High School Boys",
+      "poster": "/AnimeSectionPosters/AnimeS10/HighSchoolBoys.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.3,
+      "genre": "Comedy, Slice of Life",
+      "summary": "Follow the hilarious daily lives of three high school boys as they experience absurd and awkward teenage moments.",
+      "youtubeTrailer": "https://youtu.be/BsQj0RYzW98?feature=shared"
+    },
+    {
+      "id": 10,
+      "title": "Lucky☆Star",
+      "poster": "/AnimeSectionPosters/AnimeS10/LuckyStar.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 7.7,
+      "genre": "Comedy, Slice of Life",
+      "summary": "A lighthearted and humorous look at the daily lives of a group of quirky high school girls and their conversations about life, anime, and food.",
+      "youtubeTrailer": "https://youtu.be/b8bSIgE8epA?feature=shared"
+    }
+  ]
+  

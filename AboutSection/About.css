@@ -1,0 +1,280 @@
+/* About.css */
+
+.CreditDisclaimer-container {
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 16px;
+    color: white;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+  }
+  
+  .CreditDisclaimer-container h1 {
+    font-size: 3rem;
+    color: #fff;
+    margin-bottom: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+  }
+  .CreditDisclaimer-container p span {
+    color: white;
+  }
+  
+  .CreditDisclaimer-container p {
+    font-size: 1.2rem;
+    color: #b1aeae;
+    line-height: 1.8;
+    margin-bottom: 20px;
+    font-family: "Poppins";
+  }
+  
+  .CreditDisclaimer-icons li {
+    color: #2973B2;
+  }
+  .CreditDisclaimer-logo a:hover {
+    color: #fdfcfc !important;
+  }
+  .CreditDisclaimer-links {
+    display: flex;
+    align-items: center;
+    flex-grow: 1; /* Allow links to grow and fill available space */
+  }
+  
+  /* Anime Right Links Container */
+  .CreditDisclaimer-link2 {
+    display: flex;
+    align-items: center;
+    gap: 0px;
+  }
+  
+  /* Center Toggle Button */
+  .CreditDisclaimerThemeToggle {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    cursor: pointer;
+    font-size: 24px;
+    color: #000000;
+    transition: color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .CreditDisclaimerThemeToggle:hover {
+    color: #fff;
+    transform: scale(1.1);
+  }
+  .CreditDisclaimer-logo a {
+    font-size: 25px !important;
+    font-weight: bold ;
+    text-transform: uppercase ;
+    color: #2973B2 ;
+    letter-spacing: 10px;
+    text-decoration: none ;
+  }
+  
+  .CreditDisclaimer-logo a:hover {
+    color: #fdfcfc !important;
+  }
+  .CreditDisclaimerThemeToggle {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    cursor: pointer;
+    font-size: 24px;
+    color: #000000;
+    transition: color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .CreditDisclaimerthemeToggle:hover {
+    color: #fff;
+    transform: scale(1.1);
+  }
+  .CreditDisclaimer-logo a {
+    font-size: 25px ;
+    font-weight: bold ;
+    text-transform: uppercase ;
+    color: #2973B2 ;
+    letter-spacing: 10px;
+    text-decoration: none ;
+  }
+  
+  .CreditDisclaimer-logo a:hover {
+    color: #fdfcfc !important;
+  }
+  .CreditDisclaimer-icons li {
+    color: #2973B2;
+  }
+  .CreditDisclaimer-logo a:hover {
+    color: #000000 !important;
+  }
+  .CreditDisclaimer-links {
+    display: flex;
+    align-items: center;
+    gap: 0px;
+  }
+  
+  /* Anime Right Links Container */
+  .CreditDisclaimer-link2 {
+    display: flex;
+    align-items: center;
+  }
+  .CreditDisclaimer-Nav nav {
+    background-color: #333;
+    color: #fff;
+    padding: 1px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0px;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.508);
+  }
+  
+  /* Navigation List */
+  .CreditDisclaimer-Nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    
+  }
+  
+  .CreditDisclaimer-Nav ul li {
+    margin: 0;
+  }
+  
+  /* Navigation Links */
+  .CreditDisclaimer-Nav ul a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 8px 42px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    display: block;
+    white-space: nowrap; /* Prevents text from breaking */
+    gap: 90px;
+  }
+  
+  .CreditDisclaimer-Nav ul a:hover {
+    background-color: #fff;
+    border-radius: 5px;
+    color: #090a0b;
+  }
+  @media (max-width: 1024px) {
+    .CreditDisclaimer-Nav ul a {
+      font-size: 14px;
+      padding: 6px 12px;
+    }
+  }
+  
+  @media (max-width: 900px) {
+    .CreditDisclaimer-toggle {
+      display: block;
+    }
+    .CreditDisclaimer-Nav ul a {
+      font-size: 10px;
+      padding: 5px 10px;
+    }
+    @media (max-width: 600px) {
+      .CreditDisclaimer-Nav nav {
+        padding: 10px;
+      }
+      .CreditDisclaimer-Nav ul a {
+        font-size: 6px;
+        padding: 4px 8px;
+      }
+    
+      .CreditDisclaimer-Nav .logo {
+        font-size: 18px;
+      }
+    
+      .CreditDisclaimer-Nav ul a {
+        font-size: 14px;
+        padding: 10px;
+      }
+    }
+  
+    .CreditDisclaimer-Nav ul {
+      display: none;
+      flex-direction: column;
+      background-color: #333;
+      position: absolute;
+      top: 100%;
+      right: 0;
+      width: 100%;
+      text-align: center;
+      padding: 10px 0;
+    }
+  
+    .CreditDisclaimer-Nav ul.active {
+      display: flex;
+    }
+  
+    .CreditDisclaimer-Nav ul a {
+      font-size: 16px;
+      padding: 12px;
+    }
+  }
+/* Logo Styling */
+.CreditDisclaimer-Nav .logo {
+  font-size: 25px;
+  font-weight: bold;
+  color: #f7f7f7;
+  text-transform: uppercase;
+}
+.CreditDisclaimer-logo a {
+  font-size: 25px !important;
+  font-weight: bold !important;
+  text-transform: uppercase !important;
+  color: #f2f3f2 !important;
+  letter-spacing: 10px !important;
+  text-decoration: none !important;
+}
+
+/*Theme */
+/* Default Light Mode */
+
+
+/* Dark mode */
+.dark-mode .CreditDisclaimer-FrontPage {
+  background-color: rgb(229, 226, 226, 0.007) !important;
+}
+.dark-mode .CreditDisclaimer-container{
+  background-color: rgb(0, 0, 0) !important;
+}
+
+.dark-mode .CreditDisclaimer-container h1
+{
+  color: #ffffff !important;
+}
+.dark-mode .CreditDisclaimer-container p {
+  color: #fffafa !important;
+}
+.dark-mode .CreditDisclaimer-container span {
+  color: #ffffff !important;
+}
+/* light mode */
+.light-mode .CreditDisclaimer-FrontPage {
+  background-color: rgba(229, 226, 226, 0.007) !important;
+}
+.light-mode .CreditDisclaimer-container{
+  background-color: rgb(255, 255, 255);
+}
+
+.light-mode .CreditDisclaimer-container h1
+{
+  color: #000000 !important;
+}
+.light-mode .CreditDisclaimer-container p {
+  color: #000000 !important;
+}
+.light-mode .CreditDisclaimer-container span {
+  color: #000000 !important;
+}

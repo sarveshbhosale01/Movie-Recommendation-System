@@ -1,0 +1,267 @@
+/* Global Styling */
+body {
+  margin: 0;
+  padding: 0;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* Navbar */
+.Contact-Nav {
+  background: #353535;
+  padding: 1px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.Contact-logo a {
+  font-size: 25px !important;
+  font-weight: bold !important;
+  text-transform: uppercase !important;
+  color: #ffffff !important;
+  letter-spacing: 10px !important;
+  text-decoration: none !important;
+}
+.Contact-logo a:hover{
+  background-color: #fff !important;
+  color: #000000 !important;
+}
+
+.Contact-links {
+  display: flex;
+  align-items: center;
+  gap: 0px;
+}
+.Contact-link2 {
+  display: flex;
+  align-items: center;
+}
+
+/* Toggle Button */
+.Contact-icons {
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.Contact-icons:hover {
+  transform: scale(1.1);
+}
+
+/* Contact Page */
+.Contact-FrontPage {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 50px 20px;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+.Contact-leftside {
+  position: relative;
+  margin-right: 80px;
+  max-width: 400px;
+  margin-bottom: 300px;
+}
+
+/* Contact Container */
+.Contact-container {
+  max-width: 600px;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(10px);
+  clip-path: ellipse(90% 95% at 50% 25%);
+}
+
+/* Contact Details */
+.Contact-details {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.Contact-info {
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.Contact-info strong {
+  font-size: 18px;
+}
+
+/* Form Styling */
+.Contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.Contact-form input,
+.Contact-form textarea {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  outline: none;
+  transition: 0.3s;
+}
+
+.Contact-form textarea {
+  height: 100px;
+  resize: none;
+}
+
+/* Checkbox Styling */
+.Contact-likes {
+  text-align: left;
+}
+
+.Contact-checkbox {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.Contact-checkbox input {
+  width: 18px;
+  height: 18px;
+}
+
+/* Button */
+button {
+  background: #0a0a0a;
+  color: white;
+  border: none;
+  padding: 12px 18px;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s, transform 0.2s;
+}
+
+button:hover {
+  background: #fffefe;
+  color: black;
+  transform: scale(1.05);
+}
+
+/* Navigation */
+.Contact-Nav nav {
+  background-color: #333;
+  color: #fff;
+  padding: 1px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0px;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.508);
+}
+
+/* Navigation List */
+.Contact-Nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.Contact-Nav ul li {
+  margin: 0;
+}
+
+.Contact-Nav ul a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 8px 42px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  display: block;
+  white-space: nowrap;
+}
+
+.Contact-Nav ul a:hover {
+  background-color: #fff;
+  border-radius: 5px;
+  color: #090a0b;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .Contact-Nav {
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+  }
+  .Contact-container {
+    width: 90%;
+  }
+  .Contact-form input,
+  .Contact-form textarea {
+    font-size: 14px;
+  }
+  button {
+    font-size: 16px;
+  }
+}
+
+/* Dark Mode */
+.dark-mode .Contact-FrontPage {
+  color: white;
+  background: linear-gradient(22deg, #fffefe, #cecdcd);
+  clip-path: ellipse(90% 105% at 50% 25%);
+}
+
+.dark-mode .Contact-container {
+  background: #000000;
+}
+
+.dark-mode .Contact-form input,
+.dark-mode .Contact-form textarea {
+  background-color: #ffffff !important;
+}
+
+.dark-mode .Contact-form button:hover {
+  background-color: rgb(255, 255, 255);
+  color: #000000 !important;
+}
+
+/* Light Mode */
+.light-mode .Contact-FrontPage {
+  color: black;
+  background: linear-gradient(22deg, #ffffff, #fefefe);
+  clip-path: ellipse(90% 105% at 50% 25%);
+}
+
+.light-mode .Contact-container {
+  background: #ffffff;
+}
+
+.light-mode .Contact-form input,
+.light-mode .Contact-form textarea {
+  background-color: #aaaaaa !important;
+}
+.light-mode .Contact-Qlist{
+  padding: 7px  4px;
+  background-color:rgb(255, 255, 255);
+}
+.light-mode .Contact-Qlist :hover{
+  background-color:white;
+  color: #000000;
+}
+
+.light-mode .Contact-form button:hover {
+  background-color: rgb(255, 255, 255);
+  color: #000000 !important;
+}

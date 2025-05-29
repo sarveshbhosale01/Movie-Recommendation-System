@@ -1,0 +1,113 @@
+[
+    {
+      "id": 11,
+      "title": "Chihayafuru",
+      "poster": "/AnimeSectionPosters/AnimeS5/Chihayafuru.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.4,
+      "genre": "Drama, Sports, Romance",
+      "summary": "A high school girl with a passion for the traditional card game karuta, seeks to build a team and bring the game back to the limelight.",
+      "youtubeTrailer": "https://youtu.be/Y8U-E8hldHk?feature=shared"
+    },
+    {
+      "id": 12,
+      "title": "The Ancient Magus' Bride",
+      "poster": "/AnimeSectionPosters/AnimeS5/TheAncientMagusBride.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.5,
+      "genre": "Fantasy, Drama, Romance",
+      "summary": "A girl is sold to a non-human sorcerer to be his apprentice and bride, discovering a magical world full of strange creatures and unexpected love.",
+      "youtubeTrailer": "https://youtu.be/Cx4BjXLm2Z4?feature=shared"
+    },
+    {
+      "id": 13,
+      "title": "Kakuriyo no Yadomeshi",
+      "poster": "/AnimeSectionPosters/AnimeS5/KakuriYado.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 7.8,
+      "genre": "Fantasy, Romance, Slice of Life",
+      "summary": "A girl works at a traditional inn in the supernatural world, learning to live among spirits and demons while facing love and challenges.",
+      "youtubeTrailer": "https://youtu.be/_Y6D042lbfw?feature=shared"
+    },
+    {
+      "id": 14,
+      "title": "March Comes in Like a Lion",
+      "poster": "/AnimeSectionPosters/AnimeS5/MarchComesInLikeALion.jpg",
+      "duration": "22 min/episode",
+      "language": "Japanese",
+      "rating": 8.6,
+      "genre": "Drama, Slice of Life",
+      "summary": "A young professional Shogi player struggles with personal issues and finds solace in a family of three sisters who help him find balance in life.",
+      "youtubeTrailer": "https://youtu.be/ZL5nnx4vd7k?feature=shared"
+    },
+    {
+      "id": 15,
+      "title": "Toradora!",
+      "poster": "/AnimeSectionPosters/AnimeS5/Toradora.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.6,
+      "genre": "Romance, Comedy, Slice of Life",
+      "summary": "Two high school students with opposite personalities form an unlikely alliance to help each other with their crushes, only to develop feelings for each other.",
+      "youtubeTrailer": "https://youtu.be/ya570uUgQNc?feature=shared"
+    },
+    {
+      "id": 16,
+      "title": "Kimi ni Todoke",
+      "poster": "/AnimeSectionPosters/AnimeS5/KimiNiTodoke.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.4,
+      "genre": "Romance, Slice of Life, School",
+      "summary": "A shy and misunderstood girl forms a bond with the most popular boy in her school, eventually opening her heart to love and friendship.",
+      "youtubeTrailer": "https://youtu.be/_gJR6gfRYEQ?feature=shared"
+    },
+    {
+      "id": 17,
+      "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai",
+      "poster": "/AnimeSectionPosters/AnimeS5/Anohana.jpg",
+      "duration": "22 min/episode",
+      "language": "Japanese",
+      "rating": 8.5,
+      "genre": "Drama, Slice of Life",
+      "summary": "A group of childhood friends reunites years after the tragic death of one of their own, struggling with unresolved feelings and their past.",
+      "youtubeTrailer": "https://youtu.be/x8fvwC5xVGg?feature=shared"
+    },
+    {
+      "id": 18,
+      "title": "Orange",
+      "poster": "/AnimeSectionPosters/AnimeS5/Orange.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.3,
+      "genre": "Romance, Drama, Slice of Life",
+      "summary": "A high school girl receives a letter from her future self and tries to prevent the tragedy that will befall her friend, leading to a deeper understanding of love and regret.",
+      "youtubeTrailer": "https://youtu.be/kVDqRG0qbBs?feature=shared"
+    },
+    {
+      "id": 19,
+      "title": "ReLIFE",
+      "poster": "/AnimeSectionPosters/AnimeS5/ReLife.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.0,
+      "genre": "Romance, Slice of Life, School",
+      "summary": "A 27-year-old man is given a chance to relive his high school life as part of an experiment, trying to make better decisions for his future.",
+      "youtubeTrailer": "https://youtu.be/Azs6jA8vRH8?feature=shared"
+    },
+    {
+      "id": 20,
+      "title": "Fruits Basket (2019)",
+      "poster": "/AnimeSectionPosters/AnimeS5/FruitsBasket2019.jpg",
+      "duration": "23 min/episode",
+      "language": "Japanese",
+      "rating": 8.7,
+      "genre": "Drama, Romance, Slice of Life",
+      "summary": "A high school girl becomes involved with a family cursed to transform into animals of the Chinese zodiac, as they struggle with their past and love.",
+      "youtubeTrailer": "https://youtu.be/Wz0P0mYYY0Q?feature=shared"
+    }
+  ]
+  

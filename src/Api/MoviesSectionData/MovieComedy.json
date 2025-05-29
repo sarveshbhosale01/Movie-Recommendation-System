@@ -1,0 +1,215 @@
+[
+    
+      {
+        "id": 1,
+        "title": "The Grand Budapest Hotel",
+        "poster": "/MoviesSectionPosters/MovieS7/grand_budapest_hotel.jpg",
+        "duration": "1h 39m",
+        "language": "English",
+        "rating": 8.1,
+        "genre": "Comedy, Adventure, Crime",
+        "summary": "The adventures of a legendary concierge at a famous European hotel and his friendship with a young employee.",
+        "youtubeTrailer": "https://youtu.be/zru-1DbbcsA?feature=shared"
+      },
+      {
+        "id": 2,
+        "title": "Superbad",
+        "poster": "/MoviesSectionPosters/MovieS7/superbad.jpg",
+        "duration": "1h 53m",
+        "language": "English",
+        "rating": 7.6,
+        "genre": "Comedy",
+        "summary": "Two high school friends try to buy alcohol for a party in hopes of becoming popular before graduation.",
+        "youtubeTrailer": "https://youtu.be/4eaZ_48ZYog?feature=shared"
+      },
+      {
+        "id": 3,
+        "title": "The Hangover",
+        "poster": "/MoviesSectionPosters/MovieS7/the_hangover.jpg",
+        "duration": "1h 40m",
+        "language": "English",
+        "rating": 7.7,
+        "genre": "Comedy",
+        "summary": "Three friends try to piece together the events of a wild bachelor party in Las Vegas.",
+        "youtubeTrailer": "https://youtu.be/tlize92ffnY?feature=shared"
+      },
+      {
+        "id": 4,
+        "title": "Bridesmaids",
+        "poster": "/MoviesSectionPosters/MovieS7/bridesmaids.jpg",
+        "duration": "2h 5m",
+        "language": "English",
+        "rating": 6.8,
+        "genre": "Comedy, Romance",
+        "summary": "Competition between the maid of honor and a bridesmaid over who is the bride's best friend spirals out of control.",
+        "youtubeTrailer": "https://youtu.be/FNppLrmdyug?feature=shared"
+      },
+      {
+        "id": 5,
+        "title": "Hot Fuzz",
+        "poster": "/MoviesSectionPosters/MovieS7/hot_fuzz.jpg",
+        "duration": "2h 1m",
+        "language": "English",
+        "rating": 7.8,
+        "genre": "Action, Comedy, Mystery",
+        "summary": "A top London cop is reassigned to a quiet village where a series of grisly accidents take place.",
+        "youtubeTrailer": "https://youtu.be/ayTnvVpj9t4?feature=shared"
+      },
+      {
+        "id": 6,
+        "title": "21 Jump Street",
+        "poster": "/MoviesSectionPosters/MovieS7/21_jump_street.jpg",
+        "duration": "1h 49m",
+        "language": "English",
+        "rating": 7.2,
+        "genre": "Action, Comedy, Crime",
+        "summary": "Two underachieving cops are sent back to high school to blend in and bring down a synthetic drug ring.",
+        "youtubeTrailer": "https://youtu.be/RLoKtb4c4W0?feature=shared"
+      },
+      {
+        "id": 7,
+        "title": "Step Brothers",
+        "poster": "/MoviesSectionPosters/MovieS7/step_brothers.jpg",
+        "duration": "1h 38m",
+        "language": "English",
+        "rating": 6.9,
+        "genre": "Comedy",
+        "summary": "Two middle-aged, immature men become stepbrothers when their parents marry.",
+        "youtubeTrailer": "https://youtu.be/CewglxElBK0?feature=shared"
+      },
+      {
+        "id": 8,
+        "title": "Deadpool",
+        "poster": "/MoviesSectionPosters/MovieS7/deadpool.jpg",
+        "duration": "1h 48m",
+        "language": "English",
+        "rating": 8.0,
+        "genre": "Action, Comedy",
+        "summary": "A wisecracking mercenary with accelerated healing powers hunts down the man who nearly destroyed his life.",
+        "youtubeTrailer": "https://youtu.be/VHAK-gU9gi0?feature=shared"
+      },
+      {
+        "id": 9,
+        "title": "The Mask",
+        "poster": "/MoviesSectionPosters/MovieS7/the_mask.jpg",
+        "duration": "1h 41m",
+        "language": "English",
+        "rating": 6.9,
+        "genre": "Comedy, Fantasy, Romance",
+        "summary": "A bank clerk discovers a magical mask that transforms him into a manic superhero.",
+        "youtubeTrailer": "https://youtu.be/csvOWBDx1oM?feature=shared"
+      },
+      {
+        "id": 10,
+        "title": "Zombieland",
+        "poster": "/MoviesSectionPosters/MovieS7/zombieland.jpg",
+        "duration": "1h 28m",
+        "language": "English",
+        "rating": 7.6,
+        "genre": "Action, Comedy, Horror",
+        "summary": "A shy student, a gun-toting tough guy, and two sisters team up to survive a zombie apocalypse.",
+        "youtubeTrailer": "https://youtu.be/8m9EVP8X7N8?feature=shared"
+      },
+      {
+        "title": "3 Idiots",
+        "poster": "/MoviesSectionPosters/MovieS7/3idiots.jpg",
+        "youtubeTrailer": "https://youtu.be/K0eDlFX9GMc?feature=shared",
+        "duration": "2h 50m",
+        "language": "Hindi",
+        "rating": "8.4",
+        "genre": "Comedy, Drama",
+        "summary": "Two friends search for their long-lost companion. They revisit their college days and rediscover the important lessons they learned during their studies."
+      },
+      {
+        "title": "Chupke Chupke",
+        "poster": "/MoviesSectionPosters/MovieS7/chupkechupke.jpg",
+        "youtubeTrailer": "https://youtu.be/CZwUzVuIz58?feature=shared",
+        "duration": "2h 20m",
+        "language": "Hindi",
+        "rating": "8.2",
+        "genre": "Comedy",
+        "summary": "A debt-ridden young man attempts suicide, but is rescued only to find that his luck is finally turning."
+      },
+      {
+        "title": "Hera Pheri",
+        "poster": "/MoviesSectionPosters/MovieS7/herapheri.jpg",
+        "youtubeTrailer": "https://youtu.be/m1zMmVwWr-M?feature=shared",
+        "duration": "2h 24m",
+        "language": "Hindi",
+        "rating": "8.2",
+        "genre": "Comedy, Crime",
+        "summary": "Three hapless individuals get caught up in a scheme involving a ransom, a gangster, and a lot of confusion."
+      },
+      {
+        "title": "Munna Bhai M.B.B.S.",
+        "poster": "/MoviesSectionPosters/MovieS7/munnabhai.jpg",
+        "youtubeTrailer": "https://www.youtube.com/watch?v=O3PbbG4s7gQ",
+        "duration": "2h 32m",
+        "language": "Hindi",
+        "rating": "8.1",
+        "genre": "Comedy, Drama",
+        "summary": "A gangster, Munna, attempts to fulfill his father’s dream of making him a doctor. However, his unique approach leads to chaos and heartwarming moments."
+      },
+      {
+        "title": "Welcome",
+        "poster": "/MoviesSectionPosters/MovieS7/welcome..jpg",
+        "youtubeTrailer": "https://youtu.be/dEjN98Io4gs?feature=shared",
+        "duration": "2h 35m",
+        "language": "Hindi",
+        "rating": "7.9",
+        "genre": "Comedy, Action",
+        "summary": "A man gets into trouble when he falls in love with the sister of a gangster, leading to a series of comical situations involving both families."
+      },
+      {
+        "title": "Dhamaal",
+        "poster": "/MoviesSectionPosters/MovieS7/dhamaal.jpg",
+        "youtubeTrailer": "https://youtu.be/LKNHVDPKy7g?feature=shared",
+        "duration": "2h 15m",
+        "language": "Hindi",
+        "rating": "7.5",
+        "genre": "Comedy, Adventure",
+        "summary": "Four friends embark on a wild journey to find a hidden treasure. They encounter mischief, rivalry, and hilarious situations."
+      },
+      {
+        "title": "No Entry",
+        "poster": "/MoviesSectionPosters/MovieS7/noentry.jpg",
+        "youtubeTrailer": "https://youtu.be/84dNt9-7_1s?feature=shared",
+        "duration": "2h 15m",
+        "language": "Hindi",
+        "rating": "7.5",
+        "genre": "Comedy",
+        "summary": "A happily married man with a seemingly perfect life finds himself in a whirlwind of hilarious complications when his friend tries to pursue extramarital affairs."
+      },
+      {
+        "title": "Andheri Raat Mein Diya Tera",
+        "poster": "/MoviesSectionPosters/MovieS7/andheriraat.jpg",
+        "youtubeTrailer": "https://youtu.be/eCBvMyKDSxo?feature=shared",
+        "duration": "2h 20m",
+        "language": "Hindi",
+        "rating": "7.0",
+        "genre": "Comedy, Horror",
+        "summary": "A group of friends finds themselves in a spooky mansion for a night of fun, but things take a hilarious turn as they encounter a series of strange occurrences."
+      },
+      {
+        "title": "Bheja Fry",
+        "poster": "/MoviesSectionPosters/MovieS7/bhejafry.jpg",
+        "youtubeTrailer": "https://youtu.be/XyILMg7g6wk?feature=shared",
+        "duration": "1h 40m",
+        "language": "Hindi",
+        "rating": "7.0",
+        "genre": "Comedy",
+        "summary": "A middle-class man invites a government employee with a quirky personality to his dinner party, only to find his life turned upside down with endless absurdities."
+      },
+      {
+        "title": "Pati, Patni Aur Woh",
+        "poster": "/MoviesSectionPosters/MovieS7/patipathni.jpg",
+        "youtubeTrailer": "https://youtu.be/L7a1JSeqaXk?feature=shared",
+        "duration": "2h 20m",
+        "language": "Hindi",
+        "rating": "6.8",
+        "genre": "Comedy, Romance",
+        "summary": "A man finds himself juggling between his loyal wife, his extramarital affair, and his conscience, leading to a series of hilarious misunderstandings."
+      }
+    ]
+  
+  

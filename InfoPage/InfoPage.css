@@ -1,0 +1,225 @@
+/* General Info Section */
+.info-container {
+  width: 100%;
+  height: 220vh;
+  background: linear-gradient(to right, #6bacf1, #ffffff);
+  color: rgb(8, 8, 8);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 5%;
+  position: relative;
+  flex-wrap: wrap;
+}
+.info-details  div {
+  margin-top: 0px; /* Pushes content down naturally */
+  padding-top: 30px; /* Adds spacing without breaking layout */
+}
+.info-divider {
+  width: 5px;  /* Thin vertical line */
+  height: 23%; /* Full height */
+  background-color: white;
+  position: absolute;
+  left: 47.2%; /* Adjust position as needed */
+  top: 1230px;
+  bottom: 0;
+}
+.info-working h1{
+  margin: 14px auto;
+  color: rgb(0, 0, 0);
+  font-size: 38px;
+  font-weight: 600;
+  margin-top: 100px;
+
+}
+.info-working div p{
+  margin: 14px auto;
+  color: rgb(0, 0, 0);
+  font-size: 38px;
+  font-weight: 600;
+  margin-top: 100px;
+  flex-direction: row;
+
+}
+.info-details div{
+  
+  display: flex;
+  flex-direction: row;
+}
+.info-details h2 {
+    background-color: #007bff !important;
+    color: rgb(255, 255, 255);
+    padding: 8px 14px;
+    border-radius: 6px;
+    display: inline-block;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+/* Ensure each number appears on a new line */
+.info-details p {
+    color: black;
+    font-size: 16px;
+    line-height: 1.8;
+    margin-bottom: 15px;
+    display: block;
+}
+
+.info-img {
+  flex-shrink: 0;
+  display: flex;
+  justify-content: center;
+  margin-left: 40px; /* Space between text and image */
+}
+
+.info-img img {
+  width: 500px;  /* Adjusted size */
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease-in-out;
+  margin-right: auto;
+}
+
+.info-img img:hover {
+  transform: scale(0.8);
+}
+
+/* Info Text Styling */
+.info-details h2 {
+  color: #ffffff;
+  background-color:#007bff !important;
+  padding: 5px 15px;
+  border-radius: 5px;
+  display: inline-block;
+}
+.info-youtube div{
+  max-width: 100vh;
+  margin-top: 900px;
+}
+
+.info-content {
+  max-width: 500px;
+  margin: 200px 10px;
+}
+
+.info-subtitle {
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #007bff;
+}
+
+.info-question {
+  margin: 14px auto;
+  color: rgb(0, 0, 0);
+  font-size: 38px;
+  font-weight: 600;
+}
+
+.info-title {
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.info-details p {
+  padding: 10px;
+  color: rgb(0, 0, 0);
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.info-description {
+  font-size: 16px;
+  color:#007bff;
+  margin-top: 15px;
+  line-height: 1.6;
+  
+}
+
+/* Button Styling */
+.info-button {
+  background-color:  #007bff;
+  color: white;
+  padding: 12px 25px;
+  font-size: 18px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 20px;
+  transition: all 0.3s ease-in-out;
+  display: inline-block;
+}
+
+.info-button a {
+  text-decoration: none;
+  color: rgb(255, 255, 255) !important;
+}
+
+.info-button:hover a{
+  color: rgb(0, 0, 0) !important;
+  background-color: #fbfdff;
+  transform: scale(1.05);
+}
+
+/* Movie Poster Styling */
+.poster-container {
+  position: absolute;
+  right: 5%;
+  top: 10%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+  align-items: center;
+}
+
+.poster-container div {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* Posters */
+.poster {
+  width: 160px;
+  height: 240px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.poster:hover {
+  transform: scale(1.15) rotate(0deg);
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.7);
+}
+
+/* Randomized Poster Rotation */
+.poster-1 {
+  transform: rotate(-8deg);
+}
+
+.poster-2 {
+  transform: rotate(5deg);
+}
+
+.poster-3 {
+  transform: rotate(-6deg);
+}
+
+.poster-4 {
+  transform: rotate(12deg);
+}
+
+.poster-5 {
+  transform: rotate(4deg);
+}
+
+.poster-6 {
+  transform: rotate(-10deg);
+}
+
+.poster-7 {
+  transform: rotate(7deg);
+}

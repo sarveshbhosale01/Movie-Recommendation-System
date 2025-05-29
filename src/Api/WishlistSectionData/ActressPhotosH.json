@@ -1,0 +1,38 @@
+[
+    {
+        "image" : "/ActressPhotos/Hollywood/AngelinaJolie.jpg",
+        "name" : "AngelinaJolie"
+    },
+    {
+        "image" : "/ActressPhotos/Hollywood/KeiraKnightley.jpg",
+        "name" : "KeiraKnightley"
+    },
+    {
+        "image" : "/ActressPhotos/Hollywood/ScarlettJohansson.jpg",
+        "name" : "ScarlettJohansson"
+    },
+    {
+        "image" : "/ActressPhotos/Hollywood/KateWinslet.jpg",
+        "name" : "KateWinslet"
+    },
+    {
+        "image" : "/ActressPhotos/Hollywood/AnneHathaway.jpg",
+        "name" : "AnneHathaway"
+    },
+    {
+        "image" : "/ActressPhotos/Hollywood/NataliePortman.jpg",
+        "name" : "NataliePortman"
+    },
+    {
+        "image" : "/ActressPhotos/Hollywood/EmmaStone.jpg",
+        "name" : "EmmaStone"
+    },
+    {
+        "image" : "/ActressPhotos/Hollywood/MargotRobbie.jpg",
+        "name" : "MargotRobbie"
+    },
+    {
+        "image" : "/ActressPhotos/Hollywood/Zendaya.jpg",
+        "name" : "Zendaya"
+    }
+]

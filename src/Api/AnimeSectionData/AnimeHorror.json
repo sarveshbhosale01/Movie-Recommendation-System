@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "title": "Another",
+      "poster": "/AnimeSectionPosters/AnimeS9/Another.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 7.6,
+      "genre": "Horror, Mystery, Supernatural",
+      "summary": "A transfer student uncovers a deadly curse haunting his class, leading to chilling deaths and unsettling mysteries.",
+      "youtubeTrailer": "https://youtu.be/_U_57mzfjB4?feature=shared"
+    },
+    {
+      "id": 2,
+      "title": "Tokyo Ghoul",
+      "poster": "/AnimeSectionPosters/AnimeS9/TokyoGhoul.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.0,
+      "genre": "Action, Horror, Supernatural",
+      "summary": "A college student becomes a half-ghoul, navigating a world of flesh-eating creatures while trying to hold onto his humanity.",
+      "youtubeTrailer": "https://youtu.be/vGuQeQsoRgU?feature=shared"
+    },
+    {
+      "id": 3,
+      "title": "Higurashi: When They Cry",
+      "poster": "/AnimeSectionPosters/AnimeS9/Higurashi.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 7.9,
+      "genre": "Horror, Mystery, Thriller",
+      "summary": "A peaceful village harbors dark secrets, with sinister events unfolding during a yearly festival, leading to madness and murder.",
+      "youtubeTrailer": "https://youtu.be/PmhjwwY3-f8?feature=shared"
+    },
+    {
+      "id": 4,
+      "title": "Parasyte: The Maxim",
+      "poster": "/AnimeSectionPosters/AnimeS9/Parasyte.jpg",
+      "duration": "23 min/episode",
+      "language": "Japanese",
+      "rating": 8.4,
+      "genre": "Action, Horror, Sci-Fi",
+      "summary": "A high school student battles parasitic creatures taking over humans while forming a complex bond with one of them.",
+      "youtubeTrailer": "https://youtu.be/2ilVWE9uw88?feature=shared"
+    },
+    {
+      "id": 5,
+      "title": "Elfen Lied",
+      "poster": "/AnimeSectionPosters/AnimeS9/ElfenLied.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 7.9,
+      "genre": "Horror, Drama, Supernatural",
+      "summary": "A mutant girl with psychic powers escapes a research facility, wreaking havoc while grappling with her violent past.",
+      "youtubeTrailer": "https://youtu.be/GvhVHBv6v1Q?feature=shared"
+    },
+    {
+      "id": 6,
+      "title": "Shiki",
+      "poster": "/AnimeSectionPosters/AnimeS9/Shiki.jpg",
+      "duration": "22 min/episode",
+      "language": "Japanese",
+      "rating": 7.7,
+      "genre": "Horror, Mystery, Supernatural",
+      "summary": "A remote village is plagued by mysterious deaths, leading to a battle between humans and vampires for survival.",
+      "youtubeTrailer": "https://youtu.be/xL-xBUx6Qzs?feature=shared"
+    },
+    {
+      "id": 7,
+      "title": "Corpse Party: Tortured Souls",
+      "poster": "/AnimeSectionPosters/AnimeS9/CorpseParty.jpg",
+      "duration": "30 min/episode",
+      "language": "Japanese",
+      "rating": 6.4,
+      "genre": "Horror, Mystery, Supernatural",
+      "summary": "A group of students perform a ritual and find themselves trapped in a haunted school filled with vengeful spirits.",
+      "youtubeTrailer": "https://youtu.be/76vJ4awYjmo?feature=shared"
+    },
+    {
+      "id": 8,
+      "title": "Hell Girl",
+      "poster": "/AnimeSectionPosters/AnimeS9/HellGirl.jpg",
+      "duration": "25 min/episode",
+      "language": "Japanese",
+      "rating": 7.5,
+      "genre": "Horror, Mystery, Supernatural",
+      "summary": "A mysterious girl offers people revenge by sending their enemies to Hell, at the cost of their own souls.",
+      "youtubeTrailer": "https://youtu.be/Zo5wuctIMWk?feature=shared"
+    },
+    {
+      "id": 9,
+      "title": "Devilman Crybaby",
+      "poster": "/AnimeSectionPosters/AnimeS9/DevilmanCrybaby.jpg",
+      "duration": "25 min/episode",
+      "language": "Japanese",
+      "rating": 7.8,
+      "genre": "Action, Horror, Supernatural",
+      "summary": "A sensitive young man merges with a demon to protect humanity from monstrous threats, while grappling with his new identity.",
+      "youtubeTrailer": "https://youtu.be/ww06yGPM7Kc?feature=shared"
+    },
+    {
+      "id": 10,
+      "title": "Yamishibai: Japanese Ghost Stories",
+      "poster": "/AnimeSectionPosters/AnimeS9/Yamishibai.jpg",
+      "duration": "5 min/episode",
+      "language": "Japanese",
+      "rating": 7.1,
+      "genre": "Horror, Supernatural",
+      "summary": "A series of short episodes narrating eerie ghost stories and urban legends inspired by Japanese folklore.",
+      "youtubeTrailer": "https://youtu.be/wl1gEUpFq_U?feature=shared"
+    }
+  ]
+  

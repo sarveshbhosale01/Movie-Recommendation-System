@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "title": "Neon Genesis Evangelion",
+      "poster": "/AnimeSectionPosters/AnimeS6/NeonGenesisEvangelion.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.8,
+      "genre": "Action, Mecha, Psychological",
+      "summary": "In a post-apocalyptic world, a group of teenagers piloting giant mechs must defend humanity against monstrous beings known as Angels.",
+      "youtubeTrailer": "https://youtu.be/13nSISwxrY4?feature=shared"
+    },
+    {
+      "id": 2,
+      "title": "Code Geass: Lelouch of the Rebellion",
+      "poster": "/AnimeSectionPosters/AnimeS6/CodeGeass.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.7,
+      "genre": "Action, Mecha, Military",
+      "summary": "A young man with a mysterious power leads a rebellion against a tyrannical empire, using giant mechs to wage war and achieve his goals.",
+      "youtubeTrailer": "https://youtu.be/v-AGjx0N24U?feature=shared"
+    },
+    {
+      "id": 3,
+      "title": "Gurren Lagann",
+      "poster": "/AnimeSectionPosters/AnimeS6/GurrenLagann.jpg",
+      "duration": "27 min/episode",
+      "language": "Japanese",
+      "rating": 8.6,
+      "genre": "Action, Mecha, Adventure",
+      "summary": "A young man and his friends journey through a post-apocalyptic world, piloting giant robots to fight against powerful enemies.",
+      "youtubeTrailer": "https://youtu.be/oXkkMhCuCMg?feature=shared"
+    },
+    {
+      "id": 4,
+      "title": "Mobile Suit Gundam: Iron-Blooded Orphans",
+      "poster": "/AnimeSectionPosters/AnimeS6/MobileSuitGundamIronBloodedOrphans.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.3,
+      "genre": "Action, Mecha, Drama",
+      "summary": "In a world of war and political intrigue, a group of orphans become mercenaries and fight for their survival using powerful mobile suits.",
+      "youtubeTrailer": "https://youtu.be/b2ySc95POyI?feature=shared"
+    },
+    {
+      "id": 5,
+      "title": "Eureka Seven",
+      "poster": "/AnimeSectionPosters/AnimeS6/EurekaSeven.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.5,
+      "genre": "Action, Mecha, Romance",
+      "summary": "A young boy joins a group of rebels, piloting a giant mech while uncovering secrets about the world and his connection to a mysterious girl.",
+      "youtubeTrailer": "https://youtu.be/3bkAdNAqXCE?feature=shared"
+    },
+    {
+      "id": 6,
+      "title": "Aldnoah.Zero",
+      "poster": "/AnimeSectionPosters/AnimeS6/AldnoahZero.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 7.8,
+      "genre": "Action, Mecha, Sci-Fi",
+      "summary": "A war breaks out between Earth and Martian colonies, where a young soldier must fight in massive mechs to protect humanity's future.",
+      "youtubeTrailer": "https://youtu.be/ibFyp9SGcTE?feature=shared"
+    },
+    {
+      "id": 7,
+      "title": "Tengen Toppa Gurren Lagann",
+      "poster": "/AnimeSectionPosters/AnimeS6/TengenToppaGurrenLagann.jpg",
+      "duration": "27 min/episode",
+      "language": "Japanese",
+      "rating": 8.7,
+      "genre": "Action, Mecha, Adventure",
+      "summary": "A group of rebels led by Simon and Kamina pilot a giant robot to fight against tyrannical forces, encountering powerful enemies and epic battles.",
+      "youtubeTrailer": "https://youtu.be/oXkkMhCuCMg?feature=shared"
+    },
+    {
+      "id": 8,
+      "title": "The 08th MS Team",
+      "poster": "/AnimeSectionPosters/AnimeS6/08thMSTeam.jpg",
+      "duration": "25 min/episode",
+      "language": "Japanese",
+      "rating": 8.0,
+      "genre": "Action, Mecha, Military",
+      "summary": "Set in the Universal Century timeline, this series follows a group of soldiers fighting in the Gundam universe, focusing on ground-level combat with mobile suits.",
+      "youtubeTrailer": "https://youtu.be/1Rtq15Y0EN8?feature=shared"
+    },
+    {
+      "id": 9,
+      "title": "Neon Genesis Evangelion: The End of Evangelion",
+      "poster": "/AnimeSectionPosters/AnimeS6/EndOfEvangelion.jpg",
+      "duration": "87 min",
+      "language": "Japanese",
+      "rating": 8.9,
+      "genre": "Action, Mecha, Psychological",
+      "summary": "The final two episodes of the original Neon Genesis Evangelion series are re-imagined, culminating in an apocalyptic battle between humanity and the Angels.",
+      "youtubeTrailer": "https://youtu.be/Y9cXQfLdGfQ?feature=shared"
+    },
+    {
+      "id": 10,
+      "title": "Zoids: Chaotic Century",
+      "poster": "/AnimeSectionPosters/AnimeS6/ZoidsChaoticCentury.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 7.4,
+      "genre": "Action, Mecha, Adventure",
+      "summary": "In a world where giant mechanical animals called Zoids battle for supremacy, a young boy teams up with a mysterious girl to discover the truth behind a legendary Zoid.",
+      "youtubeTrailer": "https://youtu.be/HVJ1qT4sFag?feature=shared"
+    }
+  ]
+  

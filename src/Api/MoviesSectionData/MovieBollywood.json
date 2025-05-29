@@ -1,0 +1,201 @@
+[
+    {
+      "id": 1,
+      "title": "3 Idiots",
+      "poster": "/MoviesSectionPosters/MovieS4/3idiots.jpg",
+      "duration": "2h 44m",
+      "language": "Hindi",
+      "rating": 8.4,
+      "genre": "Comedy, Drama",
+      "summary": "Three engineering students embark on a quest to find their missing friend, all the while reflecting on their college days and the pressures of the education system.",
+      "youtubeTrailer": "https://www.youtube.com/watch?v=K0eDlFX9GMc"
+    },
+    {
+      "id": 2,
+      "title": "Like Stars on Earth",
+      "poster": "/MoviesSectionPosters/MovieS4/lakestaronearth.jpg",
+      "duration": "2h 26m",
+      "language": "Hindi",
+      "rating": 8.3,
+      "genre": "Drama, Family",
+      "summary": "An eight-year-old boy is thought to be a lazy troublemaker until a new art teacher discovers the real problem behind his struggles in school.",
+      "youtubeTrailer": "https://youtu.be/EFfocv9BdwY?feature=shared"
+    },
+    {
+      "id": 3,
+      "title": "Swades",
+      "poster": "/MoviesSectionPosters/MovieS4/swades.jpg",
+      "duration": "3h 6m",
+      "language": "Hindi",
+      "rating": 8.2,
+      "genre": "Drama",
+      "summary": "A successful NASA scientist returns to his homeland to find his childhood nanny and ends up rediscovering his roots and the true meaning of life.",
+      "youtubeTrailer": "https://youtu.be/vc7AZNWvs0M?feature=shared"
+    },
+    {
+      "id": 4,
+      "title": "Rang De Basanti",
+      "poster": "/MoviesSectionPosters/MovieS4/rangdebasanti.jpg",
+      "duration": "2h 41m",
+      "language": "Hindi",
+      "rating": 8.1,
+      "genre": "Drama, History",
+      "summary": "A group of university students are tasked with making a documentary about India's freedom fighters, leading them to reflect on their own lives and the state of the nation.",
+      "youtubeTrailer": "https://youtu.be/QHhnhqxB4E8?feature=shared"
+    },
+    {
+      "id": 5,
+      "title": "Dil Chahta Hai",
+      "poster": "/MoviesSectionPosters/MovieS4/dilchahtahai.jpg",
+      "duration": "2h 30m",
+      "language": "Hindi",
+      "rating": 8.1,
+      "genre": "Comedy, Drama",
+      "summary": "Three inseparable childhood friends navigate the ups and downs of life, love, and relationships as they transition from college to adulthood.",
+      "youtubeTrailer": "https://youtu.be/OBAcYSSUf6o?feature=shared"
+    },
+    {
+      "id": 6,
+      "title": "Lagaan",
+      "poster": "/MoviesSectionPosters/MovieS4/lagaan.jpg",
+      "duration": "3h 44m",
+      "language": "Hindi",
+      "rating": 8.1,
+      "genre": "Drama, History, Sport",
+      "summary": "Set in 1893, during the British Raj, a small village in India is challenged to a game of cricket by the British rulers, with the fate of the village at stake.",
+      "youtubeTrailer": "https://youtu.be/Nhi4Azs2nEw?feature=shared"
+    },
+    {
+      "id": 7,
+      "title": "Barfi!",
+      "poster": "/MoviesSectionPosters/MovieS4/barfi.jpg",
+      "duration": "2h 31m",
+      "language": "Hindi",
+      "rating": 8.1,
+      "genre": "Comedy, Drama, Romance",
+      "summary": "A mute and deaf man embarks on a journey of love, exploring the challenges of his disability while finding himself entangled in a love triangle.",
+      "youtubeTrailer": "https://youtu.be/nQ3FYUgSjC8?feature=shared"
+    },
+    {
+      "id": 8,
+      "title": "Zindagi Na Milegi Dobara",
+      "poster": "/MoviesSectionPosters/MovieS4/zindaginamilegidobara.jpg",
+      "duration": "2h 35m",
+      "language": "Hindi",
+      "rating": 8.1,
+      "genre": "Adventure, Comedy, Drama",
+      "summary": "Three friends embark on a road trip in Spain, where they confront their past fears, experience unforgettable adventures, and discover the true meaning of life.",
+      "youtubeTrailer": "https://youtu.be/uY_4TY670jI?feature=shared"
+    },
+    {
+      "id": 9,
+      "title": "Section 375",
+      "poster": "/MoviesSectionPosters/MovieS4/section375.jpg",
+      "duration": "1h 40m",
+      "language": "Hindi",
+      "rating": 8.1,
+      "genre": "Drama, Thriller",
+      "summary": "A young woman accuses a popular film director of sexual assault, leading to a complex legal battle that questions the meaning of consent.",
+      "youtubeTrailer": "https://youtu.be/UWjxS8EJ4Z8?feature=shared"
+    },
+    {
+        "id": 10,
+        "title": "Manto",
+        "poster": "/MoviesSectionPosters/MovieS4/manto.jpg",
+        "duration": "2h 10m",
+        "language": "Hindi",
+        "rating": 7.8,
+        "genre": "Biography, Drama",
+        "summary": "A biographical drama about the life of Urdu writer Saadat Hasan Manto, highlighting his struggles with his writing and his position in post-independence India.",
+        "youtubeTrailer": "https://youtu.be/QFbUei2DDhc?feature=shared"
+      },
+      {
+        "id": 11,
+        "title": "Lootera",
+        "poster": "/MoviesSectionPosters/MovieS4/lootera.jpg",
+        "duration": "2h 18m",
+        "language": "Hindi",
+        "rating": 7.6,
+        "genre": "Drama, Romance",
+        "summary": "A young man and woman fall in love, but a secret threatens to shatter their bond as they face betrayals and struggles that define their fates.",
+        "youtubeTrailer": "https://youtu.be/0TExCF0YE4s?feature=shared"
+      },
+      {
+        "id": 12,
+        "title": "Omerta",
+        "poster": "/MoviesSectionPosters/MovieS4/omerta.jpg",
+        "duration": "2h 11m",
+        "language": "Hindi",
+        "rating": 7.8,
+        "genre": "Biography, Crime, Drama",
+        "summary": "A gripping portrayal of the life of Omar Saeed Sheikh, a notorious terrorist involved in the 1994 kidnapping of British citizens and the 2002 kidnapping of Daniel Pearl.",
+        "youtubeTrailer": "https://youtu.be/WvDoOKJrrU4?feature=shared"
+      },
+      {
+        "id": 13,
+        "title": "Gulaal",
+        "poster": "/MoviesSectionPosters/MovieS4/gulaal.jpg",
+        "duration": "2h 25m",
+        "language": "Hindi",
+        "rating": 7.8,
+        "genre": "Drama, Thriller",
+        "summary": "A political drama set against the backdrop of a university, depicting the rise of student-led protests and the political intrigue that follows.",
+        "youtubeTrailer": "https://youtu.be/IS7KLVs1Ib4?feature=shared"
+      },
+      {
+        "id": 14,
+        "title": "13B",
+        "poster": "/MoviesSectionPosters/MovieS4/13b.jpg",
+        "duration": "2h 12m",
+        "language": "Hindi",
+        "rating": 7.3,
+        "genre": "Horror, Mystery, Thriller",
+        "summary": "A man and his family are disturbed by a series of mysterious events linked to a television show, which may be connected to supernatural forces.",
+        "youtubeTrailer": "https://youtu.be/5jQ0j22PkWA?feature=shared"
+      },
+      {
+        "id": 15,
+        "title": "Detective Byomkesh Bakshi!",
+        "poster": "/MoviesSectionPosters/MovieS4/detectivebyomkeshbakshi.jpg",
+        "duration": "2h 19m",
+        "language": "Hindi",
+        "rating": 7.6,
+        "genre": "Crime, Drama, Mystery",
+        "summary": "Based on the iconic Bengali detective created by Saradindu Bandyopadhyay, Byomkesh Bakshi uncovers a web of conspiracies and mysteries in pre-independence India.",
+        "youtubeTrailer": "https://youtu.be/ZG--GOpi_0g?feature=shared"
+      },
+      {
+        "id": 16,
+        "title": "The Kashmir Files",
+        "poster": "/MoviesSectionPosters/MovieS4/thekashmirfiles.jpg",
+        "duration": "2h 50m",
+        "language": "Hindi",
+        "rating": 8.2,
+        "genre": "Drama, Thriller",
+        "summary": "The film explores the exodus of Kashmiri Pandits from the Kashmir Valley during the 1990s, shedding light on the political and personal aspects of the tragedy.",
+        "youtubeTrailer": "https://youtu.be/A179apttY58?feature=shared"
+      },
+      {
+        "id": 17,
+        "title": "Gangs of Wasseypur",
+        "poster": "/MoviesSectionPosters/MovieS4/gangsofwasseypur.jpg",
+        "duration": "5h 19m",
+        "language": "Hindi",
+        "rating": 8.2,
+        "genre": "Action, Crime, Drama",
+        "summary": "An epic tale of crime, power, and revenge set in the coal mines of Wasseypur, spanning several decades and generations.",
+        "youtubeTrailer": "https://youtu.be/9ZpPQdrHfl8?feature=shared"
+      },
+      {
+        "id": 18,
+        "title": "Tumbbad",
+        "poster": "/MoviesSectionPosters/MovieS4/tumbbad.jpg",
+        "duration": "1h 44m",
+        "language": "Hindi",
+        "rating": 8.2,
+        "genre": "Horror, Fantasy, Thriller",
+        "summary": "In 1918, a young man embarks on a quest to uncover the secret of a mythical treasure hidden in the cursed village of Tumbbad, while battling the supernatural forces guarding it.",
+        "youtubeTrailer": "https://youtu.be/YGIcZrUBY0k?feature=shared"
+      }
+  ]
+  

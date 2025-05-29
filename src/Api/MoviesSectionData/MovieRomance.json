@@ -1,0 +1,226 @@
+[
+    
+      {
+        "id": 1,
+        "title": "The Notebook",
+        "poster": "/MoviesSectionPosters/MovieS8/thenotebook.jpg",
+        "duration": "2h 3m",
+        "language": "English",
+        "rating": 7.8,
+        "genre": "Romance, Drama",
+        "summary": "A young couple falls in love during the early years of World War II, but their love is tested as they struggle with separation and distance.",
+        "youtubeTrailer": "https://youtu.be/BjJcYdEOI0k?feature=shared"
+      },
+      {
+        "id": 2,
+        "title": "Pride and Prejudice",
+        "poster": "/MoviesSectionPosters/MovieS8/prideandprejudice.jpg",
+        "duration": "2h 9m",
+        "language": "English",
+        "rating": 7.8,
+        "genre": "Romance, Drama",
+        "summary": "In this adaptation of Jane Austen's classic novel, Elizabeth Bennet navigates the complexities of love and social expectations while falling for the aloof Mr. Darcy.",
+        "youtubeTrailer": "https://youtu.be/Ur_DIHs92NM?feature=shared"
+      },
+      {
+        "id": 3,
+        "title": "Titanic",
+        "poster": "/MoviesSectionPosters/MovieS8/titanic.jpg",
+        "duration": "3h 14m",
+        "language": "English",
+        "rating": 7.8,
+        "genre": "Romance, Drama",
+        "summary": "A young couple from different social backgrounds fall in love aboard the ill-fated RMS Titanic during its maiden voyage.",
+        "youtubeTrailer": "https://youtu.be/kVrqfYjkTdQ?feature=shared"
+      },
+      {
+        "id": 4,
+        "title": "La La Land",
+        "poster": "/MoviesSectionPosters/MovieS8/La La Land.jpg",
+        "duration": "2h 8m",
+        "language": "English",
+        "rating": 8.0,
+        "genre": "Romance, Musical, Drama",
+        "summary": "An aspiring actress and a jazz musician fall in love but struggle to maintain their relationship as they chase their dreams in Los Angeles.",
+        "youtubeTrailer": "https://youtu.be/0pdqf4P9MB8?feature=shared"
+      },
+      {
+        "id": 5,
+        "title": "The Fault in Our Stars",
+        "poster": "/MoviesSectionPosters/MovieS8/thefaultinourstars.jpg",
+        "duration": "2h 6m",
+        "language": "English",
+        "rating": 7.7,
+        "genre": "Romance, Drama",
+        "summary": "Two teenagers who have cancer fall in love after meeting in a support group, but their journey together is filled with challenges.",
+        "youtubeTrailer": "https://youtu.be/9ItBvH5J6ss?feature=shared"
+      },
+      {
+        "id": 6,
+        "title": "A Walk to Remember",
+        "poster": "/MoviesSectionPosters/MovieS8/awalktoremember.jpg",
+        "duration": "1h 41m",
+        "language": "English",
+        "rating": 7.4,
+        "genre": "Romance, Drama",
+        "summary": "A rebellious young man falls in love with a quiet, religious girl, and their relationship changes their lives in unexpected ways.",
+        "youtubeTrailer": "https://youtu.be/k3B2XBcp7vA?feature=shared"
+      },
+      {
+        "id": 7,
+        "title": "Before Sunrise",
+        "poster": "/MoviesSectionPosters/MovieS8/before_sunrise.jpg",
+        "duration": "1h 41m",
+        "language": "English",
+        "rating": 8.1,
+        "genre": "Romance, Drama",
+        "summary": "Two strangers meet on a train and spend a night walking around Vienna, talking and getting to know each other, which leads to an intense connection.",
+        "youtubeTrailer": "https://youtu.be/6MUcuqbGTxc?feature=shared"
+      },
+      {
+        "id": 8,
+        "title": "Notting Hill",
+        "poster": "/MoviesSectionPosters/MovieS8/nottinghill.jpg",
+        "duration": "2h 4m",
+        "language": "English",
+        "rating": 7.1,
+        "genre": "Romance, Comedy",
+        "summary": "A simple bookseller meets a famous actress in the charming neighborhood of Notting Hill, leading to an unlikely and turbulent romance.",
+        "youtubeTrailer": "https://youtu.be/4RI0QvaGoiI?feature=shared"
+      },
+      {
+        "id": 9,
+        "title": "Love Actually",
+        "poster": "/MoviesSectionPosters/MovieS8/loveactually.jpg",
+        "duration": "2h 15m",
+        "language": "English",
+        "rating": 7.6,
+        "genre": "Romance, Comedy, Drama",
+        "summary": "Eight different couples in London navigate the ups and downs of love during the holiday season.",
+        "youtubeTrailer": "https://youtu.be/H9Z3_ifFheQ?feature=shared"
+      },
+      {
+        "id": 10,
+        "title": "The Vow",
+        "poster": "/MoviesSectionPosters/MovieS8/thevow.jpg",
+        "duration": "1h 44m",
+        "language": "English",
+        "rating": 6.8,
+        "genre": "Romance, Drama",
+        "summary": "After a car accident, a woman loses her memory and her husband must win back her heart even though she no longer remembers their love.",
+        "youtubeTrailer": "https://youtu.be/PcL24s-S6ns?feature=shared"
+      },
+          {
+            "id": 1,
+            "title": "Dilwale Dulhania Le Jayenge",
+            "poster": "/MoviesSectionPosters/MovieS8/dilwaledulhanialejayenge.jpg",
+            "duration": "3h 9m",
+            "language": "Hindi",
+            "rating": 8.1,
+            "genre": "Romance, Drama",
+            "summary": "A young man and woman fall in love while traveling across Europe, but they must overcome family expectations and cultural differences.",
+            "youtubeTrailer": "https://youtu.be/cmax1C1p660?feature=shared"
+          },
+          {
+            "id": 2,
+            "title": "Kabhi Khushi Kabhie Gham",
+            "poster": "/MoviesSectionPosters/MovieS8/kabhikhushikabhiegam.jpg",
+            "duration": "3h 30m",
+            "language": "Hindi",
+            "rating": 7.4,
+            "genre": "Romance, Drama",
+            "summary": "A son is estranged from his family after marrying against their wishes. The movie explores themes of love, family, and sacrifice.",
+            "youtubeTrailer": "https://youtu.be/7uY1JbWZKPA?feature=shared"
+          },
+          {
+            "id": 3,
+            "title": "Jab Tak Hai Jaan",
+            "poster": "/MoviesSectionPosters/MovieS8/jabtakhaijaan.jpg",
+            "duration": "2h 56m",
+            "language": "Hindi",
+            "rating": 6.7,
+            "genre": "Romance, Drama",
+            "summary": "A man is torn between his love for a woman and his duty as a soldier. His past comes back to haunt him as he faces life-threatening challenges.",
+            "youtubeTrailer": "https://youtu.be/Z1kW1MbNI5Y?feature=shared"
+          },
+          {
+            "id": 4,
+            "title": "Ae Dil Hai Mushkil",
+            "poster": "/MoviesSectionPosters/MovieS8/aedilhaimushkil.jpg",
+            "duration": "2h 38m",
+            "language": "Hindi",
+            "rating": 6.7,
+            "genre": "Romance, Drama",
+            "summary": "A love triangle where one of the characters is not ready to accept their true feelings, leading to heartbreak and emotional growth.",
+            "youtubeTrailer": "https://youtu.be/Z_PODraXg4E?feature=shared"
+          },
+          {
+            "id": 5,
+            "title": "Tamasha",
+            "poster": "/MoviesSectionPosters/MovieS8/tamasha.jpg",
+            "duration": "2h 19m",
+            "language": "Hindi",
+            "rating": 7.6,
+            "genre": "Romance, Drama",
+            "summary": "A man struggles with his identity and his love life, eventually rediscovering his true self while traveling and exploring his relationship with a woman.",
+            "youtubeTrailer": "https://youtu.be/QDsRDWR-yoM?feature=shared"
+          },
+          {
+            "id": 6,
+            "title": "Barfi!",
+            "poster": "/MoviesSectionPosters/MovieS8/barfi.jpg",
+            "duration": "2h 31m",
+            "language": "Hindi",
+            "rating": 8.1,
+            "genre": "Romance, Drama",
+            "summary": "A mute and deaf man navigates life and love, with two women having a profound impact on his journey, filled with humor, emotion, and drama.",
+            "youtubeTrailer": "https://youtu.be/nQ3FYUgSjC8?feature=shared"
+          },
+          {
+            "id": 7,
+            "title": "Kal Ho Naa Ho",
+            "poster": "/MoviesSectionPosters/MovieS8/kalhonaaho.jpg",
+            "duration": "2h 42m",
+            "language": "Hindi",
+            "rating": 7.9,
+            "genre": "Romance, Drama, Comedy",
+            "summary": "A man with a terminal illness brings joy to a woman's life and helps her find love, but he also keeps a secret about his condition.",
+            "youtubeTrailer": "https://youtu.be/tVMAQAsjsOU?feature=shared"
+          },
+          {
+            "id": 8,
+            "title": "Dil To Pagal Hai",
+            "poster": "/MoviesSectionPosters/MovieS8/diltopagalhai.jpg",
+            "duration": "2h 57m",
+            "language": "Hindi",
+            "rating": 7.1,
+            "genre": "Romance, Drama, Musical",
+            "summary": "A dance troupe director is torn between his love for two women, both of whom have different perspectives on love and relationships.",
+            "youtubeTrailer": "https://youtu.be/BdhPleFcEJ0?feature=shared"
+          },
+          {
+            "id": 9,
+            "title": "Student of the Year",
+            "poster": "/MoviesSectionPosters/MovieS8/studentoftheyear.jpg",
+            "duration": "2h 27m",
+            "language": "Hindi",
+            "rating": 6.5,
+            "genre": "Romance, Drama",
+            "summary": "A love triangle develops between three students at St. Teresa's College, as they compete for the coveted 'Student of the Year' trophy.",
+            "youtubeTrailer": "https://youtu.be/fivOhPjX9YM?feature=shared"
+          },
+          {
+            "id": 10,
+            "title": "Rehnaa Hai Terre Dil Mein",
+            "poster": "/MoviesSectionPosters/MovieS8/rehnaahaiterredilmein.jpg",
+            "duration": "2h 24m",
+            "language": "Hindi",
+            "rating": 7.9,
+            "genre": "Romance, Drama",
+            "summary": "A man pretends to be someone else to win the love of a woman, but eventually, his true feelings come to light.",
+            "youtubeTrailer": "https://youtu.be/Uxj6qGVpU1I?feature=shared"
+          }
+        ]
+      
+      
+ 

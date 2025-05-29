@@ -1,0 +1,179 @@
+[
+    {
+      "id": 1,
+      "title": "The Conjuring",
+      "poster": "/MoviesSectionPosters/MovieS2/conjuring.jpg",
+      "duration": "1h 52m",
+      "language": "English",
+      "rating": 7.5,
+      "trailer" : "https://youtu.be/fa0EHv2b-DE?feature=shared",
+      "genre": "Horror, Mystery, Thriller",
+      "summary": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse."
+    },
+    {
+      "id": 2,
+      "title": "Hereditary",
+      "poster": "/MoviesSectionPosters/MovieS2/Hereditary.jpg",
+      "duration": "2h 7m",
+      "language": "English",
+      "rating": 7.3,
+      "trailer" : "https://youtu.be/MJNR58zaStE?feature=shared",
+      "genre": "Horror, Drama, Mystery",
+      "summary": "A grieving family is haunted by tragic and disturbing occurrences, unraveling dark secrets about their ancestry."
+    },
+    {
+      "id": 3,
+      "title": "The Exorcist",
+      "poster": "/MoviesSectionPosters/MovieS2/TheExorcist.jpg",
+      "duration": "2h 12m",
+      "language": "English",
+      "rating": 8.1,
+      "trailer" : "https://youtu.be/PIxpPMyGcpU?feature=shared",
+      "genre": "Horror",
+      "summary": "A mother seeks the help of two priests to save her daughter from demonic possession."
+    },
+    {
+      "id": 4,
+      "title": "A Quiet Place",
+      "poster": "/MoviesSectionPosters/MovieS2/A Quiet Place.jpg",
+      "duration": "1h 30m",
+      "language": "English",
+      "rating": 7.5,
+      "trailer" : "https://youtu.be/WR7cc5t7tv8?feature=shared",
+      "genre": "Horror, Drama, Sci-Fi",
+      "summary": "In a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing."
+    },
+    {
+      "id": 5,
+      "title": "Get Out",
+      "poster": "/MoviesSectionPosters/MovieS2/Get Out.jpg",
+      "duration": "1h 44m",
+      "language": "English",
+      "rating": 7.7,
+      "trailer" : "",
+      "genre": "Horror, Mystery, Thriller",
+      "summary": "A young African-American man visits his white girlfriend's parents for the weekend, where unsettling secrets slowly surface."
+    },
+    {
+      "id": 6,
+      "title": "It",
+      "poster": "/MoviesSectionPosters/MovieS2/It.jpg",
+      "duration": "2h 15m",
+      "language": "English",
+      "rating": 7.3,
+      "trailer": "https://youtu.be/DzfpyUB60YY?feature=shared",
+      "genre": "Horror, Drama, Thriller",
+      "summary": "A group of bullied kids bands together to destroy a shape-shifting monster that preys on their town's children."
+    },
+    {
+      "id": 7,
+      "title": "The Babadook",
+      "poster": "/MoviesSectionPosters/MovieS2/The Babadook.jpg",
+      "duration": "1h 34m",
+      "language": "English",
+      "rating": 6.8,
+      "trailer" : "https://youtu.be/k5WQZzDRVtw?feature=shared",
+      "genre": "Horror, Drama",
+      "summary": "A single mother and her child fall into a deep well of paranoia when a disturbing storybook called 'The Babadook' manifests in their home."
+    },
+    {
+      "id": 8,
+      "title": "Midsommar",
+      "poster": "/MoviesSectionPosters/MovieS2/Midsommar.jpg",
+      "duration": "2h 28m",
+      "language": "English",
+      "rating": 7.1,
+      "trailer":"https://youtu.be/1Vnghdsjmd0?feature=shared",
+      "genre": "Horror, Drama, Mystery",
+      "summary": "A couple travels to Sweden to attend a rural mid-summer festival, where they become involved in a deadly pagan cult."
+    },
+    {
+      "id": 1,
+      "title": "Tumbbad",
+      "poster": "/MoviesSectionPosters/MovieS2/tumbbad.jpg",
+      "duration": "1h 44m",
+      "language": "Hindi",
+      "rating": 8.2,
+      "genre": "Horror, Fantasy, Thriller",
+      "summary": "A tale of greed, a cursed family, and a mythical treasure guarded by a demonic deity.",
+      "youtubeTrailer": "https://youtu.be/O9CaB4J4VEI?feature=shared"
+    },
+    {
+      "id": 2,
+      "title": "Raaz",
+      "poster": "/MoviesSectionPosters/MovieS2/raaz.jpg",
+      "duration": "2h 31m",
+      "language": "Hindi",
+      "rating": 6.6,
+      "genre": "Horror, Mystery, Thriller",
+      "summary": "A couple's life changes when they move into a haunted house and confront dark secrets.",
+      "youtubeTrailer": "https://youtu.be/O6GUoVApVkc?feature=shared"
+    },
+    {
+      "id": 3,
+      "title": "1920",
+      "poster": "/MoviesSectionPosters/MovieS2/1920.jpg",
+      "duration": "2h 18m",
+      "language": "Hindi",
+      "rating": 6.4,
+      "genre": "Horror, Romance",
+      "summary": "A woman gets possessed by a spirit, testing her husband’s faith and courage.",
+      "youtubeTrailer": "https://youtu.be/gugEXnglHP4?feature=shared"
+    },
+    {
+      "id": 4,
+      "title": "Stree",
+      "poster": "/MoviesSectionPosters/MovieS2/stree.jpg",
+      "duration": "2h 8m",
+      "language": "Hindi",
+      "rating": 7.6,
+      "genre": "Horror, Comedy",
+      "summary": "Inspired by a local legend, a spirit abducts men from a small town during a festival.",
+      "youtubeTrailer": "https://youtu.be/gzeaGcLLl_A?feature=shared"
+    },
+    {
+      "id": 5,
+      "title": "Pari",
+      "poster": "/MoviesSectionPosters/MovieS2/pari.jpg",
+      "duration": "2h 16m",
+      "language": "Hindi",
+      "rating": 6.6,
+      "genre": "Horror, Thriller",
+      "summary": "A mysterious woman hides dark secrets related to an ancient cult.",
+      "youtubeTrailer": "https://youtu.be/PQKu78NnyvU?feature=shared"
+    },
+    {
+      "id": 6,
+      "title": "Bhoot",
+      "poster": "/MoviesSectionPosters/MovieS2/bhoot.jpg",
+      "duration": "1h 53m",
+      "language": "Hindi",
+      "rating": 6.3,
+      "genre": "Horror, Thriller",
+      "summary": "A couple moves into a haunted apartment, leading to chilling experiences.",
+      "youtubeTrailer": "https://youtu.be/ELcRnZ3kP08?feature=shared"
+    },
+    {
+      "id": 7,
+      "title": "Ek Thi Daayan",
+      "poster": "/MoviesSectionPosters/MovieS2/ekthidaayan.jpg",
+      "duration": "2h 15m",
+      "language": "Hindi",
+      "rating": 5.7,
+      "genre": "Horror, Thriller",
+      "summary": "A magician's life becomes entangled with witches and black magic.",
+      "youtubeTrailer": "https://youtu.be/UN5Ss-EV_qc?feature=shared"
+    },
+    {
+      "id": 8,
+      "title": "Raat",
+      "poster": "/MoviesSectionPosters/MovieS2/raat.jpg",
+      "duration": "2h 5m",
+      "language": "Hindi",
+      "rating": 7.1,
+      "genre": "Horror, Mystery",
+      "summary": "A family moves into a house plagued by supernatural occurrences.",
+      "youtubeTrailer": "https://youtu.be/p1Letr7MllY?feature=shared"
+    }
+  ]
+  

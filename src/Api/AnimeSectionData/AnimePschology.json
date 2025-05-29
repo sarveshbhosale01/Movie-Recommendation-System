@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "title": "Death Note",
+      "poster": "/AnimeSectionPosters/AnimeS11/DeathNote.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 9.0,
+      "genre": "Psychological, Thriller, Supernatural",
+      "summary": "A high school student gains the power to kill anyone whose name he writes in a mysterious notebook, leading to a cat-and-mouse battle with a genius detective.",
+      "youtubeTrailer": "https://youtu.be/NlJZ-YgAt-c?feature=shared"
+    },
+    {
+      "id": 2,
+      "title": "Psycho-Pass",
+      "poster": "/AnimeSectionPosters/AnimeS11/PsychoPass.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.6,
+      "genre": "Psychological, Sci-Fi, Thriller",
+      "summary": "In a dystopian future, law enforcement uses a system that can predict people's criminal intent, but a new detective questions its morality.",
+      "youtubeTrailer": "https://youtu.be/YzuJnyebc40?feature=shared"
+    },
+    {
+      "id": 3,
+      "title": "Steins;Gate",
+      "poster": "/AnimeSectionPosters/AnimeS11/SteinsGate.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.8,
+      "genre": "Psychological, Sci-Fi, Thriller",
+      "summary": "A mad scientist and his friends discover time travel and face the consequences of tampering with time and their own destinies.",
+      "youtubeTrailer": "https://youtu.be/uMYhjVwp0Fk?feature=shared"
+    },
+    {
+      "id": 4,
+      "title": "Monster",
+      "poster": "/AnimeSectionPosters/AnimeS11/Monster.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 8.9,
+      "genre": "Psychological, Mystery, Drama",
+      "summary": "A renowned surgeon saves a young boy's life, only to discover that the boy grows up to become a sociopath who wreaks havoc across Europe.",
+      "youtubeTrailer": "https://youtu.be/9aS-EgdAq6U?feature=shared"
+    },
+    {
+      "id": 5,
+      "title": "Erased",
+      "poster": "/AnimeSectionPosters/AnimeS11/Erased.jpg",
+      "duration": "23 min/episode",
+      "language": "Japanese",
+      "rating": 8.5,
+      "genre": "Psychological, Mystery, Supernatural",
+      "summary": "A young man with the ability to travel back in time must use his powers to prevent a series of tragic events, including a childhood friend's murder.",
+      "youtubeTrailer": "https://youtu.be/DwmxEAWjTQQ?feature=shared"
+    },
+    {
+      "id": 6,
+      "title": "Neon Genesis Evangelion",
+      "poster": "/AnimeSectionPosters/AnimeS11/NeonGenesisEvangelion.jpg",
+      "duration": "25 min/episode",
+      "language": "Japanese",
+      "rating": 8.5,
+      "genre": "Psychological, Mecha, Drama",
+      "summary": "Teenagers piloting giant robots defend Earth from mysterious beings, while dealing with personal and emotional struggles.",
+      "youtubeTrailer": "https://youtu.be/2o_9GjAs-sc?feature=shared"
+    },
+    {
+      "id": 7,
+      "title": "Paranoia Agent",
+      "poster": "/AnimeSectionPosters/AnimeS11/ParanoiaAgent.jpg",
+      "duration": "25 min/episode",
+      "language": "Japanese",
+      "rating": 8.1,
+      "genre": "Psychological, Mystery, Thriller",
+      "summary": "A series of mysterious attacks by a boy with a golden bat creates chaos, as the victims confront their darkest secrets.",
+      "youtubeTrailer": "https://youtu.be/-uYmKfteXig?feature=shared"
+    },
+    {
+      "id": 8,
+      "title": "The Tatami Galaxy",
+      "poster": "/AnimeSectionPosters/AnimeS11/TatamiGalaxy.jpg",
+      "duration": "23 min/episode",
+      "language": "Japanese",
+      "rating": 8.6,
+      "genre": "Psychological, Comedy, Drama",
+      "summary": "A university student explores different timelines as he tries to make the most out of his campus life and find happiness.",
+      "youtubeTrailer": "https://youtu.be/y8ax2FIa_cM?feature=shared"
+    },
+    {
+      "id": 9,
+      "title": "The Perfect Insider",
+      "poster": "/AnimeSectionPosters/AnimeS11/ThePerfectInsider.jpg",
+      "duration": "24 min/episode",
+      "language": "Japanese",
+      "rating": 7.6,
+      "genre": "Psychological, Mystery, Thriller",
+      "summary": "A university professor and a student investigate a locked-room murder mystery involving a genius researcher on a remote island.",
+      "youtubeTrailer": "https://youtu.be/rOrRI-ISwXE?feature=shared"
+    },
+    {
+      "id": 10,
+      "title": "Kaiji: Ultimate Survivor",
+      "poster": "/AnimeSectionPosters/AnimeS11/KaijiUltimateSurvivor.jpg",
+      "duration": "23 min/episode",
+      "language": "Japanese",
+      "rating": 8.3,
+      "genre": "Psychological, Drama, Gambling",
+      "summary": "A down-on-his-luck man must navigate deadly gambling games to clear his debts, facing psychological warfare and intense stakes.",
+      "youtubeTrailer": "https://youtu.be/EK1LiaJ-TSU?feature=shared"
+    }
+  ]
+  

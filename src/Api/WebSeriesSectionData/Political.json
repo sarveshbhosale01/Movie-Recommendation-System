@@ -1,0 +1,185 @@
+[
+    {
+      "id": 1,
+      "title": "House of Cards",
+      "poster": "/WebSeriesPosters/WebSeriesS4/HouseOfCards.jpg",
+      "duration": "50min",
+      "language": "English",
+      "rating": 8.7,
+      "type": "PoliticalDrama",
+      "genre": "Drama, Politics, Thriller",
+      "summary": "A ruthless politician stops at nothing to climb the ladder of power in Washington, D.C.",
+      "youtubeTrailer": "https://youtu.be/8QnMmpfKWvo?feature=shared"
+    },
+    {
+      "id": 2,
+      "title": "The West Wing",
+      "poster": "/WebSeriesPosters/WebSeriesS4/TheWestWing.jpg",
+      "duration": "42min",
+      "language": "English",
+      "rating": 8.8,
+      "type": "PoliticalDrama",
+      "genre": "Drama, Politics",
+      "summary": "Follows the lives of staffers in the West Wing of the White House as they tackle political and personal challenges.",
+      "youtubeTrailer": "https://youtu.be/oBZlwRkB6Bs?feature=shared"
+    },
+    {
+      "id": 3,
+      "title": "Scandal",
+      "poster": "/WebSeriesPosters/WebSeriesS4/Scandal.jpg",
+      "duration": "43min",
+      "language": "English",
+      "rating": 7.9,
+      "type": "PoliticalDrama",
+      "genre": "Drama, Thriller, Politics",
+      "summary": "A crisis management expert handles political scandals and personal crises in Washington, D.C.",
+      "youtubeTrailer": "https://youtu.be/MvpYIela7_o?feature=shared"
+    },
+    {
+      "id": 4,
+      "title": "The Crown",
+      "poster": "/WebSeriesPosters/WebSeriesS4/TheCrown.jpg",
+      "duration": "58min",
+      "language": "English",
+      "rating": 8.6,
+      "type": "PoliticalDrama",
+      "genre": "Drama, History, Politics",
+      "summary": "The reign of Queen Elizabeth II is dramatized as she faces political challenges and family struggles.",
+      "youtubeTrailer": "https://youtu.be/JWtnJjn6ng0?feature=shared"
+    },
+    {
+      "id": 5,
+      "title": "Designated Survivor",
+      "poster": "/WebSeriesPosters/WebSeriesS4/DesignatedSurvivor.jpg",
+      "duration": "45min",
+      "language": "English",
+      "rating": 7.5,
+      "type": "PoliticalDrama",
+      "genre": "Drama, Thriller, Politics",
+      "summary": "A low-level Cabinet member is suddenly thrust into the role of President after an attack kills everyone ahead of him in the presidential line of succession.",
+      "youtubeTrailer": "https://youtu.be/YRA1gb3SJtw?feature=shared"
+    },
+    
+    {
+      "id": 6,
+      "title": "The Spy",
+      "poster": "/WebSeriesPosters/WebSeriesS4/TheSpy.jpg",
+      "duration": "55min",
+      "language": "English",
+      "rating": 7.9,
+      "type": "EspionageThriller",
+      "genre": "Espionage, Thriller, Biography",
+      "summary": "The true story of an Israeli spy who infiltrated the Syrian government in the 1960s.",
+      "youtubeTrailer": "https://youtu.be/5UijUOy0MmE?feature=shared"
+    },
+    {
+      "id": 7,
+      "title": "The Americans",
+      "poster": "/WebSeriesPosters/WebSeriesS4/TheAmericans.jpg",
+      "duration": "45min",
+      "language": "English",
+      "rating": 8.4,
+      "type": "EspionageThriller",
+      "genre": "Thriller, Espionage, Drama",
+      "summary": "Two Soviet spies posing as an American married couple during the Cold War struggle with personal and professional issues.",
+      "youtubeTrailer": "https://youtu.be/wt7NPuabEgQ?feature=shared"
+    },
+    {
+      "id": 8,
+      "title": "Bodyguard",
+      "poster": "/WebSeriesPosters/WebSeriesS4/Bodyguard.jpg",
+      "duration": "58min",
+      "language": "English",
+      "rating": 8.1,
+      "type": "EspionageThriller",
+      "genre": "Espionage, Thriller, Drama",
+      "summary": "A war veteran turned police sergeant is assigned to protect a controversial politician in this intense British drama.",
+      "youtubeTrailer": "https://youtu.be/tLfLU6-9lxY?feature=shared"
+    },
+    {
+      "id": 9,
+      "title": "Killing Eve",
+      "poster": "/WebSeriesPosters/WebSeriesS4/KillingEve.jpg",
+      "duration": "42min",
+      "language": "English",
+      "rating": 8.3,
+      "type": "EspionageThriller",
+      "genre": "Espionage, Thriller, Drama",
+      "summary": "A security operative hunts down an international assassin while developing an obsession with her target.",
+      "youtubeTrailer": "https://youtu.be/387bNQ6U-V4?feature=shared"
+    },
+    {
+      "id": 10,
+      "title": "Tinker Tailor Soldier Spy",
+      "poster": "/WebSeriesPosters/WebSeriesS4/TinkerTailorSoldierSpy.jpg",
+      "duration": "2h 7min",
+      "language": "English",
+      "rating": 8.0,
+      "type": "EspionageThriller",
+      "genre": "Espionage, Thriller, Drama",
+      "summary": "A retired intelligence officer is tasked with uncovering a Soviet mole within the British Secret Service.",
+      "youtubeTrailer": "https://youtu.be/VW-F1H-Nonk?feature=shared"
+    },
+  
+    {
+      "id": 11,
+      "title": "Veep",
+      "poster": "/WebSeriesPosters/WebSeriesS4/Veep.jpg",
+      "duration": "30min",
+      "language": "English",
+      "rating": 8.3,
+      "type": "SatiricalPolitics",
+      "genre": "Comedy, Satire, Politics",
+      "summary": "A satirical look at the personal and political life of a fictional Vice President of the United States.",
+      "youtubeTrailer": "https://youtu.be/I2HoCG_iyhU?feature=shared"
+    },
+    {
+      "id": 12,
+      "title": "The Thick of It",
+      "poster": "/WebSeriesPosters/WebSeriesS4/TheThickOfIt.jpg",
+      "duration": "30min",
+      "language": "English",
+      "rating": 8.7,
+      "type": "SatiricalPolitics",
+      "genre": "Comedy, Satire, Politics",
+      "summary": "A biting satire of the inner workings of British government and its spin doctors.",
+      "youtubeTrailer": "https://youtu.be/OzqdW1At5cg?feature=shared"
+    },
+    {
+      "id": 13,
+      "title": "Parks and Recreation",
+      "poster": "/WebSeriesPosters/WebSeriesS4/ParksAndRecreation.jpg",
+      "duration": "22min",
+      "language": "English",
+      "rating": 8.6,
+      "type": "SatiricalPolitics",
+      "genre": "Comedy, Satire, Politics",
+      "summary": "A quirky group of public officials in the fictional town of Pawnee, Indiana, use their individual talents to improve the community.",
+      "youtubeTrailer": "https://youtu.be/5IZWeAwdJ-s?feature=shared"
+    },
+    {
+      "id": 14,
+      "title": "Yes Minister",
+      "poster": "/WebSeriesPosters/WebSeriesS4/YesMinister.jpg",
+      "duration": "30min",
+      "language": "English",
+      "rating": 8.5,
+      "type": "SatiricalPolitics",
+      "genre": "Comedy, Satire, Politics",
+      "summary": "A British political satire about the relationship between a British cabinet minister and his civil servants.",
+      "youtubeTrailer": "https://youtu.be/-gWru65gZqw?feature=shared"
+    },
+    {
+      "id": 15,
+      "title": "Alpha House",
+      "poster": "/WebSeriesPosters/WebSeriesS4/AlphaHouse.jpg",
+      "duration": "22min",
+      "language": "English",
+      "rating": 7.4,
+      "type": "SatiricalPolitics",
+      "genre": "Comedy, Satire, Politics",
+      "summary": "A political satire about four senators sharing a house in Washington, D.C., who navigate political drama and personal conflicts.",
+      "youtubeTrailer": "https://youtu.be/EX-DFx9IWwI?feature=shared"
+    }
+  ]
+  

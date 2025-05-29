@@ -1,0 +1,182 @@
+/* Main Slideshow Container */
+.Anime-slideshow-container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+/* Each Slide */
+.Anime-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}
+
+/* Fullscreen Video */
+.Anime-video {
+  width: 100%;
+  height: 100vh;
+  object-fit: cover;
+  position: absolute;
+  z-index: 1;
+}
+
+/* Description Box */
+.AnimeSlideShow-info {
+  position: absolute;
+  bottom: 25%;
+  left: 10%;
+  padding: 20px;
+  border-radius: 8px;
+  transition: transform 0.8s ease-in-out, opacity 0.5s ease-in-out;
+  transform: scale(1);
+  opacity: 1;
+  z-index: 10;
+  max-width: 60%;
+}
+
+/* Video Title */
+.AnimeSlideShow-info h3 {
+  font-size: clamp(24px, 4vw, 49px);
+  transition: transform 0.5s ease, background 0.2s ease;
+  color: #433878;
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+
+/* Description Text */
+.AnimeSlideShow-info p {
+  font-size: clamp(12px, 2vw, 24px);
+  color: #a492fd !important;
+  font-family: "Poppins", sans-serif;
+  margin: 5px 0 0;
+}
+
+/* Mute Button & Age Rating aligned with MovieSlideShow-info */
+.Anime-controls {
+  position: absolute;
+  bottom: 28%;
+  left: 75%;
+  display: flex;
+  flex-direction: row; /* Keep vertical alignment */
+  gap: 15px;
+  align-items: center;
+  z-index: 20;
+}
+
+/* Play/Pause & Mute Button */
+.Anime-mute-btn {
+  font-size: clamp(12px, 1.5vw, 20px);
+  padding: clamp(6px, 1vw, 12px);
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background 0.3s ease-in-out;
+  background: rgba(255, 255, 255, 0.3);
+  border: none;
+  color: #433878;
+}
+
+.Anime-mute-btn:hover {
+  background: rgba(255, 255, 255, 0.6);
+}
+
+/* Age Rating */
+.AnimeSlide-age {
+  font-size: clamp(10px, 1.8vw, 20px);
+  padding: clamp(4px, 1vw, 8px) clamp(8px, 1.5vw, 15px);
+  border-radius: 1px;
+  font-weight: bold;
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 0px;
+}
+
+.AnimeSlide-age p {
+  font-size: clamp(10px, 2vw, 30px);
+  color: #433878 !important;
+}
+
+/* Navigation Buttons */
+.Animenav-btn {
+  position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.5);
+    border: none;
+    font-size: 30px;
+    padding: 15px 20px;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out;
+    z-index: 20;
+}
+
+.Animenav-btn:hover {
+  background: transparent;
+}
+
+.Animenav-btn.left {
+  color: #433878;
+  left: 20px;
+}
+
+.Animenav-btn.right {
+  color: #433878;
+  right: 20px;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 1024px) {
+  .AnimeSlideShow-info {
+    bottom: 22%;
+    left: 10%;
+    max-width: 70%;
+  }
+  .Anime-controls {
+    bottom: 22%;
+    left: auto;
+    right: 10%;
+  }
+}
+
+@media (max-width: 900px) {
+  .AnimeSlideShow-info {
+    bottom: 20%;
+    left: 8%;
+    text-align: center;
+    max-width: 75%;
+  }
+  .Anime-controls {
+    bottom: 20%;
+    right: 8%;
+  }
+}
+
+@media (max-width: 768px) {
+  .AnimeSlideShow-info {
+    bottom: 18%;
+    left: 5%;
+    max-width: 80%;
+  }
+  .Anime-controls {
+    bottom: 18%;
+    right: 5%;
+  }
+}
+
+@media (max-width: 480px) {
+  .AnimeSlideShow-info {
+    bottom: 15%;
+    left: 5%;
+    max-width: 90%;
+    padding: 8px;
+  }
+  .Anime-controls {
+    bottom: 15%;
+    right: 5%;
+  }
+}

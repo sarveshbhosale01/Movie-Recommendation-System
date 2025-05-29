@@ -1,0 +1,403 @@
+[
+    {
+      "poster": "ActressMoviePosters/DeepikaPadukone/RamLeela.jpg",
+      "actor": "DeepikaPadukone",
+      "name": "Goliyon Ki Raasleela Ram-Leela",
+      "summary": "A passionate love story between two lovers from rival families, set against the backdrop of violence and cultural traditions.",
+      "language": "Hindi",
+      "genre": ["Romance", "Drama", "Action"]
+    },
+    {
+      "poster": "ActressMoviePosters/DeepikaPadukone/ChennaiExpress.jpg",
+      "actor": "DeepikaPadukone",
+      "name": "Chennai Express",
+      "summary": "A man's train journey to fulfill his grandfather's last wish turns into a wild adventure when he meets a South Indian woman on the run.",
+      "language": "Hindi",
+      "genre": ["Comedy", "Action", "Romance"]
+    },
+    {
+      "poster": "ActressMoviePosters/DeepikaPadukone/BajiraoMastani.jpg",
+      "actor": "DeepikaPadukone",
+      "name": "Bajirao Mastani",
+      "summary": "The epic love story of Maratha warrior Bajirao and his second wife Mastani, which faces obstacles from his family and society.",
+      "language": "Hindi",
+      "genre": ["Drama", "Historical", "Romance"]
+    },
+    {
+      "poster": "ActressMoviePosters/DeepikaPadukone/Padmaavat.jpg",
+      "actor": "DeepikaPadukone",
+      "name": "Padmaavat",
+      "summary": "Queen Padmavati's beauty captivates Sultan Alauddin Khilji, leading to a dramatic battle between honor and obsession.",
+      "language": "Hindi",
+      "genre": ["Historical", "Drama", "Action"]
+    },
+    {
+      "poster": "ActressMoviePosters/DeepikaPadukone/YehJawaaniHaiDeewani.jpg",
+      "actor": "DeepikaPadukone",
+      "name": "Yeh Jawaani Hai Deewani",
+      "summary": "A chance encounter between two individuals sparks a journey of love, self-discovery, and unforgettable friendships.",
+      "language": "Hindi",
+      "genre": ["Romance", "Drama", "Comedy"]
+    },
+    {
+        "poster": "ActressMoviePosters/PriyankaChopra/BajiraoMastani.jpg",
+        "actor": "PriyankaChopra",
+        "name": "Bajirao Mastani",
+        "summary": "The epic love story of Maratha warrior Bajirao and his second wife Mastani, as his first wife Kashibai faces emotional turmoil.",
+        "language": "Hindi",
+        "genre": ["Drama", "Historical", "Romance"]
+      },
+      {
+        "poster": "ActressMoviePosters/PriyankaChopra/Fashion.jpg",
+        "actor": "PriyankaChopra",
+        "name": "Fashion",
+        "summary": "A small-town girl rises to fame in the fashion industry but struggles to balance her success with personal challenges.",
+        "language": "Hindi",
+        "genre": ["Drama"]
+      },
+      {
+        "poster": "ActressMoviePosters/PriyankaChopra/Barfi.jpg",
+        "actor": "PriyankaChopra",
+        "name": "Barfi!",
+        "summary": "A heartwarming story of a mute and deaf man, his love for two women, and the beauty of unconditional love.",
+        "language": "Hindi",
+        "genre": ["Drama", "Romance", "Comedy"]
+      },
+      {
+        "poster": "ActressMoviePosters/PriyankaChopra/MujhseShaadiKarogi.jpg",
+        "actor": "PriyankaChopra",
+        "name": "Mujhse Shaadi Karogi",
+        "summary": "Two men, both deeply in love with the same woman, engage in a hilarious rivalry to win her heart.",
+        "language": "Hindi",
+        "genre": ["Comedy", "Romance"]
+      },
+      {
+        "poster": "ActressMoviePosters/PriyankaChopra/Don.jpg",
+        "actor": "PriyankaChopra",
+        "name": "Don",
+        "summary": "An undercover cop infiltrates the criminal world to take down an international drug kingpin, but things take a thrilling turn.",
+        "language": "Hindi",
+        "genre": ["Action", "Thriller"]
+      },
+      {
+        "poster": "ActressMoviePosters/AliaBhatt/Raazi.jpg",
+        "actor": "AliaBhatt",
+        "name": "Raazi",
+        "summary": "A young Indian woman is sent to Pakistan as an undercover spy, marrying into a military family to gather crucial intelligence.",
+        "language": "Hindi",
+        "genre": ["Thriller", "Drama", "Action"]
+      },
+      {
+        "poster": "ActressMoviePosters/AliaBhatt/GullyBoy.jpg",
+        "actor": "AliaBhatt",
+        "name": "Gully Boy",
+        "summary": "A street rapper from Mumbai rises against all odds to achieve his dreams while navigating love, family, and societal challenges.",
+        "language": "Hindi",
+        "genre": ["Drama", "Musical"]
+      },
+      {
+        "poster": "ActressMoviePosters/AliaBhatt/DearZindagi.jpg",
+        "actor": "AliaBhatt",
+        "name": "Dear Zindagi",
+        "summary": "A young woman struggling with life's challenges finds guidance and healing through an unconventional therapist.",
+        "language": "Hindi",
+        "genre": ["Drama", "Romance"]
+      },
+      {
+        "poster": "ActressMoviePosters/AliaBhatt/GangubaiKathiawadi.jpg",
+        "actor": "AliaBhatt",
+        "name": "Gangubai Kathiawadi",
+        "summary": "The inspiring story of a woman who rises from hardship to become a powerful and influential figure in Mumbai’s underworld.",
+        "language": "Hindi",
+        "genre": ["Drama", "Biography", "Crime"]
+      },
+      {
+        "poster": "ActressMoviePosters/AliaBhatt/Brahmastra.jpg",
+        "actor": "AliaBhatt",
+        "name": "Brahmāstra: Part One – Shiva",
+        "summary": "A young man discovers his mystical powers and embarks on a journey to unlock the secrets of an ancient weapon that could change the world.",
+        "language": "Hindi",
+        "genre": ["Action", "Fantasy", "Adventure"]
+      },
+      {
+        "poster": "ActressMoviePosters/AishwaryaRai/Devdas.jpg",
+        "actor": "AishwaryaRai",
+        "name": "Devdas",
+        "summary": "A tragic love story of a man who drowns himself in alcohol after being separated from his childhood love, Paro.",
+        "language": "Hindi",
+        "genre": ["Drama", "Romance"]
+      },
+      {
+        "poster": "ActressMoviePosters/AishwaryaRai/JodhaaAkbar.jpg",
+        "actor": "AishwaryaRai",
+        "name": "Jodhaa Akbar",
+        "summary": "An epic historical romance between Mughal Emperor Akbar and Rajput princess Jodhaa, navigating love and politics.",
+        "language": "Hindi",
+        "genre": ["Historical", "Drama", "Romance"]
+      },
+      {
+        "poster": "ActressMoviePosters/AishwaryaRai/Guru.jpg",
+        "actor": "AishwaryaRai",
+        "name": "Guru",
+        "summary": "A determined man rises from a small village to become a business tycoon, supported by his strong and loving wife.",
+        "language": "Hindi",
+        "genre": ["Drama", "Biography"]
+      },
+      {
+        "poster": "ActressMoviePosters/AishwaryaRai/Raavan.jpg",
+        "actor": "AishwaryaRai",
+        "name": "Raavan",
+        "summary": "A police officer's wife is kidnapped by a bandit, leading to a complex tale of love, revenge, and blurred moral lines.",
+        "language": "Hindi",
+        "genre": ["Action", "Drama", "Thriller"]
+      },
+      {
+        "poster": "ActressMoviePosters/AishwaryaRai/PonniyinSelvan.jpg",
+        "actor": "AishwaryaRai",
+        "name": "Ponniyin Selvan: I",
+        "summary": "A grand historical saga of the Chola dynasty, its political struggles, and the powerful women who shaped its destiny.",
+        "language": "Tamil",
+        "genre": ["Historical", "Drama", "Action"]
+      },
+      {
+        "poster": "ActressMoviePosters/KareenaKapoor/JabWeMet.jpg",
+        "actor": "KareenaKapoor",
+        "name": "Jab We Met",
+        "summary": "A heartbroken businessman meets a free-spirited woman on a train journey, changing their lives forever.",
+        "language": "Hindi",
+        "genre": ["Romance", "Comedy", "Drama"]
+      },
+      {
+        "poster": "ActressMoviePosters/KareenaKapoor/KabhiKhushiKabhieGham.jpg",
+        "actor": "KareenaKapoor",
+        "name": "Kabhi Khushi Kabhie Gham",
+        "summary": "A wealthy family struggles with love, traditions, and reunions as a son chooses love over family expectations.",
+        "language": "Hindi",
+        "genre": ["Drama", "Family", "Romance"]
+      },
+      {
+        "poster": "ActressMoviePosters/KareenaKapoor/Chameli.jpg",
+        "actor": "KareenaKapoor",
+        "name": "Chameli",
+        "summary": "A wealthy businessman and a street-smart prostitute form an unexpected bond on a rainy night in Mumbai.",
+        "language": "Hindi",
+        "genre": ["Drama", "Romance"]
+      },
+      {
+        "poster": "ActressMoviePosters/KareenaKapoor/Omkara.jpg",
+        "actor": "KareenaKapoor",
+        "name": "Omkara",
+        "summary": "A gripping adaptation of Shakespeare's Othello, set in the backdrop of political crime in rural India.",
+        "language": "Hindi",
+        "genre": ["Crime", "Drama", "Thriller"]
+      },
+      {
+        "poster": "ActressMoviePosters/KareenaKapoor/GoodNewwz.jpg",
+        "actor": "KareenaKapoor",
+        "name": "Good Newwz",
+        "summary": "Two couples with the same last name face chaos when their IVF procedures are mixed up at the clinic.",
+        "language": "Hindi",
+        "genre": ["Comedy", "Drama"]
+      },
+      {
+        "poster": "ActressMoviePosters/SonamKapoor/Neerja.jpg",
+        "actor": "SonamKapoor",
+        "name": "Neerja",
+        "summary": "The inspiring real-life story of Neerja Bhanot, a flight attendant who saved hundreds of passengers during a hijacking.",
+        "language": "Hindi",
+        "genre": ["Biography", "Drama", "Thriller"]
+      },
+      {
+        "poster": "ActressMoviePosters/SonamKapoor/Aisha.jpg",
+        "actor": "SonamKapoor",
+        "name": "Aisha",
+        "summary": "A modern adaptation of Jane Austen’s 'Emma', where a rich, young woman plays matchmaker in high society.",
+        "language": "Hindi",
+        "genre": ["Romance", "Comedy", "Drama"]
+      },
+      {
+        "poster": "ActressMoviePosters/SonamKapoor/Raanjhanaa.jpg",
+        "actor": "SonamKapoor",
+        "name": "Raanjhanaa",
+        "summary": "A small-town boy’s undying love for a girl leads to a story of heartbreak, politics, and self-discovery.",
+        "language": "Hindi",
+        "genre": ["Romance", "Drama"]
+      },
+      {
+        "poster": "ActressMoviePosters/SonamKapoor/VeereDiWedding.jpg",
+        "actor": "SonamKapoor",
+        "name": "Veere Di Wedding",
+        "summary": "Four childhood friends reunite for a wedding, navigating love, relationships, and societal expectations.",
+        "language": "Hindi",
+        "genre": ["Comedy", "Drama"]
+      },
+      {
+        "poster": "ActressMoviePosters/SonamKapoor/Delhi6.jpg",
+        "actor": "SonamKapoor",
+        "name": "Delhi-6",
+        "summary": "A young man returns to India with his ailing grandmother and discovers the vibrant yet complex life of Old Delhi.",
+        "language": "Hindi",
+        "genre": ["Drama", "Musical"]
+      },
+      {
+        "poster": "ActressMoviePosters/ShraddhaKapoor/Aashiqui2.jpg",
+        "actor": "ShraddhaKapoor",
+        "name": "Aashiqui 2",
+        "summary": "A troubled singer falls in love with a talented young woman, helping her rise to fame while battling his own demons.",
+        "language": "Hindi",
+        "genre": ["Romance", "Musical", "Drama"]
+      },
+      {
+        "poster": "ActressMoviePosters/ShraddhaKapoor/EkVillain.jpg",
+        "actor": "ShraddhaKapoor",
+        "name": "Ek Villain",
+        "summary": "A reformed gangster's love story takes a tragic turn when a mysterious killer targets his beloved.",
+        "language": "Hindi",
+        "genre": ["Action", "Thriller", "Romance"]
+      },
+      {
+        "poster": "ActressMoviePosters/ShraddhaKapoor/ABCD2.jpg",
+        "actor": "ShraddhaKapoor",
+        "name": "ABCD 2",
+        "summary": "A group of dancers from India struggle against all odds to compete in an international dance championship.",
+        "language": "Hindi",
+        "genre": ["Musical", "Drama", "Dance"]
+      },
+      {
+        "poster": "ActressMoviePosters/ShraddhaKapoor/Stree.jpg",
+        "actor": "ShraddhaKapoor",
+        "name": "Stree",
+        "summary": "A small town is haunted by a female spirit who abducts men at night, leading to a mix of horror and humor.",
+        "language": "Hindi",
+        "genre": ["Horror", "Comedy", "Thriller"]
+      },
+      {
+        "poster": "ActressMoviePosters/ShraddhaKapoor/Saaho.jpg",
+        "actor": "ShraddhaKapoor",
+        "name": "Saaho",
+        "summary": "An undercover cop investigates a high-profile heist, leading to a high-octane battle of power and deception.",
+        "language": "Hindi",
+        "genre": ["Action", "Thriller", "Adventure"]
+      },
+      {
+        "poster": "ActressMoviePosters/KatrinaKaif/ZindagiNaMilegiDobara.jpg",
+        "actor": "KatrinaKaif",
+        "name": "Zindagi Na Milegi Dobara",
+        "summary": "Three friends embark on a life-changing road trip across Spain, discovering love, adventure, and themselves.",
+        "language": "Hindi",
+        "genre": ["Drama", "Adventure", "Comedy"]
+      },
+      {
+        "poster": "ActressMoviePosters/KatrinaKaif/JabTakHaiJaan.jpg",
+        "actor": "KatrinaKaif",
+        "name": "Jab Tak Hai Jaan",
+        "summary": "A bomb disposal expert's love story unfolds between past and present as he faces a fateful encounter.",
+        "language": "Hindi",
+        "genre": ["Romance", "Drama", "Musical"]
+      },
+      {
+        "poster": "ActressMoviePosters/KatrinaKaif/TigerZindaHai.jpg",
+        "actor": "KatrinaKaif",
+        "name": "Tiger Zinda Hai",
+        "summary": "A spy couple embarks on a deadly mission to rescue hostages from a terrorist organization.",
+        "language": "Hindi",
+        "genre": ["Action", "Thriller", "Adventure"]
+      },
+      {
+        "poster": "ActressMoviePosters/KatrinaKaif/Bharat.jpg",
+        "actor": "KatrinaKaif",
+        "name": "Bharat",
+        "summary": "A man's journey through India's post-independence history is marked by love, loss, and resilience.",
+        "language": "Hindi",
+        "genre": ["Drama", "Action", "Adventure"]
+      },
+      {
+        "poster": "ActressMoviePosters/KatrinaKaif/Dhoom3.jpg",
+        "actor": "KatrinaKaif",
+        "name": "Dhoom 3",
+        "summary": "A circus performer turned thief seeks revenge against a bank while being pursued by fearless cops.",
+        "language": "Hindi",
+        "genre": ["Action", "Thriller", "Crime"]
+      },
+      {
+        "poster": "ActressMoviePosters/SonakshiSinha/Dabangg.jpg",
+        "actor": "SonakshiSinha",
+        "name": "Dabangg",
+        "summary": "A fearless cop with a troubled past fights crime while navigating his complex family dynamics and love life.",
+        "language": "Hindi",
+        "genre": ["Action", "Drama", "Comedy"]
+      },
+      {
+        "poster": "ActressMoviePosters/SonakshiSinha/Lootera.jpg",
+        "actor": "SonakshiSinha",
+        "name": "Lootera",
+        "summary": "A con artist and an aristocrat's daughter fall in love, only for fate to test their relationship in heartbreaking ways.",
+        "language": "Hindi",
+        "genre": ["Romance", "Drama", "Historical"]
+      },
+      {
+        "poster": "ActressMoviePosters/SonakshiSinha/RowdyRathore.jpg",
+        "actor": "SonakshiSinha",
+        "name": "Rowdy Rathore",
+        "summary": "A small-time thief finds himself in trouble when he discovers his uncanny resemblance to a fearless cop.",
+        "language": "Hindi",
+        "genre": ["Action", "Comedy", "Drama"]
+      },
+      {
+        "poster": "ActressMoviePosters/SonakshiSinha/Holiday.jpg",
+        "actor": "SonakshiSinha",
+        "name": "Holiday: A Soldier Is Never Off Duty",
+        "summary": "An Indian Army officer on vacation uncovers a dangerous sleeper cell operation and fights to stop a terrorist attack.",
+        "language": "Hindi",
+        "genre": ["Action", "Thriller", "Drama"]
+      },
+      {
+        "poster": "ActressMoviePosters/SonakshiSinha/Akira.jpg",
+        "actor": "SonakshiSinha",
+        "name": "Akira",
+        "summary": "A college girl with a troubled past takes on corrupt police officers and fights for justice in her own way.",
+        "language": "Hindi",
+        "genre": ["Action", "Thriller", "Drama"]
+      },
+      {
+        "poster": "ActressMoviePosters/AnushkaSharma/Sultan.jpg",
+        "actor": "AnushkaSharma",
+        "name": "Sultan",
+        "summary": "A middle-aged wrestling champion tries to make a comeback to revive his career and win back his lost love.",
+        "language": "Hindi",
+        "genre": ["Action", "Drama", "Sport"]
+      },
+      {
+        "poster": "ActressMoviePosters/AnushkaSharma/PK.jpg",
+        "actor": "AnushkaSharma",
+        "name": "PK",
+        "summary": "An alien stranded on Earth questions religious beliefs and customs with a unique and innocent perspective.",
+        "language": "Hindi",
+        "genre": ["Comedy", "Drama", "Sci-Fi"]
+      },
+      {
+        "poster": "ActressMoviePosters/AnushkaSharma/AeDilHaiMushkil.jpg",
+        "actor": "AnushkaSharma",
+        "name": "Ae Dil Hai Mushkil",
+        "summary": "A complex love story explores heartbreak, unrequited love, and deep friendships.",
+        "language": "Hindi",
+        "genre": ["Romance", "Drama", "Musical"]
+      },
+      {
+        "poster": "ActressMoviePosters/AnushkaSharma/NH10.jpg",
+        "actor": "AnushkaSharma",
+        "name": "NH10",
+        "summary": "A woman on a road trip with her husband turns into a fight for survival against a gang of brutal criminals.",
+        "language": "Hindi",
+        "genre": ["Thriller", "Crime", "Action"]
+      },
+      {
+        "poster": "ActressMoviePosters/AnushkaSharma/Pari.jpg",
+        "actor": "AnushkaSharma",
+        "name": "Pari",
+        "summary": "A man rescues a mysterious woman, only to realize she is tied to supernatural horrors.",
+        "language": "Hindi",
+        "genre": ["Horror", "Thriller", "Mystery"]
+      }
+  ]
+  

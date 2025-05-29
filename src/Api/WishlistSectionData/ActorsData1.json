@@ -1,0 +1,405 @@
+[
+    {
+        "poster": "/ActorMoviePosters/ShahrukhKhan/ddlj.jpg",
+        "actor" : "ShahrukhKhan",
+        "name": "Dilwale Dulhania Le Jayenge",
+        "summary": "Raj and Simran, two young non-resident Indians, fall in love during a European trip. However, Simran's conservative father has already arranged her marriage to another man.",
+        "language": "Hindi",
+        "genre": ["Romance", "Drama"]
+      },
+      {
+        "poster": "/ActorMoviePosters/ShahrukhKhan/swades.jpg",
+        "actor" : "ShahrukhKhan",
+        "name": "Swades",
+        "summary": "A NASA scientist returns to India to find his childhood nanny and, in the process, rediscovers his roots and works to improve the village’s living conditions.",
+        "language": "Hindi",
+        "genre": ["Drama"]
+      },
+      {
+        "poster": "/ActorMoviePosters/ShahrukhKhan/Devdas.jpg",
+        "actor" : "ShahrukhKhan",
+        "name": "Devdas",
+        "summary": "A wealthy law graduate returns from London to marry his childhood sweetheart but is met with rejection, leading him into a downward spiral of self-destruction.",
+        "language": "Hindi",
+        "genre": ["Romance", "Drama"]
+      },
+      {
+        "poster": "/ActorMoviePosters/ShahrukhKhan/Chak De! India.jpg",
+        "actor" : "ShahrukhKhan",
+        "name": "Chak De! India",
+        "summary": "A disgraced hockey player turned coach struggles to bring together a group of underdog women to lead the Indian national team to victory.",
+        "language": "Hindi",
+        "genre": ["Sports", "Drama"]
+      },
+      {
+        "poster": "ActorMoviePosters/ShahrukhKhan/My Name Is Khan.jpg",
+        "actor" : "ShahrukhKhan",
+        "name": "My Name Is Khan",
+        "summary": "An autistic Muslim man embarks on a cross-country journey in the U.S. to meet the President and clear his name after being wrongfully targeted post-9/11.",
+        "language": "Hindi",
+        "genre": ["Drama"]
+      },
+      {
+        "poster": "ActorMoviePosters/SalmanKhan/BajrangiBhaijaan.jpg",
+        "actor": "SalmanKhan",
+        "name": "Bajrangi Bhaijaan",
+        "summary": "A kind-hearted man embarks on a journey to reunite a mute Pakistani girl with her family across the border, overcoming numerous challenges along the way.",
+        "language": "Hindi",
+        "genre": ["Drama", "Adventure"]
+      },
+      {
+        "poster": "ActorMoviePosters/SalmanKhan/Sultan.jpg",
+        "actor": "SalmanKhan",
+        "name": "Sultan",
+        "summary": "A former wrestling champion struggles with personal loss and makes a comeback to regain his lost respect and love.",
+        "language": "Hindi",
+        "genre": ["Sports", "Drama", "Action"]
+      },
+      {
+        "poster": "ActorMoviePosters/SalmanKhan/TigerZindaHai.jpg",
+        "actor": "SalmanKhan",
+        "name": "Tiger Zinda Hai",
+        "summary": "RAW agent Tiger and Pakistani spy Zoya come out of hiding to rescue hostages held by a terrorist organization in Iraq.",
+        "language": "Hindi",
+        "genre": ["Action", "Thriller"]
+      },
+      {
+        "poster": "ActorMoviePosters/SalmanKhan/Kick.jpg",
+        "actor": "SalmanKhan",
+        "name": "Kick",
+        "summary": "A man who finds thrill in life’s challenges turns into a masked vigilante to help the needy while being chased by the police.",
+        "language": "Hindi",
+        "genre": ["Action", "Thriller"]
+      },
+      {
+        "poster": "ActorMoviePosters/SalmanKhan/Wanted.jpg",
+        "actor": "SalmanKhan",
+        "name": "Wanted",
+        "summary": "A sharpshooter working for the mafia is caught between the law and crime, hiding a deeper secret about his real identity.",
+        "language": "Hindi",
+        "genre": ["Action", "Thriller"]
+      },
+      {
+        "poster": "ActorMoviePosters/AamirKhan/3Idiots.jpg",
+        "actor": "AamirKhan",
+        "name": "3 Idiots",
+        "summary": "Two friends embark on a journey to find their long-lost college buddy, recalling their college days and the unconventional ways of their friend who inspired them to think differently.",
+        "language": "Hindi",
+        "genre": ["Comedy", "Drama"]
+      },
+      {
+        "poster": "ActorMoviePosters/AamirKhan/Dangal.jpg",
+        "actor": "AamirKhan",
+        "name": "Dangal",
+        "summary": "A former wrestler trains his daughters to become world-class wrestlers, challenging societal norms and proving the power of determination.",
+        "language": "Hindi",
+        "genre": ["Sports", "Drama"]
+      },
+      {
+        "poster": "ActorMoviePosters/AamirKhan/Lagaan.jpg",
+        "actor": "AamirKhan",
+        "name": "Lagaan",
+        "summary": "In colonial India, a small village fights against unjust taxation by challenging British officers to a game of cricket.",
+        "language": "Hindi",
+        "genre": ["Drama", "Sports", "Historical"]
+      },
+      {
+        "poster": "ActorMoviePosters/AamirKhan/TaareZameenPar.jpg",
+        "actor": "AamirKhan",
+        "name": "Taare Zameen Par",
+        "summary": "An art teacher helps a dyslexic child discover his hidden potential, transforming his life and boosting his confidence.",
+        "language": "Hindi",
+        "genre": ["Drama", "Family"]
+      },
+      {
+        "poster": "ActorMoviePosters/AamirKhan/Ghajini.jpg",
+        "actor": "AamirKhan",
+        "name": "Ghajini",
+        "summary": "A man suffering from short-term memory loss seeks revenge against the murderer of his beloved, using tattoos and notes to track his target.",
+        "language": "Hindi",
+        "genre": ["Action", "Thriller"]
+      },
+      {
+        "poster": "ActorMoviePosters/HrithikRoshan/KoiMilGaya.jpg",
+        "actor": "HrithikRoshan",
+        "name": "Koi Mil Gaya",
+        "summary": "A developmentally disabled young man befriends an extraterrestrial being, leading to magical changes in his life.",
+        "language": "Hindi",
+        "genre": ["Sci-Fi", "Drama", "Family"]
+      },
+      {
+        "poster": "ActorMoviePosters/HrithikRoshan/Krrish.jpg",
+        "actor": "HrithikRoshan",
+        "name": "Krrish",
+        "summary": "A young man gifted with superhuman abilities discovers his destiny as a superhero while protecting the world from a powerful villain.",
+        "language": "Hindi",
+        "genre": ["Action", "Sci-Fi"]
+      },
+      {
+        "poster": "ActorMoviePosters/HrithikRoshan/ZindagiNaMilegiDobara.jpg",
+        "actor": "HrithikRoshan",
+        "name": "Zindagi Na Milegi Dobara",
+        "summary": "Three childhood friends embark on a road trip across Spain that changes their perspectives on life, love, and friendship.",
+        "language": "Hindi",
+        "genre": ["Drama", "Adventure", "Comedy"]
+      },
+      {
+        "poster": "ActorMoviePosters/HrithikRoshan/War.jpg",
+        "actor": "HrithikRoshan",
+        "name": "War",
+        "summary": "An elite Indian soldier is assigned to track down his former mentor, who has gone rogue.",
+        "language": "Hindi",
+        "genre": ["Action", "Thriller"]
+      },
+      {
+        "poster": "ActorMoviePosters/HrithikRoshan/Super30.jpg",
+        "actor": "HrithikRoshan",
+        "name": "Super 30",
+        "summary": "The inspiring story of mathematician Anand Kumar, who helps underprivileged students crack India's toughest engineering entrance exam.",
+        "language": "Hindi",
+        "genre": ["Biography", "Drama"]
+      },
+      {
+        "poster": "ActorMoviePosters/RanbirKapoor/Barfi.jpg",
+        "actor": "RanbirKapoor",
+        "name": "Barfi!",
+        "summary": "A charming mute and deaf man navigates life and love while facing challenges with a heart full of joy and optimism.",
+        "language": "Hindi",
+        "genre": ["Drama", "Romance", "Comedy"]
+      },
+      {
+        "poster": "ActorMoviePosters/RanbirKapoor/Sanju.jpg",
+        "actor": "RanbirKapoor",
+        "name": "Sanju",
+        "summary": "A biopic on Bollywood actor Sanjay Dutt, chronicling his rise to fame, struggles with addiction, and legal troubles.",
+        "language": "Hindi",
+        "genre": ["Biography", "Drama"]
+      },
+      {
+        "poster": "ActorMoviePosters/RanbirKapoor/YehJawaaniHaiDeewani.jpg",
+        "actor": "RanbirKapoor",
+        "name": "Yeh Jawaani Hai Deewani",
+        "summary": "A free-spirited traveler and an ambitious medical student cross paths, shaping each other's lives in unexpected ways.",
+        "language": "Hindi",
+        "genre": ["Romance", "Drama", "Comedy"]
+      },
+      {
+        "poster": "ActorMoviePosters/RanbirKapoor/Rockstar.jpg",
+        "actor": "RanbirKapoor",
+        "name": "Rockstar",
+        "summary": "A young musician's journey from heartbreak to fame, as he struggles with love, success, and self-destruction.",
+        "language": "Hindi",
+        "genre": ["Drama", "Musical", "Romance"]
+      },
+      {
+        "poster": "ActorMoviePosters/RanbirKapoor/Brahmastra.jpg",
+        "actor": "RanbirKapoor",
+        "name": "Brahmāstra: Part One – Shiva",
+        "summary": "A young man discovers his mystical powers and embarks on a journey to unlock the secrets of an ancient weapon that could change the world.",
+        "language": "Hindi",
+        "genre": ["Action", "Fantasy", "Adventure"]
+      },
+        {
+          "poster": "ActorMoviePosters/AbhishekBachchan/Guru.jpg",
+          "actor": "AbhishekBachchan",
+          "name": "Guru",
+          "summary": "A determined man rises from a small village to become a powerful business tycoon, facing obstacles and controversies along the way.",
+          "language": "Hindi",
+          "genre": ["Drama", "Biography"]
+        },
+        {
+          "poster": "ActorMoviePosters/AbhishekBachchan/Dhoom.jpg",
+          "actor": "AbhishekBachchan",
+          "name": "Dhoom",
+          "summary": "A determined cop teams up with a bike mechanic to track down a gang of high-speed robbers led by a mysterious mastermind.",
+          "language": "Hindi",
+          "genre": ["Action", "Thriller"]
+        },
+        {
+          "poster": "ActorMoviePosters/AbhishekBachchan/BuntyAurBabli.jpg",
+          "actor": "AbhishekBachchan",
+          "name": "Bunty Aur Babli",
+          "summary": "Two ambitious dreamers turn to con artistry to achieve their goals, leading to a series of hilarious and thrilling escapades.",
+          "language": "Hindi",
+          "genre": ["Comedy", "Crime", "Drama"]
+        },
+        {
+          "poster": "ActorMoviePosters/AbhishekBachchan/Manmarziyaan.jpg",
+          "actor": "AbhishekBachchan",
+          "name": "Manmarziyaan",
+          "summary": "A complex love triangle unfolds as a woman must choose between her passionate past and a stable, mature love.",
+          "language": "Hindi",
+          "genre": ["Romance", "Drama"]
+        },
+        {
+          "poster": "ActorMoviePosters/AbhishekBachchan/Dostana.jpg",
+          "actor": "AbhishekBachchan",
+          "name": "Dostana",
+          "summary": "Two friends pretend to be a gay couple to secure an apartment, but things get complicated when they both fall for their roommate.",
+          "language": "Hindi",
+          "genre": ["Comedy", "Romance"]
+        },
+        {
+          "poster": "ActorMoviePosters/RanveerSingh/Padmaavat.jpg",
+          "actor": "RanveerSingh",
+          "name": "Padmaavat",
+          "summary": "A powerful sultan becomes obsessed with the beauty and grace of Queen Padmavati, leading to a fierce battle for honor and love.",
+          "language": "Hindi",
+          "genre": ["Drama", "Historical", "Action"]
+        },
+        {
+          "poster": "ActorMoviePosters/RanveerSingh/BajiraoMastani.jpg",
+          "actor": "RanveerSingh",
+          "name": "Bajirao Mastani",
+          "summary": "A fearless Maratha warrior faces personal and political challenges as he falls in love with a Rajput princess despite his existing marriage.",
+          "language": "Hindi",
+          "genre": ["Drama", "Historical", "Romance"]
+        },
+        {
+          "poster": "ActorMoviePosters/RanveerSingh/GullyBoy.jpg",
+          "actor": "RanveerSingh",
+          "name": "Gully Boy",
+          "summary": "A young man from the slums of Mumbai follows his passion for rap music and rises against all odds to become a voice for the streets.",
+          "language": "Hindi",
+          "genre": ["Drama", "Music"]
+        },
+        {
+          "poster": "ActorMoviePosters/RanveerSingh/Simmba.jpg",
+          "actor": "RanveerSingh",
+          "name": "Simmba",
+          "summary": "A corrupt police officer has a change of heart after a brutal crime, setting him on a path of justice and redemption.",
+          "language": "Hindi",
+          "genre": ["Action", "Comedy", "Crime"]
+        },
+        {
+          "poster": "ActorMoviePosters/RanveerSingh/83.jpg",
+          "actor": "RanveerSingh",
+          "name": "83",
+          "summary": "The incredible true story of India's underdog victory at the 1983 Cricket World Cup, led by captain Kapil Dev.",
+          "language": "Hindi",
+          "genre": ["Drama", "Biography", "Sports"]
+        },
+        {
+          "poster": "ActorMoviePosters/SaifAliKhan/Tanhaji.jpg",
+          "actor": "SaifAliKhan",
+          "name": "Tanhaji: The Unsung Warrior",
+          "summary": "A brave Maratha warrior fights to reclaim a strategic fortress from a ruthless Mughal commander to protect his homeland.",
+          "language": "Hindi",
+          "genre": ["Action", "Historical", "Drama"]
+        },
+        {
+          "poster": "ActorMoviePosters/SaifAliKhan/Omkara.jpg",
+          "actor": "SaifAliKhan",
+          "name": "Omkara",
+          "summary": "A political enforcer is consumed by jealousy and betrayal, leading to a tragic downfall in this adaptation of Shakespeare's Othello.",
+          "language": "Hindi",
+          "genre": ["Crime", "Drama", "Thriller"]
+        },
+        {
+          "poster": "ActorMoviePosters/SaifAliKhan/SacredGames.jpg",
+          "actor": "SaifAliKhan",
+          "name": "Sacred Games",
+          "summary": "A Mumbai police officer uncovers a dark conspiracy linked to a criminal mastermind, setting off a high-stakes cat-and-mouse chase.",
+          "language": "Hindi",
+          "genre": ["Crime", "Thriller", "Mystery"]
+        },
+        {
+          "poster": "ActorMoviePosters/SaifAliKhan/LoveAajKal.jpg",
+          "actor": "SaifAliKhan",
+          "name": "Love Aaj Kal",
+          "summary": "A modern-day love story unfolds in parallel with a romance from the past, showing how love and relationships evolve over time.",
+          "language": "Hindi",
+          "genre": ["Romance", "Drama"]
+        },
+        {
+          "poster": "ActorMoviePosters/SaifAliKhan/KalHoNaaHo.jpg",
+          "actor": "SaifAliKhan",
+          "name": "Kal Ho Naa Ho",
+          "summary": "A love triangle unfolds as a man falls for his best friend, while another mysterious man brings happiness into their lives.",
+          "language": "Hindi",
+          "genre": ["Drama", "Romance"]
+        },
+        {
+          "poster": "ActorMoviePosters/ArjunKapoor/Ishaqzaade.jpg",
+          "actor": "ArjunKapoor",
+          "name": "Ishaqzaade",
+          "summary": "A love story between two rebellious individuals from rival political families, battling against societal norms and family feuds.",
+          "language": "Hindi",
+          "genre": ["Romance", "Drama", "Action"]
+        },
+        {
+          "poster": "ActorMoviePosters/ArjunKapoor/Gunday.jpg",
+          "actor": "ArjunKapoor",
+          "name": "Gunday",
+          "summary": "Two inseparable friends rise from being refugees to powerful coal mafias, but their bond is tested when love enters their lives.",
+          "language": "Hindi",
+          "genre": ["Action", "Drama", "Thriller"]
+        },
+        {
+          "poster": "ActorMoviePosters/ArjunKapoor/2States.jpg",
+          "actor": "ArjunKapoor",
+          "name": "2 States",
+          "summary": "A Punjabi boy and a Tamilian girl fall in love, but their journey to convince their culturally different families is full of challenges.",
+          "language": "Hindi",
+          "genre": ["Romance", "Drama"]
+        },
+        {
+          "poster": "ActorMoviePosters/ArjunKapoor/KiAndKa.jpg",
+          "actor": "ArjunKapoor",
+          "name": "Ki & Ka",
+          "summary": "A progressive couple challenges gender stereotypes as the husband manages the home while the wife pursues her career.",
+          "language": "Hindi",
+          "genre": ["Romance", "Drama", "Comedy"]
+        },
+        {
+          "poster": "ActorMoviePosters/ArjunKapoor/HalfGirlfriend.jpg",
+          "actor": "ArjunKapoor",
+          "name": "Half Girlfriend",
+          "summary": "A small-town boy falls for a rich Delhi girl, who is hesitant to commit, leading to a complicated and emotional journey of love and loss.",
+          "language": "Hindi",
+          "genre": ["Romance", "Drama"]
+        },
+        {
+          "poster": "ActorMoviePosters/VickyKaushal/Uri.jpg",
+          "actor": "VickyKaushal",
+          "name": "Uri: The Surgical Strike",
+          "summary": "Based on true events, an Indian Army special forces unit avenges a deadly terrorist attack with a meticulously planned surgical strike.",
+          "language": "Hindi",
+          "genre": ["Action", "War", "Drama"]
+        },
+        {
+          "poster": "ActorMoviePosters/VickyKaushal/Masaan.jpg",
+          "actor": "VickyKaushal",
+          "name": "Masaan",
+          "summary": "Two separate stories of love, loss, and redemption unfold in the ghats of Varanasi, exploring social taboos and personal struggles.",
+          "language": "Hindi",
+          "genre": ["Drama", "Romance"]
+        },
+        {
+          "poster": "ActorMoviePosters/VickyKaushal/SardarUdham.jpg",
+          "actor": "VickyKaushal",
+          "name": "Sardar Udham",
+          "summary": "The gripping story of revolutionary Udham Singh, who avenged the Jallianwala Bagh massacre by assassinating Michael O'Dwyer in London.",
+          "language": "Hindi",
+          "genre": ["Biography", "Historical", "Drama"]
+        },
+        {
+          "poster": "ActorMoviePosters/VickyKaushal/Raazi.jpg",
+          "actor": "VickyKaushal",
+          "name": "Raazi",
+          "summary": "A young Indian woman is trained as a spy and marries into a Pakistani military family to gather intelligence before the 1971 war.",
+          "language": "Hindi",
+          "genre": ["Thriller", "Drama", "Spy"]
+        },
+        {
+          "poster": "ActorMoviePosters/VickyKaushal/Sanju.jpg",
+          "actor": "VickyKaushal",
+          "name": "Sanju",
+          "summary": "A biopic on Bollywood actor Sanjay Dutt, showcasing his struggles, controversies, and journey through fame and hardship.",
+          "language": "Hindi",
+          "genre": ["Biography", "Drama"]
+        }
+      
+      
+
+]

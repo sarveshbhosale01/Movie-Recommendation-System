@@ -1,0 +1,25 @@
+.Footer-icon
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 650px;
+    gap: 12px;
+    size: 120px;
+}
+
+
+.Footer-container
+{
+    background: linear-gradient(to bottom right, #000000 ,#000000);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    max-width: 1800px;
+    width: 100%;
+}
+.Footer-statement  
+{
+    text-align: center;
+
+}

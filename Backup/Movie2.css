@@ -1,0 +1,562 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+body{
+    font-family: "Poppins";
+    margin: 0;
+   
+}
+/* Anime Slider Styles */
+.Movie-slider-container {
+  padding: 50px;
+  background: linear-gradient(to bottom right, #198eee ,#C5FFF8);
+  box-shadow: 0 4px 10px rgba(17, 16, 16, 0.611);
+  margin-bottom: 12px;
+  border-radius: 10px;
+  overflow: hidden; /* Hides the horizontal scrollbar */
+  position: relative;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.Movie-slider-track {
+  display: flex;
+  gap: 20px;
+  animation: move-left 10s linear infinite;
+}
+
+.Movie-slider-track:hover {
+  animation-play-state: paused; /* Pause animation on hover */
+}
+
+@keyframes move-left {
+  0% {
+    transform: translateX(30%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+.Movie-sliderwrapper {
+  margin-top: 0px !important;
+}
+.Movie-sliderwrapper h1 {
+  text-align: center;
+  font-family :"Poppins";
+  font-weight: 1700;
+  font-size: 50px;
+  color: white !important;
+}
+.Movie-sliderwrapper p {
+  text-align: center;
+  font-family :system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+  font-size: 28px;
+  color: #0195ff9e !important;
+}
+
+
+
+
+/* Anime Box Styles */
+.Movie-box {
+  display: flex;
+  width: 100%;
+  max-width: 600px;
+  border: 1px solid transparent;
+  border-radius: 1px;
+  overflow: hidden;
+  background-color: #fff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  position: relative;
+  z-index: 1;
+  flex-shrink: 0; /* Prevent items from shrinking */
+  background: linear-gradient(to bottom right, #0195ff,#97ccfa);
+  border-radius: 52px;
+
+
+}
+
+.Movie-box:hover {
+  transform: scale(1.1);
+  box-shadow: 0 6px 12px rgb(0, 0, 0);
+  z-index: 2;
+}
+
+.Movie-box:hover ~ .Movie-box {
+  filter: blur(4px);
+  transform: translateY(100%);
+}
+
+
+
+
+/* Anime Details */
+
+.Movie-poster {
+  width: 40%;
+  height: 100%;
+  object-fit: cover;
+  border-right: 1px solid #ddd;
+}
+.Movie-info {
+  padding: 18px;
+  text-align: center;
+  width: 60%;
+  position: relative;
+}
+
+.Movie-info h2 {
+  font-size: 35px;
+  margin-bottom: 20px;
+  font-family:"Poppins";
+  color: #FAFFAF;
+}
+
+.Movie-info p {
+  font-family:"Poppins";
+  margin: 5px 0;
+  font-size: 15px;
+  text-align: left;
+  color: #d0e9ff !important;
+}
+
+.Movie-info p:hover {
+  color: #000000;
+  font-size: 20px;
+}
+
+
+
+
+/* Anime Buttons */
+.Movie-buttons {
+  display: flex;
+  gap: 10px;
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  padding: 18px 12px;
+  font-size: 14px;
+  width: 100%;
+  text-align: center;
+}
+
+
+.Movie-box:hover .WebSeries-buttons {
+  opacity: 1;
+}
+
+.Movie-Trailer{
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: #0d8cfa;
+  color: #fff;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  padding: 10px 10px;
+}
+
+.Movie-Trailer:hover {
+  background-color: #a7f1dc;
+  transform: scale(1.1);
+}
+
+
+
+/*Anime NavigationButtons*/
+.Movie-navigationButtons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px; /* Adds space between buttons */
+  margin-bottom: 80px;
+  margin-top: 80px;
+  font-family: "Poppins" !important;
+}
+
+.Movie-navigationButtons button {
+  padding: 15px 30px;
+  font-size: 18px;
+  cursor: pointer;
+  background-color: #2504fb91;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.Movie-navigationButtons button:hover {
+  background-color: #F4FFC3;
+  color: black;
+}
+
+
+/* Anime WishList-Section */
+.Movie-wishlist-section {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  
+}
+
+.Movie-wishlist-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap; /* Allows wrapping if too many items */
+  gap: 20px; /* Space between posters */
+  align-items: center;
+}
+
+.Movie-wishlist-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Movie-wishlist-button {
+  background-color: #42d762;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  color: #fff;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.Movie-wishlist-button.add {
+  background-color: #218838;
+}
+.Movie-wishlist-button.add:hover {
+  background-color: #6cec88;
+  transform: scale(1.1);
+}
+.Movie-wishlist-button.remove {
+  background-color: #f50505;
+}
+
+.Movie-wishlist-button.remove:hover {
+  background-color: #f50505;
+  transform: scale(1.1);
+}
+
+
+/*Anime FilterButtons*/
+.Movie-filter-buttons {
+  display: flex;
+  gap: 10px;
+  margin: 20px 0;
+  justify-content: center;
+}
+
+.Movie-filter-buttons button {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  background-color: #2504fb91 !important;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.Movie-filter-buttons button:hover {
+  background-color: #C5FFF8;
+}
+
+/*Anime SliderContainer*/
+.Movie-slider-container {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+.Movie-slider-track {
+  display: flex;
+  gap: 20px;
+}
+
+/* Logo Styling */
+.Movie-logo {
+  font-size: 20px !important;
+  font-weight: bold;
+  color: #2504fb91;
+  text-transform: uppercase
+}
+
+.Movie-icons li {
+  color: #96C9F4;
+}
+
+
+/* Anime Navigation Links */
+/* Anime Navigation Links */
+.Movie-Nav nav {
+  background-color: #3FA2F6;
+  color: #fff;
+  padding: 1px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 999;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.508);
+}
+
+/* Navigation List */
+.Movie-Nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  
+}
+
+.Movie-Nav ul li {
+  margin: 0;
+}
+
+/* Navigation Links */
+.Movie-Nav ul a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 8px 42px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  display: block;
+  white-space: nowrap; /* Prevents text from breaking */
+  gap: 90px;
+}
+
+.Movie-Nav ul a:hover {
+  background-color: #96C9F4;
+  border-radius: 5px;
+  color: #2504fb91;
+}
+
+/* Mobile Menu Button */
+.Movie-toggle {
+  display: none;
+  font-size: 28px;
+  cursor: pointer;
+  background: none;
+  border: none;
+  color: white;
+}
+
+/* Logo Styling */
+.Movie-Nav .logo {
+  font-size: 25px !important;
+  font-weight: bold;
+  color: #2504fb91 ;
+  text-transform: uppercase;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 1024px) {
+  .Movie-Nav ul a {
+    font-size: 14px;
+    padding: 6px 12px;
+  }
+}
+
+@media (max-width: 900px) {
+  .Movie-toggle {
+    display: block;
+  }
+  .Movie-Nav ul a {
+    font-size: 10px;
+    padding: 5px 10px;
+  }
+  @media (max-width: 600px) {
+    .Movie-Nav nav {
+      padding: 10px;
+    }
+    .Movie-Nav ul a {
+      font-size: 6px;
+      padding: 4px 8px;
+    }
+  
+    .Movie-Nav .logo {
+      font-size: 18px;
+    }
+  
+    .Movie-Nav ul a {
+      font-size: 14px;
+      padding: 10px;
+    }
+  }
+
+  .Movie-Nav ul {
+    display: none;
+    flex-direction: column;
+    background-color: #333;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+  }
+
+  .Movie-Nav ul.active {
+    display: flex;
+  }
+
+  .Movie-Nav ul a {
+    font-size: 16px;
+    padding: 6px 12px;
+  }
+}
+
+
+
+
+
+/* Anime Left Links Container */
+.Movie-links {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* Anime Right Links Container */
+.Movie-link2 {
+  display: flex;
+  align-items: center;
+}
+
+/* Center Toggle Button */
+.MovieThemeToggle {
+  position: absolute;
+  left: 80%;
+  transform: translateX(-50%);
+  cursor: pointer;
+  font-size: 24px;
+  color: #000000;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.MovieThemeToggle:hover {
+  color: #fff;
+  transform: scale(1.1);
+}
+
+.Movie-filter-buttons {
+  display: flex;
+  gap: 10px;
+  margin: 20px 0;
+  justify-content: center;
+}
+
+.Movie-filter-buttons button {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  background-color: #2504fb91 !important;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.Movie-filter-buttons button {
+  background-color: white;
+}
+
+.Movie-filter-buttons button:hover {
+  background-color: white !important;
+  color: black;
+}
+
+.Movie-logo a {
+  font-size: 25px !important;
+  font-weight: bold !important;
+  text-transform: uppercase !important;
+  color: #0F67B1 !important;
+  letter-spacing: 10px !important;
+  text-decoration: none !important;
+}
+
+.Movie-logo a:hover {
+  color: #199ffe !important;
+}
+.Movie-sliderwrapper {
+  margin-top: 80px; /* Same height as the navbar */
+}
+
+.Movie-slider {
+  display: flex;
+  transition: transform 1s ease;
+}
+
+.Movie-slider img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
+.Movie-icons {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.icon {
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.Movie-icons:hover .icon {
+  transform: scale(1.1);
+}
+
+
+/* Light Mode */
+.light-mode .Movie-FrontPage {
+  background-color: #1d8ff3 !important;  
+  color: black !important;
+}
+
+.light-mode .Movie-FrontPage h1
+{
+  color: rgb(0, 0, 0) ;
+}
+.light-mode .Movie-FrontPage p {
+  color: #ffffff !important ;
+}
+
+/* Dark Mode */
+.dark-mode .Movie-FrontPage {
+  background-color: black !important;  
+}
+
+.dark-mode .Movie-FrontPage h1
+{
+  color: #1d8ff3 !important;
+}
+.dark-mode .WebSeries-FrontPage p {
+  color: #ffffff !important;
+}
+.dark-mode .Movie-filter-buttons button
+{
+  background-color: #189efe !important;
+}
+.dark-mode .Movie-navigationButtons button
+{
+  background-color: #189efe !important;
+}
+.dark-mode .Movie-navigationButtons button:hover
+{
+  background-color: #ffffff !important;
+}
+.dark-mode .Movie-filter-buttons button:hover
+{
+  background-color: #ffffff !important;
+}
+
+/* Smooth Transition */
+.Movie-FrontPage {
+  transition: background-color 0.6s ease, color 0.3s ease;
+}
+
+
